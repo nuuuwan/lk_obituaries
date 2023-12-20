@@ -1,6 +1,6 @@
 from lk_obituaries import SOURCE_LIST, ReadMe
 
-N_UNCRAWLED = 28
+N_UNCRAWLED = 7
 
 
 def main():
