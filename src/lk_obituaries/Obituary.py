@@ -3,7 +3,7 @@ import re
 from dataclasses import dataclass
 from functools import cached_property
 
-from utils import JSONFile, Log, Time, TimeFormat
+from utils import JSONFile, Log, Time, TimeFormat, hashx
 
 log = Log('Obituary')
 
@@ -14,7 +14,6 @@ class Obituary:
 
     newspaper_id: str
     ut: int
-    i: int
     url: str
     raw_text: str
 
@@ -23,7 +22,6 @@ class Obituary:
             ut=self.ut,
             date_str=self.date_str,
             newspaper_id=self.newspaper_id,
-            i=self.i,
             url=self.url,
             raw_text=self.raw_text,
         )
@@ -33,10 +31,13 @@ class Obituary:
         return Obituary(
             ut=int(d['ut']),
             newspaper_id=d['newspaper_id'],
-            i=int(d['i']),
             url=d['url'],
             raw_text=d['raw_text'],
         )
+
+    @cached_property
+    def md5(self) -> str:
+        return hashx.md5(str(self.to_dict()))
 
     @cached_property
     def date_str(self) -> str:
@@ -54,6 +55,7 @@ class Obituary:
     @cached_property
     def cleaned_text(self) -> str:
         s = self.raw_text
+        s = s.replace('\n', ' ')
         s = re.sub(r'\s+', ' ', s)
         s = s.strip()
         return s
@@ -80,7 +82,7 @@ class Obituary:
     def file_only(self) -> str:
         return (
             f'{self.date_str}-{self.newspaper_id}'
-            + f'-{self.i}-{self.person_id}.json'
+            + f'-{self.md5[:4]}-{self.person_id}.json'
         )
 
     @cached_property
@@ -92,16 +94,7 @@ class Obituary:
         return self.data_path.replace('\\', '/')
 
     def __lt__(self, other):
-        if self.ut != other.ut:
-            return self.ut < other.ut
-
-        if self.newspaper_id != other.newspaper_id:
-            return self.newspaper_id < other.newspaper_id
-
-        if self.i != other.i:
-            return self.i < other.i
-
-        return 0
+        return self.data_path < other.data_path
 
     @staticmethod
     def list_all() -> list['Obituary']:

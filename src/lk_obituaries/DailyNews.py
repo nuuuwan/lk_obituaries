@@ -46,11 +46,10 @@ class DailyNews(NewsPaper):
         soup = WWW(self.url2).soup
         div = soup.find('div', id='penci-post-entry-inner')
         obituary_list = []
-        for i, p in enumerate(div.find_all('p')):
+        for p in div.find_all('p'):
             obituary = Obituary(
                 newspaper_id=self.__class__.get_id(),
                 ut=self.time.ut,
-                i=i,
                 url=self.url2,
                 raw_text=p.text,
             )
