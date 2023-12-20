@@ -52,7 +52,7 @@ class Obituary:
 
     @property
     def file_only(self) -> str:
-        return f'{self.date_str}-{self.newspaper_id}-{self.i}-{self.raw_text_start}.json'
+        return f'{self.date_str}-{self.newspaper_id}'+f'-{self.i}-{self.raw_text_start}.json'
 
     @property
     def data_path(self) -> str:
