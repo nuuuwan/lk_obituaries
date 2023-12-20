@@ -49,7 +49,13 @@ class ReadMe:
         ) in cls.get_obituary_list_by_date().items():
             month_str = date_str_file[0:7]
             if month_str != prev_month_str:
-                inner_lines.append('')
+                inner_lines.extend(
+                    [
+                        '',
+                        f'#### {month_str}',
+                        '',
+                    ]
+                )
             prev_month_str = month_str
 
             url = os.path.join(
