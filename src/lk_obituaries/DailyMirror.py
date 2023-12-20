@@ -41,7 +41,7 @@ class DailyMirror(NewsPaper):
 
             obituary = Obituary(
                 newspaper_id=self.__class__.get_id(),
-                ut=ut,
+                ut=int(ut),
                 url=url,
                 raw_title=h3.text,
                 raw_body=p.text,

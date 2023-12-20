@@ -56,7 +56,7 @@ class DailyNews(NewsPaper):
                 continue
             obituary = Obituary(
                 newspaper_id=self.__class__.get_id(),
-                ut=self.time.ut,
+                ut=int(self.time.ut),
                 url=self.url2,
                 raw_title=strong.text,
                 raw_body=p.text,
