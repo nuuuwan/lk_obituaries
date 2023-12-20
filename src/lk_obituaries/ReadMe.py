@@ -1,7 +1,7 @@
 from utils import TIME_FORMAT_TIME, File, Log, Time
 
-from lk_obituaries.Obituary import Obituary
 from lk_obituaries.NewsPaperFactory import NewsPaperFactory
+from lk_obituaries.Obituary import Obituary
 
 log = Log('ReadMe')
 
