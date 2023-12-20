@@ -51,9 +51,7 @@ class ReadMe:
                 inner_lines.extend([f'### {month_str}', ''])
                 prev_month_str = month_str
 
-            inner_lines.append(
-                f'* [{obituary.title}]({obituary.data_path_unix})'
-            )
+            inner_lines.append(f'* {obituary.md_link}')
 
         return (
             [

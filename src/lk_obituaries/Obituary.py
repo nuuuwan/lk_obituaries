@@ -60,16 +60,18 @@ class Obituary:
         return self.cleaned_text.split()
 
     @cached_property
-    def person_name(self) -> str:
-        return ' '.join(self.words[0:1]).title()
-
-    @cached_property
     def person_id(self) -> str:
         return self.words[0].lower()
 
     @cached_property
-    def title(self) -> str:
-        return f'[{self.newspaper_id}] {self.person_name}'
+    def summary(self) -> str:
+        MAX_SUMMARY_LEN = 64
+        s = self.cleaned_text
+        return s[:MAX_SUMMARY_LEN] + '...'
+
+    @cached_property
+    def md_link(self):
+        return f'{self.summary} [{self.newspaper_id}]({self.data_path_unix})'
 
     @cached_property
     def file_only(self) -> str:
