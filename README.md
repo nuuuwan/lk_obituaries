@@ -2,13 +2,13 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2023-12-20 13:58:40**.
+Last run at **2023-12-20 14:00:38**.
 
 ## Sources
 
 * [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (10)
+## List of Obituaries (11)
 
 ### 2023
 
@@ -38,3 +38,7 @@ Last run at **2023-12-20 13:58:40**.
 ##### 2023-12-12
 
 * [daily-news](data/2023-12-12/daily-news/2023-12-12-daily-news-0-mrs..json) MRS. REGINA ANANDA (nee GANHEWAGE) – Beloved wife of late Air Co...
+
+##### 2023-12-11
+
+* [daily-news](data/2023-12-11/daily-news/2023-12-11-daily-news-0-ganhewa.json) GANHEWA – THUSITHA LALITH – Beloved husband of Dilmini, loving b...
