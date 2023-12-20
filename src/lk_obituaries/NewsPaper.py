@@ -54,11 +54,20 @@ class NewsPaper:
         )
 
     def crawl(self):
-        log.info(f'🤖 Crawling {self.date_str_file}')
+        if os.path.exists(self.data_path):
+            log.warning(f'🟡 Already crawled {self.date_str_file}')
+            return
+
+        log.debug(f'Crawling {self.date_str_file}...')
         obituary_list = self.obituary_list
+
+        if len(obituary_list) == 0:
+            log.warning(f'🔴 No obituaries found for {self.date_str_file}')
+            return
+
         data_list = [obituary.dict for obituary in obituary_list]
         JSONFile(self.data_path).write(data_list)
-        log.info(f'✅ Wrote {len(obituary_list)} records to {self.data_path}')
+        log.info(f'🟢 Wrote {len(obituary_list)} records to {self.data_path}')
 
     @classmethod
     def crawl_today(cls):

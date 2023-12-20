@@ -8,13 +8,15 @@ log = Log('WWW')
 
 
 class WWW:
+    TIMEOUT = 60
+    
     def __init__(self, url: str):
         self.url = url
 
     @cached_property
     def html(self) -> str:
         log.debug(f'Crawling {self.url}')
-        return requests.get(self.url).text
+        return requests.get(self.url, timeout=WWW.TIMEOUT).text
 
     @property
     def soup(self):

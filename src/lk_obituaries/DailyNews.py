@@ -40,7 +40,6 @@ class DailyNews(NewsPaper):
     @cached_property
     def obituary_list(self) -> list[Obituary]:
         if self.url2 is None:
-            log.warning(f'No obituaries found for {self.date_str}')
             return []
         soup = WWW(self.url2).soup
         div = soup.find('div', id='penci-post-entry-inner')
