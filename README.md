@@ -8,7 +8,7 @@ Crawls data about Obituaries in Sri Lanka.
 
 ## Obituaries
 
-### Daily News (152)
+### Daily News (162)
 
 #### 2023-12
 
@@ -91,3 +91,8 @@ Crawls data about Obituaries in Sri Lanka.
 * [2023-09-12](data/daily-news/2023-09-12.json) (2)
 * [2023-09-11](data/daily-news/2023-09-11.json) (1)
 * [2023-09-09](data/daily-news/2023-09-09.json) (2)
+* [2023-09-08](data/daily-news/2023-09-08.json) (2)
+* [2023-09-07](data/daily-news/2023-09-07.json) (1)
+* [2023-09-05](data/daily-news/2023-09-05.json) (2)
+* [2023-09-04](data/daily-news/2023-09-04.json) (1)
+* [2023-09-02](data/daily-news/2023-09-02.json) (4)
