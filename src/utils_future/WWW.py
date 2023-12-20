@@ -9,7 +9,7 @@ log = Log('WWW')
 
 class WWW:
     TIMEOUT = 60
-    
+
     def __init__(self, url: str):
         self.url = url
 
