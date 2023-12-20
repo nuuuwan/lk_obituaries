@@ -1,5 +1,7 @@
 import os
+import re
 from dataclasses import dataclass
+from functools import cached_property
 
 from utils import JSONFile, Log, Time, TimeFormat
 
@@ -33,11 +35,11 @@ class Obituary:
             raw_text=d['raw_text'],
         )
 
-    @property
+    @cached_property
     def date_str(self) -> str:
         return TimeFormat('%Y-%m-%d').stringify(Time(self.ut))
 
-    @property
+    @cached_property
     def dir_data(self) -> str:
         dir_data = os.path.join(
             Obituary.DIR_DATA, self.date_str, self.newspaper_id
@@ -46,15 +48,37 @@ class Obituary:
             os.makedirs(dir_data)
         return dir_data
 
-    @property
-    def raw_text_start(self) -> str:
-        return self.raw_text.strip().partition(' ')[0].lower()
+    @cached_property
+    def cleaned_text(self) -> str:
+        s = self.raw_text
+        s = re.sub(r'\s+', ' ', s)
+        s = s.strip()
+        return s
 
-    @property
+    @cached_property
+    def words(self) -> list[str]:
+        return self.cleaned_text.split()
+
+    @cached_property
+    def person_name(self) -> str:
+        return ' '.join(self.words[0:1]).title()
+
+    @cached_property
+    def person_id(self) -> str:
+        return self.words[0].lower()
+
+    @cached_property
+    def title(self) -> str:
+        return f'[{self.newspaper_id}] {self.person_name}'
+
+    @cached_property
     def file_only(self) -> str:
-        return f'{self.date_str}-{self.newspaper_id}'+f'-{self.i}-{self.raw_text_start}.json'
+        return (
+            f'{self.date_str}-{self.newspaper_id}'
+            + f'-{self.i}-{self.person_id}.json'
+        )
 
-    @property
+    @cached_property
     def data_path(self) -> str:
         return os.path.join(self.dir_data, f'{self.file_only}')
 
