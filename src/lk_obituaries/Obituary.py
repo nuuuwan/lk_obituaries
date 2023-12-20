@@ -82,6 +82,10 @@ class Obituary:
     def data_path(self) -> str:
         return os.path.join(self.dir_data, f'{self.file_only}')
 
+    @cached_property
+    def data_path_unix(self) -> str:
+        return self.data_path.replace('\\', '/')
+
     def __lt__(self, other):
         if self.ut != other.ut:
             return self.ut < other.ut

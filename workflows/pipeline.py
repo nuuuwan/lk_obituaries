@@ -4,7 +4,7 @@ N_UNCRAWLED = 28
 
 
 def main():
-    for cls in SOURCE_LIST[1:]:
+    for cls in SOURCE_LIST:
         cls.crawl_today()
         cls.crawl_uncrawled(N_UNCRAWLED)
 
