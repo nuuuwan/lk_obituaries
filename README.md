@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2023-12-20 17:04:35**.
+Last run at **2023-12-20 17:35:36**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (225)
+## List of Obituaries (258)
 
 ### 2023
 
@@ -541,3 +541,89 @@ Last run at **2023-12-20 17:04:35**.
 ##### 2023-08-03
 
 * 📰 [Daily News](data/2023-08-03/daily-news/2023-08-03-daily-news-30eb8724.json) Ekanayake – Sita Rosalin (Nee Samarakoon)
+
+#### 2023-07
+
+##### 2023-07-29
+
+* 📰 [Daily News](data/2023-07-29/daily-news/2023-07-29-daily-news-31e6d771.json) Pietersz,​ Celeste Bonaventure Lawrence
+
+##### 2023-07-28
+
+* 📰 [Daily News](data/2023-07-28/daily-news/2023-07-28-daily-news-f4dc90a4.json) Goonesekera,​ Annette
+
+##### 2023-07-26
+
+* 📰 [Daily News](data/2023-07-26/daily-news/2023-07-26-daily-news-e187d6c9.json) Kaduruwane – Cuda
+* 📰 [Daily News](data/2023-07-26/daily-news/2023-07-26-daily-news-9a03e7b7.json) Abeywickrema Sumith –
+
+##### 2023-07-25
+
+* 📰 [Daily News](data/2023-07-25/daily-news/2023-07-25-daily-news-b3b82950.json) Sanderatne – Amal,
+
+##### 2023-07-22
+
+* 📰 [Daily News](data/2023-07-22/daily-news/2023-07-22-daily-news-e583a001.json) Abeykoon – Indrani
+* 📰 [Daily News](data/2023-07-22/daily-news/2023-07-22-daily-news-88c5801e.json) De Alwis – Felicia Fortune (Nee’ Kodagoda)
+* 📰 [Daily News](data/2023-07-22/daily-news/2023-07-22-daily-news-01d6a994.json) Joe (Nage) Victoria
+
+##### 2023-07-21
+
+* 📰 [Daily News](data/2023-07-21/daily-news/2023-07-21-daily-news-6e497a52.json) Gomes – Mignonne (Nee Rasquinho)
+* 📰 [Daily News](data/2023-07-21/daily-news/2023-07-21-daily-news-3d6d20c4.json) Joe (Nage) Victoria
+
+##### 2023-07-20
+
+* 📰 [Daily News](data/2023-07-20/daily-news/2023-07-20-daily-news-ea331787.json) Samarasekera – Mrs Nellie
+* 📰 [Daily News](data/2023-07-20/daily-news/2023-07-20-daily-news-2763efba.json) Captain Galhenage Rupadeva
+* 📰 [Daily News](data/2023-07-20/daily-news/2023-07-20-daily-news-088dae30.json) Gomes – Mignonne
+
+##### 2023-07-19
+
+* 📰 [Daily News](data/2023-07-19/daily-news/2023-07-19-daily-news-99d1161e.json) Samarasekera – Mrs Nellie
+* 📰 [Daily News](data/2023-07-19/daily-news/2023-07-19-daily-news-5a922141.json) Eva – M.K. Theresa Eva Silva
+
+##### 2023-07-18
+
+* 📰 [Daily News](data/2023-07-18/daily-news/2023-07-18-daily-news-df0fd48d.json) Christaline Philips
+
+##### 2023-07-17
+
+* 📰 [Daily News](data/2023-07-17/daily-news/2023-07-17-daily-news-e23a6f3e.json) Jayamanna – Prema
+* 📰 [Daily News](data/2023-07-17/daily-news/2023-07-17-daily-news-4b316b2a.json) Philips – Gunam
+* 📰 [Daily News](data/2023-07-17/daily-news/2023-07-17-daily-news-44fc9719.json) Fernando – Lion Capt. Jermyn L.C.
+
+##### 2023-07-14
+
+* 📰 [Daily News](data/2023-07-14/daily-news/2023-07-14-daily-news-e6cd38d5.json) Nita Clarice Fernando (Shirley)
+* 📰 [Daily News](data/2023-07-14/daily-news/2023-07-14-daily-news-bf2b8526.json) Siriwardene Savithrie (Nee Abeysekera)
+* 📰 [Daily News](data/2023-07-14/daily-news/2023-07-14-daily-news-61fc3ea3.json) Mahasen Wijesundera
+* 📰 [Daily News](data/2023-07-14/daily-news/2023-07-14-daily-news-453c7070.json) Sivanandarajah – S. (S. Rajah)
+
+##### 2023-07-13
+
+* 📰 [Daily News](data/2023-07-13/daily-news/2023-07-13-daily-news-b974c10b.json) Sivanandarajah – S. (S. Rajah)
+
+##### 2023-07-12
+
+* 📰 [Daily News](data/2023-07-12/daily-news/2023-07-12-daily-news-bd85bc45.json) Ratwatte – Ajit,​
+* 📰 [Daily News](data/2023-07-12/daily-news/2023-07-12-daily-news-58ae3e5a.json) Adikariwattage – Dr. Lloyd
+* 📰 [Daily News](data/2023-07-12/daily-news/2023-07-12-daily-news-068f2498.json) Pieris – In Loving Memorial Of Michael (Slbc/​Itn)
+
+##### 2023-07-11
+
+* 📰 [Daily News](data/2023-07-11/daily-news/2023-07-11-daily-news-9c0bf284.json) Silva – W.T.D.
+* 📰 [Daily News](data/2023-07-11/daily-news/2023-07-11-daily-news-0d51254d.json) Suntharaluxmy – Selvarajah (Sunthara)
+
+##### 2023-07-10
+
+* 📰 [Daily News](data/2023-07-10/daily-news/2023-07-10-daily-news-9f5ab2a2.json) Shamal Preethie Cooray (Nee Bandaratilleke)
+* 📰 [Daily News](data/2023-07-10/daily-news/2023-07-10-daily-news-068808aa.json) Silva – W.T.D.
+
+##### 2023-07-08
+
+* 📰 [Daily News](data/2023-07-08/daily-news/2023-07-08-daily-news-76eb4806.json) Wijetunge – M.H.D. Tissa
+
+##### 2023-07-07
+
+* 📰 [Daily News](data/2023-07-07/daily-news/2023-07-07-daily-news-ed8012fa.json) Rev. Sister Mary Angela Merici
