@@ -16,7 +16,7 @@ class WWW:
     @cached_property
     def html(self) -> str:
         log.debug(f'Crawling {self.url}')
-        return requests.get(self.url, timeout=WWW.TIMEOUT).text
+        return requests.get(self.url, timeout=WWW.TIMEOUT).content
 
     @property
     def soup(self):
