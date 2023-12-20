@@ -1,7 +1,6 @@
-import os
-
 from utils import TIME_FORMAT_TIME, File, Log, Time
 
+from lk_obituaries.Obituary import Obituary
 from lk_obituaries.SOURCE_LIST import SOURCE_LIST
 
 log = Log('ReadMe')
@@ -13,6 +12,7 @@ class ReadMe:
     @property
     def intro_lines(self) -> list[str]:
         time_str = TIME_FORMAT_TIME.stringify(Time.now())
+
         return [
             '# Obituaries (Sri Lanka)',
             '',
@@ -37,47 +37,27 @@ class ReadMe:
             + ['']
         )
 
-    @staticmethod
-    def get_data_lines_for_source(cls) -> list[str]:
-        data_list = cls.get_obituary_list()
-        n = len(data_list)
-        inner_lines = [
-            f'### {cls.get_name()} ({n:,})',
-        ]
-
-        prev_month_str = None
-        for (
-            date_str_file,
-            data_list2,
-        ) in cls.get_obituary_list_by_date().items():
-            month_str = date_str_file[0:7]
-            if month_str != prev_month_str:
-                inner_lines.extend(
-                    [
-                        '',
-                        f'#### {month_str}',
-                        '',
-                    ]
-                )
-            prev_month_str = month_str
-
-            url = os.path.join(
-                cls.get_dir_data(), f'{date_str_file}.json'
-            ).replace('\\', '/')
-            inner_lines.append(
-                f'* [{date_str_file}]({url}) ({len(data_list2):,})'
-            )
-        return inner_lines
-
     @property
     def data_lines(self) -> list[str]:
         inner_lines = []
-        for cls in SOURCE_LIST:
-            inner_lines.extend(self.get_data_lines_for_source(cls))
+        obituary_list = Obituary.list_all()
+        n = len(obituary_list)
+
+        prev_month_str = None
+        for obituary in obituary_list:
+            date_str = obituary.date_str
+            month_str = date_str[:7]
+            if month_str != prev_month_str:
+                inner_lines.extend([f'### {month_str}', ''])
+                prev_month_str = month_str
+
+            inner_lines.append(
+                f'* [{obituary.file_only}]({obituary.data_path})'
+            )
 
         return (
             [
-                '## Obituaries',
+                f'## List of Obituaries ({n:,})',
                 '',
             ]
             + inner_lines

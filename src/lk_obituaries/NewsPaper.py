@@ -1,7 +1,6 @@
-import os
 from functools import cached_property
 
-from utils import SECONDS_IN, JSONFile, Log, Time, TimeFormat
+from utils import SECONDS_IN, Log, Time, TimeFormat
 
 from lk_obituaries.Obituary import Obituary
 
@@ -23,13 +22,6 @@ class NewsPaper:
     def get_id(cls) -> str:
         return cls.get_name().replace(' ', '-').lower()
 
-    @classmethod
-    def get_dir_data(cls) -> str:
-        dir_data = os.path.join('data', cls.get_id())
-        if not os.path.exists(dir_data):
-            os.makedirs(dir_data)
-        return dir_data
-
     def __init__(self, delta_days: int):
         self.delta_days = delta_days
 
@@ -47,27 +39,19 @@ class NewsPaper:
     def date_str_file(self) -> str:
         return NewsPaper.TIME_FORMAT_FILE.stringify(self.time)
 
-    @cached_property
-    def data_path(self) -> str:
-        return os.path.join(
-            self.__class__.get_dir_data(), f'{self.date_str_file}.json'
-        )
+    @classmethod
+    def get_first_delta_days(cls):
+        obituary_list = Obituary.list_for_newspaper(cls.get_id())
+        first_ut = obituary_list[-1].ut
+        return int((Time.now().ut - first_ut) / SECONDS_IN.DAY)
 
     def crawl(self):
-        if os.path.exists(self.data_path):
-            log.warning(f'🟡 Already crawled {self.date_str_file}')
-            return
+        log.debug(
+            f'[crawl] {self.__class__.get_id()}-{self.date_str_file}...'
+        )
 
-        log.debug(f'Crawling {self.date_str_file}...')
-        obituary_list = self.obituary_list
-
-        if len(obituary_list) == 0:
-            log.warning(f'🔴 No obituaries found for {self.date_str_file}')
-            return
-
-        data_list = [obituary.dict for obituary in obituary_list]
-        JSONFile(self.data_path).write(data_list)
-        log.info(f'🟢 Wrote {len(obituary_list)} records to {self.data_path}')
+        for obituary in self.obituary_list:
+            obituary.write()
 
     @classmethod
     def crawl_today(cls):
@@ -78,35 +62,6 @@ class NewsPaper:
         for delta_days in range(min_delta_days, max_delta_days + 1):
             log.debug(f'[crawl_range] {delta_days}/{max_delta_days}')
             cls(delta_days).crawl()
-
-    @classmethod
-    def get_obituary_list(cls) -> list[Obituary]:
-        dir_data = cls.get_dir_data()
-        all_obituary_list = []
-        for file_only in os.listdir(dir_data):
-            file_path = os.path.join(dir_data, file_only)
-            data_list = JSONFile(file_path).read()
-            obituary_list = [Obituary(**data) for data in data_list]
-            all_obituary_list.extend(obituary_list)
-        log.info(f'Loaded {len(all_obituary_list)} records from {dir_data}')
-        all_obituary_list.sort(reverse=True)
-        return all_obituary_list
-
-    @classmethod
-    def get_obituary_list_by_date(cls) -> dict[str, list[Obituary]]:
-        idx = {}
-        for obituary in cls.get_obituary_list():
-            date_str = obituary.date_str_file
-            if date_str not in idx:
-                idx[date_str] = []
-            idx[date_str].append(obituary)
-        return idx
-
-    @classmethod
-    def get_first_delta_days(cls):
-        obituary_list = cls.get_obituary_list()
-        first_ut = obituary_list[-1].ut
-        return int((Time.now().ut - first_ut) / SECONDS_IN.DAY)
 
     @classmethod
     def crawl_uncrawled(cls, n: int):

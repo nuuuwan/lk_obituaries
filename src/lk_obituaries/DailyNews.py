@@ -50,7 +50,6 @@ class DailyNews(NewsPaper):
             obituary = Obituary(
                 newspaper_id=self.__class__.get_id(),
                 ut=self.time.ut,
-                date_str_file=self.date_str_file,
                 i=i,
                 raw_text=p.text,
             )
