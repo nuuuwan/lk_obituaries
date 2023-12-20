@@ -77,7 +77,7 @@ class Obituary:
     def file_only(self) -> str:
         return (
             f'{self.date_str}-{self.newspaper_id}'
-            + f'-{self.md5[:4]}-{self.person_id}.json'
+            + f'-{self.md5[:8]}.json'
         )
 
     @cached_property
