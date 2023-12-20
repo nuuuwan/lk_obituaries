@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2023-12-20 14:41:44**.
+Last run at **2023-12-20 15:03:45**.
 
 ## Sources
 
-* [Daily News](https://www.dailynews.lk)
 * [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
+* [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (35)
+## List of Obituaries (72)
 
 ### 2023
 
@@ -17,41 +17,161 @@ Last run at **2023-12-20 14:41:44**.
 
 ##### 2023-12-20
 
-* [daily-news](data/2023-12-20/daily-news/2023-12-20-daily-news-fb42-dr.json) DR STANLEY WIJEYARATNE – Beloved husband of late Indranee,​ lovi...
-* [daily-news](data/2023-12-20/daily-news/2023-12-20-daily-news-e1e4-dewage.json) DEWAGE KARUNADASA – Former SPHI,​ Admin. Secretary SLFONGOADA,​ ...
-* [daily-news](data/2023-12-20/daily-news/2023-12-20-daily-news-1db8-jayawardhana.json) JAYAWARDHANA – Major General Deshamanya ASOKA KANTHILAL,​ (Forme...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-efb1-was.json) Was called to eternal rest on Monday, and a private funeral was ...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-ebed-beloved.json) beloved husband of Marhooma Nona Juhaira (Binkie), loving father...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-eb62-beloved.json) Beloved wife of the late Mervyn, mother of Gordon, Norman and Gi...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-e8c7-at.json) At rest with Jesus. Beloved wife of late Reggie Bolling, step-mo...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-e184-wijemanne.json) WIJEMANNE - VASANTHA SIVALI. Cherished son of late Fairlie and M...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-df3e-expired.json) Expired - Loving wife of (late) Henry Oswald, loving daughter of...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-dbb5-beloved.json) Beloved wife of the late Vinne, loving mother of Mark and Tania,...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-d43b-dharmawardeνα.json) DHARMAWARDEΝΑ KOLITHA INDRAJITH. (Senior Attorney-at-Law), (Non-...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-d261-was.json) Was called to rest in the arms of his Savior on 12th Dec 2023 Wi...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-b73b-of.json) of the archdiocese of Colombo, expired on Monday the 30th Octobe...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-a5f4-it.json) It is with profound sadness that we note the peaceful passing of...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-a184-safe.json) Safe in the arms of Jesus. Loving wife of Kingston, daughter of ...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-9f80-caryl.json) Caryl Aloma Jayasuriya, born June 7, 1941, retired Deputy Genera...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-954c-beloved.json) Beloved husband of Kusum, much loved father of Sandamalee and Wa...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-934a-jayasekara.json) JAYASEKARA - MR. AJITH (FISF). Former secretary of Industrial Se...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-8d29-beloved.json) Beloved Husband of Sharmaine. Dearly beloved Father of Sharin & ...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-8a59-beloved.json) Beloved husband of Malkanthi (nee) Bakkegoda, darling father of ...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-6db2-wife.json) Wife of late S.C. Pathirana (DIG), mother of Dammi Pathirana and...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-5de4-omi..json) OMI. Who was living out his retirement at Marian grove in Kohuwa...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-591d-it.json) It is with deep sorrow that we announce the peaceful passing of ...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-4ac7-beloved.json) Beloved son of late Welikadage William Perera and late Dona Abey...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-49ad-wife.json) Wife of late Philip Anandappa, loving mother of Mariette and Edg...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-42c3-retired.json) Retired senior superintendent of police, at rest with Jesus. Bel...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-426c-it.json) It is with deep regret that we announce the untimely demise of M...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-300e-chairman.json) Chairman of Best Holidays (Pvt) Ltd. on the 01st of December 202...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-2a0c-beloved.json) Beloved wife of Lakshman (Chairman, E.H. Cooray and Sons Ltd/Lak...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-218b-ekanayake.json) EKANAYAKE - DAWN, passed away on 4th December 2023 peacefully. S...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-1bcd-mrs..json) MRS. G.R. MAKAWITA. Wife of late retired Principal Mr. P. Widana...
-* [daily-mirror](data/2023-12-20/daily-mirror/2023-12-20-daily-mirror-0d79-former.json) Former Manager of Grindlays Bank, Country Manager of Quantas Air...
+* [daily-news](data/2023-12-20/daily-news/2023-12-20-daily-news-f7be-dewage-karunadasa.json) DEWAGE KARUNADASA
+* [daily-news](data/2023-12-20/daily-news/2023-12-20-daily-news-b587-dr-stanley-wijeyaratne.json) DR STANLEY WIJEYARATNE
+* [daily-news](data/2023-12-20/daily-news/2023-12-20-daily-news-5ea4-jayawardhana.json) JAYAWARDHANA
 
 ##### 2023-12-19
 
-* [daily-news](data/2023-12-19/daily-news/2023-12-19-daily-news-7a1d-fernando.json) FERNANDO – REV. PREMASIRI – (Methodist Church of Sri Lanka). Cal...
-* [daily-news](data/2023-12-19/daily-news/2023-12-19-daily-news-7226-jayawardhana.json) JAYAWARDHANA – Major General Deshamanya ASOKA KANTHILAL,​ (Forme...
-* [daily-news](data/2023-12-19/daily-news/2023-12-19-daily-news-7047-cooray.json) COORAY – BHADRANI – Beloved wife of Lakshman – (Chairman,​ E.H. ...
+* [daily-news](data/2023-12-19/daily-news/2023-12-19-daily-news-aa77-cooray-–-bhadrani-–-beloved-wife-of-lakshman-–.json) COORAY – BHADRANI – Beloved wife of Lakshman –
+* [daily-news](data/2023-12-19/daily-news/2023-12-19-daily-news-5bb1-fernando-–-rev.-premasiri-–.json) FERNANDO – REV. PREMASIRI –
+* [daily-mirror](data/2023-12-19/daily-mirror/2023-12-19-daily-mirror-8b4a-dushantha-de-mel.json) DUSHANTHA DE MEL
+* [daily-mirror](data/2023-12-19/daily-mirror/2023-12-19-daily-mirror-6170-cooray-bhadrani.json) COORAY Bhadrani
+
+##### 2023-12-18
+
+* [daily-news](data/2023-12-18/daily-news/2023-12-18-daily-news-e189-wijemanne-–-vasantha-sivali.json) WIJEMANNE – VASANTHA SIVALI
+* [daily-news](data/2023-12-18/daily-news/2023-12-18-daily-news-4c50-sivamani-agustyan.json) SIVAMANI AGUSTYAN
+* [daily-mirror](data/2023-12-18/daily-mirror/2023-12-18-daily-mirror-02a7-wijemanne---vasantha-sivali.json) WIJEMANNE - VASANTHA SIVALI
+
+##### 2023-12-15
+
+* [daily-news](data/2023-12-15/daily-news/2023-12-15-daily-news-a1fc-bandula-rambukwella.json) BANDULA RAMBUKWELLA
+* [daily-mirror](data/2023-12-15/daily-mirror/2023-12-15-daily-mirror-d604-mr.-aubrey-v.-raymond.json) Mr. Aubrey V. Raymond
+* [daily-mirror](data/2023-12-15/daily-mirror/2023-12-15-daily-mirror-6ead-tuan-aniff-ahamed-of-moratuwa.json) Tuan Aniff Ahamed of Moratuwa
+* [daily-mirror](data/2023-12-15/daily-mirror/2023-12-15-daily-mirror-32db-pathirana-–-lakshmi-(nee---perera).json) PATHIRANA – LAKSHMI (nee - PERERA)
+
+##### 2023-12-13
+
+* [daily-mirror](data/2023-12-13/daily-mirror/2023-12-13-daily-mirror-5f89-kishan-anil-yatawara.json) Kishan Anil Yatawara
+
+##### 2023-12-12
+
+* [daily-news](data/2023-12-12/daily-news/2023-12-12-daily-news-f497-mrs.-regina-ananda.json) MRS. REGINA ANANDA
+
+##### 2023-12-11
+
+* [daily-news](data/2023-12-11/daily-news/2023-12-11-daily-news-5e54-ganhewa-–-thusitha-lalith.json) GANHEWA – THUSITHA LALITH
+
+##### 2023-12-09
+
+* [daily-news](data/2023-12-09/daily-news/2023-12-09-daily-news-9b82-mrs-m-–-amarasekera.json) Mrs M – AMARASEKERA
+* [daily-news](data/2023-12-09/daily-news/2023-12-09-daily-news-9a7a-mr-r.g.l.-de-silva.json) Mr R.G.L. de SILVA
+
+##### 2023-12-08
+
+* [daily-news](data/2023-12-08/daily-news/2023-12-08-daily-news-8133-jayasekara-–-ajith.json) JAYASEKARA – AJITH
+* [daily-news](data/2023-12-08/daily-news/2023-12-08-daily-news-2bba-dr-a.n.-haniffa.json) Dr A.N. HANIFFA
+* [daily-mirror](data/2023-12-08/daily-mirror/2023-12-08-daily-mirror-be51-jayasekara---mr.-ajith-(fisf).json) JAYASEKARA - MR. AJITH (FISF)
+
+##### 2023-12-07
+
+* [daily-news](data/2023-12-07/daily-news/2023-12-07-daily-news-ce5c-dharmawardena-–-kolitha-indrajith.json) DHARMAWARDENA – KOLITHA INDRAJITH
+* [daily-news](data/2023-12-07/daily-news/2023-12-07-daily-news-c034-abeynayake-–-mallika.json) ABEYNAYAKE – MALLIKA
+* [daily-news](data/2023-12-07/daily-news/2023-12-07-daily-news-8d10-perera-–-o.d.-stanley-peter.json) PERERA – O.D. STANLEY PETER
+* [daily-news](data/2023-12-07/daily-news/2023-12-07-daily-news-719d-berhardt-–-john-maurice.json) BERHARDT – JOHN MAURICE
+* [daily-mirror](data/2023-12-07/daily-mirror/2023-12-07-daily-mirror-c513-dharmawardeνα-kolitha-indrajith.json) DHARMAWARDEΝΑ KOLITHA INDRAJITH
+* [daily-mirror](data/2023-12-07/daily-mirror/2023-12-07-daily-mirror-89d7-weerasuriya-loretta-clarice.json) WEERASURIYA-LORETTA CLARICE
+
+##### 2023-12-06
+
+* [daily-news](data/2023-12-06/daily-news/2023-12-06-daily-news-f8a9-labrooy-–-jude-–.json) LABROOY – JUDE –
+* [daily-news](data/2023-12-06/daily-news/2023-12-06-daily-news-db76-perera-–-nihal.json) PERERA – NIHAL
+* [daily-news](data/2023-12-06/daily-news/2023-12-06-daily-news-8a92-pussedeniya-–-y.b.json) PUSSEDENIYA – Y.B
+* [daily-news](data/2023-12-06/daily-news/2023-12-06-daily-news-45c8-berhardt-–-john-maurice.json) BERHARDT – JOHN MAURICE
+* [daily-news](data/2023-12-06/daily-news/2023-12-06-daily-news-13c4-loretta-clarice-weerasuriya.json) LORETTA CLARICE WEERASURIYA
+* [daily-mirror](data/2023-12-06/daily-mirror/2023-12-06-daily-mirror-876b-ekanayake---dawn.json) EKANAYAKE - DAWN
+
+##### 2023-12-05
+
+* [daily-news](data/2023-12-05/daily-news/2023-12-05-daily-news-d96a-kuruppu-–-hesketh.json) KURUPPU – HESKETH
+* [daily-news](data/2023-12-05/daily-news/2023-12-05-daily-news-0c1e-berhardt-–-john-maurice.json) BERHARDT – JOHN MAURICE
+* [daily-mirror](data/2023-12-05/daily-mirror/2023-12-05-daily-mirror-f174-mr.-anton-thevapalan.json) Mr. Anton Thevapalan
+
+##### 2023-12-04
+
+* [daily-news](data/2023-12-04/daily-news/2023-12-04-daily-news-8213-kuruppu-hesketh.json) KURUPPU-HESKETH
+
+##### 2023-12-02
+
+* [daily-news](data/2023-12-02/daily-news/2023-12-02-daily-news-eace-dr-wijenaike-–-amarapala.json) Dr WIJENAIKE – AMARAPALA
+* [daily-news](data/2023-12-02/daily-news/2023-12-02-daily-news-c66e-ranjith-–-gunasinghe.json) RANJITH – GUNASINGHE
+
+##### 2023-12-01
+
+* [daily-news](data/2023-12-01/daily-news/2023-12-01-daily-news-e1ba-cosmas-de-saram-–.json) COSMAS DE SARAM –
+* [daily-news](data/2023-12-01/daily-news/2023-12-01-daily-news-2121-dr-wijenaike-–-amarapala.json) Dr WIJENAIKE – AMARAPALA
+* [daily-news](data/2023-12-01/daily-news/2023-12-01-daily-news-0ae3-goonetilleke-ira.json) GOONETILLEKE IRA
+
+#### 2023-11
+
+##### 2023-11-30
+
+* [daily-news](data/2023-11-30/daily-news/2023-11-30-daily-news-8baa-bolling-–-bernadette-(bernie)-prisicilla-(nee-fernando).json) BOLLING – BERNADETTE (BERNIE) PRISICILLA (nee FERNANDO)
+* [daily-news](data/2023-11-30/daily-news/2023-11-30-daily-news-1b9c-coggins,​-elmo-c.b.json) COGGINS,​ ELMO C.B
+* [daily-news](data/2023-11-30/daily-news/2023-11-30-daily-news-07bd-betsy-–-bastians-(nee-nesamony).json) BETSY – BASTIANS (nee NESAMONY)
+* [daily-mirror](data/2023-11-30/daily-mirror/2023-11-30-daily-mirror-ade8-betsy-–-bastians-(nee-nesamony)..json) BETSY – BASTIANS (nee NESAMONY).
+* [daily-mirror](data/2023-11-30/daily-mirror/2023-11-30-daily-mirror-a3db-bolling-–-bernadette-(bernie)-prisicilla-(nee-fernando).json) BOLLING – BERNADETTE (BERNIE) PRISICILLA (nee FERNANDO)
+
+##### 2023-11-29
+
+* [daily-news](data/2023-11-29/daily-news/2023-11-29-daily-news-baa7-cosmas-de-saram.json) COSMAS DE SARAM
+* [daily-news](data/2023-11-29/daily-news/2023-11-29-daily-news-918b-webster,​-sheila-–.json) WEBSTER,​ SHEILA –
+
+##### 2023-11-28
+
+* [daily-news](data/2023-11-28/daily-news/2023-11-28-daily-news-e800-somanader-–-shirley-wignarajah.json) SOMANADER – SHIRLEY WIGNARAJAH
+* [daily-news](data/2023-11-28/daily-news/2023-11-28-daily-news-e4f4-esme-rita-abeywardene-nee-talayratne.json) ESME RITA ABEYWARDENE nee TALAYRATNE
+* [daily-news](data/2023-11-28/daily-news/2023-11-28-daily-news-4f36-webster,​-sheila.json) WEBSTER,​ SHEILA
+* [daily-mirror](data/2023-11-28/daily-mirror/2023-11-28-daily-mirror-dfbd-mrs.-nirmala-ragunathan.json) MRS. NIRMALA RAGUNATHAN
+* [daily-mirror](data/2023-11-28/daily-mirror/2023-11-28-daily-mirror-7fe4-webster---sheila.json) WEBSTER - SHEILA
+* [daily-mirror](data/2023-11-28/daily-mirror/2023-11-28-daily-mirror-1e41-perera-granville.json) PERERA GRANVILLE
+
+##### 2023-11-27
+
+* [daily-news](data/2023-11-27/daily-news/2023-11-27-daily-news-1624-wijewardene-–-seela-r.i.p..json) WIJEWARDENE – SEELA R.I.P.
+* [daily-mirror](data/2023-11-27/daily-mirror/2023-11-27-daily-mirror-3265-perera-granville.json) PERERA GRANVILLE
+
+##### 2023-11-25
+
+* [daily-news](data/2023-11-25/daily-news/2023-11-25-daily-news-8949-dharmaratne-(nee-kankanige)-sujatha..json) DHARMARATNE (nee KANKANIGE) SUJATHA.
+
+##### 2023-11-23
+
+* [daily-news](data/2023-11-23/daily-news/2023-11-23-daily-news-ce11-dr.-prematilake-–-kalubowila.json) Dr. PREMATILAKE – KALUBOWILA
+
+##### 2023-11-22
+
+* [daily-mirror](data/2023-11-22/daily-mirror/2023-11-22-daily-mirror-b75c-jayaweera-lakshman-indrajith.json) JAYAWEERA LAKSHMAN INDRAJITH
+* [daily-mirror](data/2023-11-22/daily-mirror/2023-11-22-daily-mirror-27ce-audrey---dirckze.json) AUDREY - DIRCKZE
+
+##### 2023-11-17
+
+* [daily-mirror](data/2023-11-17/daily-mirror/2023-11-17-daily-mirror-c05d-mrs.-m.-champa-balasuriya.json) Mrs. M. Champa Balasuriya
+* [daily-mirror](data/2023-11-17/daily-mirror/2023-11-17-daily-mirror-1d2f-caryl-aloma-jayasuriya.json) Caryl Aloma Jayasuriya
+
+##### 2023-11-15
+
+* [daily-mirror](data/2023-11-15/daily-mirror/2023-11-15-daily-mirror-3387-reverend-father-anton-felician-ferdinando.json) Reverend Father ANTON FELICIAN FERDINANDO
+
+##### 2023-11-14
+
+* [daily-mirror](data/2023-11-14/daily-mirror/2023-11-14-daily-mirror-d281-perera-lakshman.json) PERERA-LAKSHMAN
+
+##### 2023-11-10
+
+* [daily-mirror](data/2023-11-10/daily-mirror/2023-11-10-daily-mirror-278a-bandara-thilak-(g.p.k.).json) BANDARA-THILAK (G.P.K.)
+
+##### 2023-11-09
+
+* [daily-mirror](data/2023-11-09/daily-mirror/2023-11-09-daily-mirror-7c3f-anandappa-doreen.json) ANANDAPPA-DOREEN
+* [daily-mirror](data/2023-11-09/daily-mirror/2023-11-09-daily-mirror-21f1-p.-benedict-imiarachchi.json) P. Benedict Imiarachchi
+* [daily-mirror](data/2023-11-09/daily-mirror/2023-11-09-daily-mirror-0430-lion-wasantha-wettasinghe.json) LION WASANTHA WETTASINGHE
+
+##### 2023-11-08
+
+* [daily-mirror](data/2023-11-08/daily-mirror/2023-11-08-daily-mirror-0d2b-mrs.-g.r.-makawita..json) MRS. G.R. MAKAWITA.
+
+##### 2023-11-03
+
+* [daily-mirror](data/2023-11-03/daily-mirror/2023-11-03-daily-mirror-358a-rev.-fr.-nalin-suraja.json) REV. FR. NALIN SURAJA
