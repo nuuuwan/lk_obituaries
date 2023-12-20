@@ -15,6 +15,7 @@ class Obituary:
     newspaper_id: str
     ut: int
     i: int
+    url: str
     raw_text: str
 
     def to_dict(self) -> dict:
@@ -23,6 +24,7 @@ class Obituary:
             date_str=self.date_str,
             newspaper_id=self.newspaper_id,
             i=self.i,
+            url=self.url,
             raw_text=self.raw_text,
         )
 
@@ -32,6 +34,7 @@ class Obituary:
             ut=int(d['ut']),
             newspaper_id=d['newspaper_id'],
             i=int(d['i']),
+            url=d['url'],
             raw_text=d['raw_text'],
         )
 
@@ -143,4 +146,4 @@ class Obituary:
             return
 
         JSONFile(self.data_path).write(self.to_dict())
-        log.debug(f'Wrote {self.data_path}')
+        log.info(f'🟢 Wrote {self.data_path}')

@@ -51,6 +51,7 @@ class DailyNews(NewsPaper):
                 newspaper_id=self.__class__.get_id(),
                 ut=self.time.ut,
                 i=i,
+                url=self.url2,
                 raw_text=p.text,
             )
             obituary_list.append(obituary)
