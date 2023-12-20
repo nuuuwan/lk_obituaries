@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2023-12-20 15:03:45**.
+Last run at **2023-12-20 15:14:31**.
 
 ## Sources
 
 * [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (72)
+## List of Obituaries (106)
 
 ### 2023
 
@@ -145,10 +145,22 @@ Last run at **2023-12-20 15:03:45**.
 * [daily-mirror](data/2023-11-22/daily-mirror/2023-11-22-daily-mirror-b75c-jayaweera-lakshman-indrajith.json) JAYAWEERA LAKSHMAN INDRAJITH
 * [daily-mirror](data/2023-11-22/daily-mirror/2023-11-22-daily-mirror-27ce-audrey---dirckze.json) AUDREY - DIRCKZE
 
+##### 2023-11-21
+
+* [daily-news](data/2023-11-21/daily-news/2023-11-21-daily-news-45ff-peiris-–-sunimal.json) PEIRIS – SUNIMAL
+
+##### 2023-11-18
+
+* [daily-news](data/2023-11-18/daily-news/2023-11-18-daily-news-cfc3-corea-–-monica-doreen.json) COREA – MONICA DOREEN
+
 ##### 2023-11-17
 
 * [daily-mirror](data/2023-11-17/daily-mirror/2023-11-17-daily-mirror-c05d-mrs.-m.-champa-balasuriya.json) Mrs. M. Champa Balasuriya
 * [daily-mirror](data/2023-11-17/daily-mirror/2023-11-17-daily-mirror-1d2f-caryl-aloma-jayasuriya.json) Caryl Aloma Jayasuriya
+
+##### 2023-11-16
+
+* [daily-news](data/2023-11-16/daily-news/2023-11-16-daily-news-b23d-mr.-anil-anomawansa-jayawardena.json) Mr. ANIL ANOMAWANSA JAYAWARDENA
 
 ##### 2023-11-15
 
@@ -156,10 +168,24 @@ Last run at **2023-12-20 15:03:45**.
 
 ##### 2023-11-14
 
+* [daily-news](data/2023-11-14/daily-news/2023-11-14-daily-news-2206-collins-leo-milroy.json) COLLINS LEO MILROY
+* [daily-news](data/2023-11-14/daily-news/2023-11-14-daily-news-1815-tillekeratne,​-lasanthie-therese.json) TILLEKERATNE,​ LASANTHIE THERESE
 * [daily-mirror](data/2023-11-14/daily-mirror/2023-11-14-daily-mirror-d281-perera-lakshman.json) PERERA-LAKSHMAN
+
+##### 2023-11-13
+
+* [daily-news](data/2023-11-13/daily-news/2023-11-13-daily-news-a219-rosabell-chelvam-nee-rajanayagam.json) ROSABELL CHELVAM nee RAJANAYAGAM
+
+##### 2023-11-11
+
+* [daily-news](data/2023-11-11/daily-news/2023-11-11-daily-news-f4ff-bandara-–-thilak.json) BANDARA – THILAK
+* [daily-news](data/2023-11-11/daily-news/2023-11-11-daily-news-8dc0-gomes-–-pearl-winnifred..json) GOMES – PEARL WINNIFRED.
+* [daily-news](data/2023-11-11/daily-news/2023-11-11-daily-news-10ce-abhayapala-–-margaret.json) ABHAYAPALA – MARGARET
 
 ##### 2023-11-10
 
+* [daily-news](data/2023-11-10/daily-news/2023-11-10-daily-news-d07a-gomes-–-pearl-winnifred.json) GOMES – PEARL WINNIFRED
+* [daily-news](data/2023-11-10/daily-news/2023-11-10-daily-news-acb7-bandara-–-thilak.json) BANDARA – THILAK
 * [daily-mirror](data/2023-11-10/daily-mirror/2023-11-10-daily-mirror-278a-bandara-thilak-(g.p.k.).json) BANDARA-THILAK (G.P.K.)
 
 ##### 2023-11-09
@@ -170,8 +196,54 @@ Last run at **2023-12-20 15:03:45**.
 
 ##### 2023-11-08
 
+* [daily-news](data/2023-11-08/daily-news/2023-11-08-daily-news-c8d2-sivalingam-–-dr-sellappah.json) SIVALINGAM – DR SELLAPPAH
+* [daily-news](data/2023-11-08/daily-news/2023-11-08-daily-news-3f5a-makawita.json) MAKAWITA
 * [daily-mirror](data/2023-11-08/daily-mirror/2023-11-08-daily-mirror-0d2b-mrs.-g.r.-makawita..json) MRS. G.R. MAKAWITA.
+
+##### 2023-11-07
+
+* [daily-news](data/2023-11-07/daily-news/2023-11-07-daily-news-fb0e-sivalingam-–-dr-sellappah.json) SIVALINGAM – DR SELLAPPAH
+* [daily-news](data/2023-11-07/daily-news/2023-11-07-daily-news-3736-savithri-rupasinghe.json) SAVITHRI RUPASINGHE
+
+##### 2023-11-04
+
+* [daily-news](data/2023-11-04/daily-news/2023-11-04-daily-news-c065-joan-perera-(nee-atton).json) JOAN PERERA (nee ATTON)
+* [daily-news](data/2023-11-04/daily-news/2023-11-04-daily-news-557b-hettiarachchi-–-don-ivan-pushpapriya-(jp).json) HETTIARACHCHI – DON IVAN PUSHPAPRIYA (JP)
+* [daily-news](data/2023-11-04/daily-news/2023-11-04-daily-news-4576-ilapperuma-prema..json) ILAPPERUMA PREMA.
+* [daily-news](data/2023-11-04/daily-news/2023-11-04-daily-news-1290-silva-–-w.a.-premasiri.json) SILVA – W.A. PREMASIRI
+* [daily-news](data/2023-11-04/daily-news/2023-11-04-daily-news-10d7-prof.-meththananda-–-thilaka-(nee-kankanige).json) PROF. METHTHANANDA – THILAKA (nee KANKANIGE)
 
 ##### 2023-11-03
 
+* [daily-news](data/2023-11-03/daily-news/2023-11-03-daily-news-ed7c-sallay-–-gnei-ruhina,​.json) SALLAY – GNEI RUHINA,​
+* [daily-news](data/2023-11-03/daily-news/2023-11-03-daily-news-97a7-rev.-fr.-nalin-suraja.json) REV. FR. NALIN SURAJA
+* [daily-news](data/2023-11-03/daily-news/2023-11-03-daily-news-8cfa-perera-–-mavis-–.json) PERERA – MAVIS –
 * [daily-mirror](data/2023-11-03/daily-mirror/2023-11-03-daily-mirror-358a-rev.-fr.-nalin-suraja.json) REV. FR. NALIN SURAJA
+
+##### 2023-11-02
+
+* [daily-news](data/2023-11-02/daily-news/2023-11-02-daily-news-e4b4-rev.-fr.-nalin-suraja.json) REV. Fr. NALIN SURAJA
+* [daily-news](data/2023-11-02/daily-news/2023-11-02-daily-news-c114-rev.-sister-marie-phyllis-rodrigo.json) REV. SISTER MARIE PHYLLIS RODRIGO
+* [daily-news](data/2023-11-02/daily-news/2023-11-02-daily-news-a6a9-madawela-–-dr.-dudley-mahipala-bernard-(mahi).json) MADAWELA – DR. DUDLEY MAHIPALA BERNARD (MAHI)
+* [daily-news](data/2023-11-02/daily-news/2023-11-02-daily-news-66cb-perera-–-kingsley-walter.json) PERERA – KINGSLEY WALTER
+* [daily-news](data/2023-11-02/daily-news/2023-11-02-daily-news-4465-goonetilleke-–-priya.json) GOONETILLEKE – PRIYA
+
+##### 2023-11-01
+
+* [daily-news](data/2023-11-01/daily-news/2023-11-01-daily-news-98cd-samarasinghe-–-sarath.json) SAMARASINGHE – SARATH
+* [daily-news](data/2023-11-01/daily-news/2023-11-01-daily-news-00b3-rev.-fr.-nalin-suraja.json) Rev. Fr. NALIN SURAJA
+
+#### 2023-10
+
+##### 2023-10-31
+
+* [daily-news](data/2023-10-31/daily-news/2023-10-31-daily-news-96b7-wicrama-surendra-nihal.json) WICRAMA SURENDRA NIHAL
+
+##### 2023-10-30
+
+* [daily-news](data/2023-10-30/daily-news/2023-10-30-daily-news-a798-abeyratne-–-ajith.json) ABEYRATNE – AJITH
+* [daily-news](data/2023-10-30/daily-news/2023-10-30-daily-news-0a7c-dalpadado-–-preethee-sonali-(nee-herat).json) DALPADADO – PREETHEE SONALI (nee HERAT)
+
+##### 2023-10-27
+
+* [daily-news](data/2023-10-27/daily-news/2023-10-27-daily-news-34c5-abeysuriya-–-darshan-ravindra.json) ABEYSURIYA – DARSHAN RAVINDRA
