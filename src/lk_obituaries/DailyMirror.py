@@ -29,7 +29,6 @@ class DailyMirror(NewsPaper):
             h3 = div.find('h3')
             p = div.find_all('p')[1]
             span_gtime = div.find('span', class_='gtime')
-            print("'%s'" % span_gtime.text)
             ut = DailyMirror.TIME_FORMAT_GTIME.parse(
                 span_gtime.text.strip()
             ).ut
