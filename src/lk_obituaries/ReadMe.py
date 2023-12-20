@@ -1,6 +1,6 @@
 import os
 
-from utils import File, Log
+from utils import TIME_FORMAT_TIME, File, Log, Time
 
 from lk_obituaries.SOURCE_LIST import SOURCE_LIST
 
@@ -12,10 +12,13 @@ class ReadMe:
 
     @property
     def intro_lines(self) -> list[str]:
+        time_str = TIME_FORMAT_TIME.stringify(Time.now())
         return [
             '# Obituaries (Sri Lanka)',
             '',
             'Crawls data about Obituaries in Sri Lanka.',
+            '',
+            f'Last run at **{time_str}**.',
             '',
         ]
 

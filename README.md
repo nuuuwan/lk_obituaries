@@ -2,6 +2,8 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
+Last run at **2023-12-20 11:25:44**.
+
 ## Sources
 
 * [Daily News](https://www.dailynews.lk)
