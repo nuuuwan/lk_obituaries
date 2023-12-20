@@ -1,5 +1,4 @@
 import os
-import re
 from dataclasses import dataclass
 from functools import cached_property
 
@@ -28,6 +27,21 @@ class Obituary:
             raw_body=self.raw_body,
         )
 
+    def to_dict_for_hash(self) -> dict:
+        # DO NOT MODIFY!
+        return dict(
+            ut=self.ut,
+            date_str=self.date_str,
+            newspaper_id=self.newspaper_id,
+            url=self.url,
+            raw_title=self.raw_title,
+            raw_body=self.raw_body,
+        )
+
+    @cached_property
+    def md5(self) -> str:
+        return hashx.md5(str(self.to_dict_for_hash()))
+
     @staticmethod
     def from_dict(d) -> 'Obituary':
         return Obituary(
@@ -37,10 +51,6 @@ class Obituary:
             raw_title=d['raw_title'],
             raw_body=d['raw_body'],
         )
-
-    @cached_property
-    def md5(self) -> str:
-        return hashx.md5(str(self.to_dict()))
 
     @cached_property
     def date_str(self) -> str:
@@ -54,24 +64,6 @@ class Obituary:
         if not os.path.exists(dir_data):
             os.makedirs(dir_data)
         return dir_data
-
-    @staticmethod
-    def clean_text(s) -> str:
-        s = s.replace('\n', ' ')
-        s = re.sub(r'\s+', ' ', s)
-        s = s.strip()
-        return s
-
-    @staticmethod
-    def idfy(s) -> str:
-        s = Obituary.clean_text(s)
-        s = s.replace(' ', '-')
-        s = s.lower()
-        return s
-
-    @cached_property
-    def person_id(self) -> str:
-        return Obituary.idfy(self.raw_title)
 
     @cached_property
     def file_only(self) -> str:
