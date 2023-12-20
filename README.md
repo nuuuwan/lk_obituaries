@@ -2,7 +2,7 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2023-12-20 11:31:56**.
+Last run at **2023-12-20 11:35:12**.
 
 ## Sources
 
@@ -10,7 +10,7 @@ Last run at **2023-12-20 11:31:56**.
 
 ## Obituaries
 
-### Daily News (197)
+### Daily News (237)
 
 #### 2023-12
 
@@ -118,3 +118,27 @@ Last run at **2023-12-20 11:31:56**.
 * [2023-08-09](data/daily-news/2023-08-09.json) (2)
 * [2023-08-08](data/daily-news/2023-08-08.json) (2)
 * [2023-08-05](data/daily-news/2023-08-05.json) (4)
+* [2023-08-04](data/daily-news/2023-08-04.json) (3)
+* [2023-08-03](data/daily-news/2023-08-03.json) (1)
+* [2023-08-01](data/daily-news/2023-08-01.json) (1)
+
+#### 2023-07
+
+* [2023-07-29](data/daily-news/2023-07-29.json) (1)
+* [2023-07-28](data/daily-news/2023-07-28.json) (1)
+* [2023-07-27](data/daily-news/2023-07-27.json) (1)
+* [2023-07-26](data/daily-news/2023-07-26.json) (2)
+* [2023-07-25](data/daily-news/2023-07-25.json) (1)
+* [2023-07-24](data/daily-news/2023-07-24.json) (1)
+* [2023-07-22](data/daily-news/2023-07-22.json) (3)
+* [2023-07-21](data/daily-news/2023-07-21.json) (2)
+* [2023-07-20](data/daily-news/2023-07-20.json) (3)
+* [2023-07-19](data/daily-news/2023-07-19.json) (2)
+* [2023-07-18](data/daily-news/2023-07-18.json) (1)
+* [2023-07-17](data/daily-news/2023-07-17.json) (3)
+* [2023-07-14](data/daily-news/2023-07-14.json) (4)
+* [2023-07-13](data/daily-news/2023-07-13.json) (1)
+* [2023-07-12](data/daily-news/2023-07-12.json) (3)
+* [2023-07-11](data/daily-news/2023-07-11.json) (2)
+* [2023-07-10](data/daily-news/2023-07-10.json) (2)
+* [2023-07-08](data/daily-news/2023-07-08.json) (2)
