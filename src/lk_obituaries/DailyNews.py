@@ -28,12 +28,10 @@ class DailyNews(NewsPaper):
 
     @cached_property
     def url2(self):
-        w = WWW(self.url)
-        soup = w.soup
+        soup = WWW(self.url).soup
         h2 = soup.find('h2', class_='penci-entry-title')
         if h2 is None:
             log.debug('[url2] h2 is None')
-            log.debug(w.html)
             return None
         obituary_link = h2.find('a', string='Obituaries')
         if obituary_link is None:
