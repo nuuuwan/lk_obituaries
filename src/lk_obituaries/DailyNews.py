@@ -47,11 +47,15 @@ class DailyNews(NewsPaper):
         div = soup.find('div', id='penci-post-entry-inner')
         obituary_list = []
         for p in div.find_all('p'):
+            strong = p.find('strong')
+            if strong is None:
+                continue
             obituary = Obituary(
                 newspaper_id=self.__class__.get_id(),
                 ut=self.time.ut,
                 url=self.url2,
-                raw_text=p.text,
+                raw_title=strong.text,
+                raw_body=p.text,
             )
             obituary_list.append(obituary)
         return obituary_list

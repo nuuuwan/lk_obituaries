@@ -15,7 +15,8 @@ class Obituary:
     newspaper_id: str
     ut: int
     url: str
-    raw_text: str
+    raw_title: str
+    raw_body: str
 
     def to_dict(self) -> dict:
         return dict(
@@ -23,7 +24,8 @@ class Obituary:
             date_str=self.date_str,
             newspaper_id=self.newspaper_id,
             url=self.url,
-            raw_text=self.raw_text,
+            raw_title=self.raw_title,
+            raw_body=self.raw_body,
         )
 
     @staticmethod
@@ -32,7 +34,8 @@ class Obituary:
             ut=int(d['ut']),
             newspaper_id=d['newspaper_id'],
             url=d['url'],
-            raw_text=d['raw_text'],
+            raw_title=d['raw_title'],
+            raw_body=d['raw_body'],
         )
 
     @cached_property
@@ -52,31 +55,29 @@ class Obituary:
             os.makedirs(dir_data)
         return dir_data
 
-    @cached_property
-    def cleaned_text(self) -> str:
-        s = self.raw_text
+    @staticmethod
+    def clean_text(s) -> str:
         s = s.replace('\n', ' ')
         s = re.sub(r'\s+', ' ', s)
         s = s.strip()
         return s
 
-    @cached_property
-    def words(self) -> list[str]:
-        return self.cleaned_text.split()
+    @staticmethod
+    def idfy(s) -> str:
+        s = Obituary.clean_text(s)
+        s = s.replace(' ', '-')
+        s = s.lower()
+        return s
 
     @cached_property
     def person_id(self) -> str:
-        return self.words[0].lower()
-
-    @cached_property
-    def summary(self) -> str:
-        MAX_SUMMARY_LEN = 64
-        s = self.cleaned_text
-        return s[:MAX_SUMMARY_LEN] + '...'
+        return Obituary.idfy(self.raw_title)
 
     @cached_property
     def md_link(self):
-        return f'[{self.newspaper_id}]({self.data_path_unix}) {self.summary}'
+        return (
+            f'[{self.newspaper_id}]({self.data_path_unix}) {self.raw_title}'
+        )
 
     @cached_property
     def file_only(self) -> str:
