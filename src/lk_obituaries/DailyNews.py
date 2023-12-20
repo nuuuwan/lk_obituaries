@@ -13,7 +13,7 @@ class DailyNews(NewsPaper):
     @classmethod
     def get_name(cls) -> str:
         return 'Daily News'
-    
+
     @classmethod
     def get_emoji(cls) -> str:
         return '📰'

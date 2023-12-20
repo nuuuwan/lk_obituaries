@@ -1,7 +1,7 @@
 from utils import TIME_FORMAT_TIME, File, Log, Time
 
 from lk_obituaries.Obituary import Obituary
-from lk_obituaries.SOURCE_LIST import SOURCE_LIST
+from lk_obituaries.NewsPaperFactory import NewsPaperFactory
 
 log = Log('ReadMe')
 
@@ -25,7 +25,7 @@ class ReadMe:
     @property
     def source_lines(self) -> list[str]:
         inner_lines = []
-        for cls in SOURCE_LIST:
+        for cls in NewsPaperFactory.list_all():
             inner_lines.append(f'* [{cls.get_name()}]({cls.get_url()})')
 
         return (
