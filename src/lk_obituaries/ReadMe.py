@@ -43,20 +43,32 @@ class ReadMe:
         obituary_list = Obituary.list_all()
         n = len(obituary_list)
 
+        prev_date_str = None
         prev_month_str = None
+        prev_year_str = None
+
         for obituary in obituary_list:
             date_str = obituary.date_str
             month_str = date_str[:7]
+            year_str = date_str[:4]
+
+            if year_str != prev_year_str:
+                inner_lines.extend(['', f'### {year_str}'])
+                prev_year_str = year_str
+
             if month_str != prev_month_str:
-                inner_lines.extend([f'### {month_str}', ''])
+                inner_lines.extend(['', f'#### {month_str}'])
                 prev_month_str = month_str
+
+            if date_str != prev_date_str:
+                inner_lines.extend(['', f'##### {date_str}', ''])
+                prev_date_str = date_str
 
             inner_lines.append(f'* {obituary.md_link}')
 
         return (
             [
                 f'## List of Obituaries ({n:,})',
-                '',
             ]
             + inner_lines
             + ['']

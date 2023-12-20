@@ -71,7 +71,7 @@ class Obituary:
 
     @cached_property
     def md_link(self):
-        return f'{self.summary} [{self.newspaper_id}]({self.data_path_unix})'
+        return f'[{self.newspaper_id}]({self.data_path_unix}) {self.summary}'
 
     @cached_property
     def file_only(self) -> str:
