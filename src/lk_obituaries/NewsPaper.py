@@ -76,7 +76,7 @@ class NewsPaper:
     @classmethod
     def crawl_range(cls, min_delta_days: int, max_delta_days: int):
         for delta_days in range(min_delta_days, max_delta_days + 1):
-            log.debug(f'Crawling {delta_days}/{max_delta_days}')
+            log.debug(f'[crawl_range] {delta_days}/{max_delta_days}')
             cls(delta_days).crawl()
 
     @classmethod

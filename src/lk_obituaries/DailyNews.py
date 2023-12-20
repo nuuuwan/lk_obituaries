@@ -31,9 +31,11 @@ class DailyNews(NewsPaper):
         soup = WWW(self.url).soup
         h2 = soup.find('h2', class_='penci-entry-title')
         if h2 is None:
+            log.debug('[url2] h2 is None')
             return None
         obituary_link = h2.find('a', string='Obituaries')
         if obituary_link is None:
+            log.debug('[url2] obituary_link is None')
             return None
         return obituary_link['href']
 
