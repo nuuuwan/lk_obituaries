@@ -74,12 +74,6 @@ class Obituary:
         return Obituary.idfy(self.raw_title)
 
     @cached_property
-    def md_link(self):
-        return (
-            f'[{self.newspaper_id}]({self.data_path_unix}) {self.raw_title}'
-        )
-
-    @cached_property
     def file_only(self) -> str:
         return (
             f'{self.date_str}-{self.newspaper_id}'

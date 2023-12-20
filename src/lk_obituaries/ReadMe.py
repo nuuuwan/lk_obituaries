@@ -22,11 +22,18 @@ class ReadMe:
             '',
         ]
 
+    @staticmethod
+    def render_newspaper(newspaper):
+        return (
+            f'{newspaper.get_emoji()}'
+            + f' [{newspaper.get_name()}]({newspaper.get_url()})'
+        )
+
     @property
     def source_lines(self) -> list[str]:
         inner_lines = []
         for cls in NewsPaperFactory.list_all():
-            inner_lines.append(f'* [{cls.get_name()}]({cls.get_url()})')
+            inner_lines.append(f'* {ReadMe.render_newspaper(cls)}')
 
         return (
             [
@@ -35,6 +42,15 @@ class ReadMe:
             ]
             + inner_lines
             + ['']
+        )
+
+    @staticmethod
+    def render_obituary(obituary) -> str:
+        newspaper = NewsPaperFactory.from_id(obituary.newspaper_id)
+        return (
+            f'{newspaper.get_emoji()}'
+            + f' [{newspaper.get_name()}]({obituary.data_path_unix})'
+            + f' {obituary.raw_title.title()}'
         )
 
     @property
@@ -64,7 +80,7 @@ class ReadMe:
                 inner_lines.extend(['', f'##### {date_str}', ''])
                 prev_date_str = date_str
 
-            inner_lines.append(f'* {obituary.md_link}')
+            inner_lines.append(f'* {ReadMe.render_obituary(obituary)}')
 
         return (
             [
