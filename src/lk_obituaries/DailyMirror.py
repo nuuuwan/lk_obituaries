@@ -15,6 +15,10 @@ class DailyMirror(NewsPaper):
     @classmethod
     def get_name(cls) -> str:
         return 'Daily Mirror'
+    
+    @classmethod
+    def get_emoji(cls) -> str:
+        return '🪞'
 
     @classmethod
     def get_url(cls) -> str:

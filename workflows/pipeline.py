@@ -2,7 +2,7 @@ import os
 
 from utils import Log
 
-from lk_obituaries import SOURCE_LIST, ReadMe
+from lk_obituaries import NewsPaperFactory, ReadMe
 
 log = Log('pipeline')
 
@@ -15,7 +15,7 @@ log.debug(f'{N_UNCRAWLED=}')
 
 
 def main():
-    for cls in SOURCE_LIST:
+    for cls in NewsPaperFactory.list_all():
         cls.crawl_today()
         cls.crawl_uncrawled(N_UNCRAWLED)
 
