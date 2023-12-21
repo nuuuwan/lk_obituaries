@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2023-12-21 05:41:55**.
+Last run at **2023-12-21 06:17:59**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (258)
+## List of Obituaries (260)
 
 ### 2023
 
 #### 2023-12
+
+##### 2023-12-21
+
+* 📰 [Daily News](data/2023-12-21/daily-news/2023-12-21-daily-news-de711866.json) Ludowyk – Theodore Derrick Brian
+* 📰 [Daily News](data/2023-12-21/daily-news/2023-12-21-daily-news-c3c0e46a.json) Ranasinghe – Bernadette (Bernie)
 
 ##### 2023-12-20
 
