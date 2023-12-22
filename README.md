@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2023-12-22 09:34:15**.
+Last run at **2023-12-22 19:34:15**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (262)
+## List of Obituaries (263)
 
 ### 2023
 
 #### 2023-12
+
+##### 2023-12-22
+
+* 🪞 [Daily Mirror](data/2023-12-22/daily-mirror/2023-12-22-daily-mirror-1bacd908.json) Ratnayake - Olwin Benet
 
 ##### 2023-12-21
 
