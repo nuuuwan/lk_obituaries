@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2023-12-23 05:03:29**.
+Last run at **2023-12-23 05:41:20**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (263)
+## List of Obituaries (264)
 
 ### 2023
 
 #### 2023-12
+
+##### 2023-12-23
+
+* 📰 [Daily News](data/2023-12-23/daily-news/2023-12-23-daily-news-03ea1900.json) Rev. Fr. Quentin Perera
 
 ##### 2023-12-22
 
