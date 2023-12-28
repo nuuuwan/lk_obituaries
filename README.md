@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2023-12-28 11:34:29**.
+Last run at **2023-12-28 21:34:35**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (272)
+## List of Obituaries (274)
 
 ### 2023
 
@@ -19,6 +19,8 @@ Last run at **2023-12-28 11:34:29**.
 
 * 📰 [Daily News](data/2023-12-28/daily-news/2023-12-28-daily-news-8c0aa18d.json) Perera,​ N.V.G. (Gnana)
 * 📰 [Daily News](data/2023-12-28/daily-news/2023-12-28-daily-news-44d35cc8.json) Mason – Jeffrey
+* 🪞 [Daily Mirror](data/2023-12-28/daily-mirror/2023-12-28-daily-mirror-f3c4f1ae.json) Mason – Jeffrey
+* 🪞 [Daily Mirror](data/2023-12-28/daily-mirror/2023-12-28-daily-mirror-a59f2fcc.json) Herath – Susantha
 
 ##### 2023-12-27
 
