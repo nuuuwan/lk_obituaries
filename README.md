@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2023-12-28 09:34:03**.
+Last run at **2023-12-28 10:03:41**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (271)
+## List of Obituaries (272)
 
 ### 2023
 
@@ -25,6 +25,7 @@ Last run at **2023-12-28 09:34:03**.
 * 📰 [Daily News](data/2023-12-27/daily-news/2023-12-27-daily-news-c578662c.json) Eng. Edward Walter Karunaratna
 * 📰 [Daily News](data/2023-12-27/daily-news/2023-12-27-daily-news-b38eec3d.json) Ekanayake – Pathma
 * 📰 [Daily News](data/2023-12-27/daily-news/2023-12-27-daily-news-3b00915f.json) Perera – Sennen (S.A Perera)
+* 🪞 [Daily Mirror](data/2023-12-27/daily-mirror/2023-12-27-daily-mirror-1163eeb0.json) Shanta P. Chitty
 
 ##### 2023-12-26
 
