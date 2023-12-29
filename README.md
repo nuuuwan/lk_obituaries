@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2023-12-29 05:03:16**.
+Last run at **2023-12-29 05:39:52**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (274)
+## List of Obituaries (275)
 
 ### 2023
 
 #### 2023-12
+
+##### 2023-12-29
+
+* 📰 [Daily News](data/2023-12-29/daily-news/2023-12-29-daily-news-b66ab2b5.json) Sennen (S.A.) Perera
 
 ##### 2023-12-28
 
