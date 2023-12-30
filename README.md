@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2023-12-30 05:03:26**.
+Last run at **2023-12-30 05:41:29**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (275)
+## List of Obituaries (278)
 
 ### 2023
 
 #### 2023-12
+
+##### 2023-12-30
+
+* 📰 [Daily News](data/2023-12-30/daily-news/2023-12-30-daily-news-ccdf610a.json) Coorey,​ Leila Lakshmi
+* 📰 [Daily News](data/2023-12-30/daily-news/2023-12-30-daily-news-85e9b328.json) Bertram Willard White (Bommer)
+* 📰 [Daily News](data/2023-12-30/daily-news/2023-12-30-daily-news-7ef99e4d.json) Sennen (S.A.) Perera
 
 ##### 2023-12-29
 
