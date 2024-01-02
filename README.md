@@ -2,14 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-02 05:03:13**.
+Last run at **2024-01-02 05:42:14**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (278)
+## List of Obituaries (279)
+
+### 2024
+
+#### 2024-01
+
+##### 2024-01-02
+
+* 📰 [Daily News](data/2024-01-02/daily-news/2024-01-02-daily-news-dd278e6a.json) Silva – Kamala
 
 ### 2023
 
