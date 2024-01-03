@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-03 09:33:59**.
+Last run at **2024-01-03 19:34:29**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (283)
+## List of Obituaries (289)
 
 ### 2024
 
@@ -18,8 +18,14 @@ Last run at **2024-01-03 09:33:59**.
 ##### 2024-01-03
 
 * 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-facfcef6.json) De Silva – Dr. Sara
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-b696fecf.json) Madhuraganan Shanmugananthan
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-8f3cf511.json) Fernando – Dr. George
 * 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-884a3c4f.json) Shiranthi Perera
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-85d97608.json) Remembrance
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-7ffb3178.json) “Lakmilan” St. Jude Mawatha,
 * 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-5e5c2283.json) Daniel – Grace
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-5c376f5a.json)  
+* 🪞 [Daily Mirror](data/2024-01-03/daily-mirror/2024-01-03-daily-mirror-ef97652e.json) Perera - Shiranthi (Nee Mendis Abeysekara)
 
 ##### 2024-01-02
 
