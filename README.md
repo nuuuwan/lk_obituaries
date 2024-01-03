@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-03 05:03:08**.
+Last run at **2024-01-03 05:41:35**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (280)
+## List of Obituaries (283)
 
 ### 2024
 
 #### 2024-01
+
+##### 2024-01-03
+
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-facfcef6.json) De Silva – Dr. Sara
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-884a3c4f.json) Shiranthi Perera
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-5e5c2283.json) Daniel – Grace
 
 ##### 2024-01-02
 
