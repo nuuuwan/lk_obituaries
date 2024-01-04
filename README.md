@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-04 05:03:14**.
+Last run at **2024-01-04 05:42:37**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (289)
+## List of Obituaries (292)
 
 ### 2024
 
 #### 2024-01
+
+##### 2024-01-04
+
+* 📰 [Daily News](data/2024-01-04/daily-news/2024-01-04-daily-news-bf8e469f.json) Mendis – Olga
+* 📰 [Daily News](data/2024-01-04/daily-news/2024-01-04-daily-news-8624657f.json) Widyalankara,​ Anula –
+* 📰 [Daily News](data/2024-01-04/daily-news/2024-01-04-daily-news-5eb7714f.json) Settinayake – Anoja Kusum
 
 ##### 2024-01-03
 
