@@ -2,18 +2,25 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-06 05:03:14**.
+Last run at **2024-01-06 05:41:46**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (297)
+## List of Obituaries (301)
 
 ### 2024
 
 #### 2024-01
+
+##### 2024-01-06
+
+* 📰 [Daily News](data/2024-01-06/daily-news/2024-01-06-daily-news-fb7e5913.json) Karunaratne – Mervyn
+* 📰 [Daily News](data/2024-01-06/daily-news/2024-01-06-daily-news-f61acc69.json) Mahendran,​ Rajah (
+* 📰 [Daily News](data/2024-01-06/daily-news/2024-01-06-daily-news-a4465da8.json) Herath – Anula
+* 📰 [Daily News](data/2024-01-06/daily-news/2024-01-06-daily-news-06104b1f.json) Mahpitigama Nanda
 
 ##### 2024-01-05
 
