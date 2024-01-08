@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-08 05:03:12**.
+Last run at **2024-01-08 05:42:15**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (301)
+## List of Obituaries (303)
 
 ### 2024
 
 #### 2024-01
+
+##### 2024-01-08
+
+* 📰 [Daily News](data/2024-01-08/daily-news/2024-01-08-daily-news-b3b5cf14.json) Mahendran,​ Rajah
+* 📰 [Daily News](data/2024-01-08/daily-news/2024-01-08-daily-news-4044bb9d.json) Somalingam – Selvadurai
 
 ##### 2024-01-06
 
