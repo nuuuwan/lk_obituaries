@@ -32,12 +32,15 @@ class DailyMirror(NewsPaper):
         for div in div_list:
             h3 = div.find('h3')
             p = div.find_all('p')[1]
+
             span_gtime = div.find('span', class_='gtime')
             time_str = span_gtime.text.strip()
             if time_str.lower().endswith('ago'):
                 h_ago = int(time_str.split(' ')[0])
                 ut = Time.now().ut - h_ago * 3600
-            ut = DailyMirror.TIME_FORMAT_GTIME.parse(time_str).ut
+            else:
+                ut = DailyMirror.TIME_FORMAT_GTIME.parse(time_str).ut
+
             a = div.find('a')
             url = a['href']
 
