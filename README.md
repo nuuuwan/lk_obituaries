@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-11 16:04:35**.
+Last run at **2024-01-11 16:34:13**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (324)
+## List of Obituaries (325)
 
 ### 2024
 
@@ -18,6 +18,7 @@ Last run at **2024-01-11 16:04:35**.
 ##### 2024-01-11
 
 * 📰 [Daily News](data/2024-01-11/daily-news/2024-01-11-daily-news-771bcc8d.json) Fernando – Godwin
+* 🪞 [Daily Mirror](data/2024-01-11/daily-mirror/2024-01-11-daily-mirror-ec949da1.json) Fonseka-Bertha Olivia (Nee Fernando)
 * 🪞 [Daily Mirror](data/2024-01-11/daily-mirror/2024-01-11-daily-mirror-e768b77c.json) Fonseka-Bertha Olivia (Nee Fernando)
 * 🪞 [Daily Mirror](data/2024-01-11/daily-mirror/2024-01-11-daily-mirror-d2fe2086.json) Fonseka-Bertha Olivia (Nee Fernando)
 * 🪞 [Daily Mirror](data/2024-01-11/daily-mirror/2024-01-11-daily-mirror-b188bb31.json) Fonseka-Bertha Olivia (Nee Fernando)
