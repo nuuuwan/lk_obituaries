@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-11 09:34:24**.
+Last run at **2024-01-11 10:04:51**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (311)
+## List of Obituaries (312)
 
 ### 2024
 
@@ -24,6 +24,7 @@ Last run at **2024-01-11 09:34:24**.
 * 📰 [Daily News](data/2024-01-10/daily-news/2024-01-10-daily-news-db62d9f8.json) Rev. Sister Marie Louise A.C.
 * 📰 [Daily News](data/2024-01-10/daily-news/2024-01-10-daily-news-9670fba1.json) De Kretser,​ Carlton Loftus (Bunny)
 * 📰 [Daily News](data/2024-01-10/daily-news/2024-01-10-daily-news-2ff81564.json) Binduhewa – Mercy
+* 🪞 [Daily Mirror](data/2024-01-10/daily-mirror/2024-01-10-daily-mirror-71aa911a.json) Fonseka-Bertha Olivia (Nee Fernando)
 
 ##### 2024-01-08
 
