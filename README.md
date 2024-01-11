@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-11 05:03:29**.
+Last run at **2024-01-11 05:43:34**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (310)
+## List of Obituaries (311)
 
 ### 2024
 
 #### 2024-01
+
+##### 2024-01-11
+
+* 📰 [Daily News](data/2024-01-11/daily-news/2024-01-11-daily-news-771bcc8d.json) Fernando – Godwin
 
 ##### 2024-01-10
 
