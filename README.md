@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-12 16:04:47**.
+Last run at **2024-01-12 16:34:27**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (369)
+## List of Obituaries (372)
 
 ### 2024
 
@@ -32,6 +32,9 @@ Last run at **2024-01-12 16:04:47**.
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-b181d39a.json) De Silva-Baddhika
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-aaea9a02.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-a204a43e.json) Basnayake - Clarible
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-a18824d3.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-9f8b5a17.json) Basnayake - Clarible
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-9124927c.json) De Silva-Baddhika
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-8fcd6339.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-8b1fd6b7.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-839b06bd.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
