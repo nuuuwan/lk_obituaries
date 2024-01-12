@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-12 16:34:27**.
+Last run at **2024-01-12 17:03:01**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (372)
+## List of Obituaries (375)
 
 ### 2024
 
@@ -29,6 +29,7 @@ Last run at **2024-01-12 16:34:27**.
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-cd6e9b68.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-c6a7da44.json) De Silva-Baddhika
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-ba3d866e.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-b95d2e18.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-b181d39a.json) De Silva-Baddhika
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-aaea9a02.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-a204a43e.json) Basnayake - Clarible
@@ -36,6 +37,7 @@ Last run at **2024-01-12 16:34:27**.
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-9f8b5a17.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-9124927c.json) De Silva-Baddhika
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-8fcd6339.json) Basnayake - Clarible
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-8c5d741b.json) De Silva-Baddhika
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-8b1fd6b7.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-839b06bd.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-7d120244.json) De Silva-Baddhika
@@ -45,6 +47,7 @@ Last run at **2024-01-12 16:34:27**.
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-6c04b647.json) De Silva-Baddhika
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-64ccba1f.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-6304ca60.json) Basnayake - Clarible
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-55468faf.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-50c00ede.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-4d26f42b.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-279fa532.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
