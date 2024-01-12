@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-12 11:34:51**.
+Last run at **2024-01-12 12:04:35**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (345)
+## List of Obituaries (348)
 
 ### 2024
 
@@ -20,6 +20,7 @@ Last run at **2024-01-12 11:34:51**.
 * 📰 [Daily News](data/2024-01-12/daily-news/2024-01-12-daily-news-9cf4f5e1.json) Mrs A.R.C.C. Mortier (Anne),
 * 📰 [Daily News](data/2024-01-12/daily-news/2024-01-12-daily-news-646f965f.json) Fernando,​ Godwin
 * 📰 [Daily News](data/2024-01-12/daily-news/2024-01-12-daily-news-51eac9e1.json) Hakmana – Ananda Bandara
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-fe5f9573.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-edb612c0.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-ecfb9520.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-d0b5cfb3.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
@@ -28,6 +29,8 @@ Last run at **2024-01-12 11:34:51**.
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-78a545bc.json) M.D. Jesuthasan
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-7230c749.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-16fe68f8.json) De Silva-Baddhika
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-155aecc8.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-11276b56.json) De Silva-Baddhika
 
 ##### 2024-01-11
 
