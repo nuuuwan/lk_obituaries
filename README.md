@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-12 11:03:16**.
+Last run at **2024-01-12 11:34:51**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (342)
+## List of Obituaries (345)
 
 ### 2024
 
@@ -22,6 +22,9 @@ Last run at **2024-01-12 11:03:16**.
 * 📰 [Daily News](data/2024-01-12/daily-news/2024-01-12-daily-news-51eac9e1.json) Hakmana – Ananda Bandara
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-edb612c0.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-ecfb9520.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-d0b5cfb3.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-b181d39a.json) De Silva-Baddhika
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-a204a43e.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-78a545bc.json) M.D. Jesuthasan
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-7230c749.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-16fe68f8.json) De Silva-Baddhika
