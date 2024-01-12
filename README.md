@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-12 15:34:01**.
+Last run at **2024-01-12 16:04:47**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (366)
+## List of Obituaries (369)
 
 ### 2024
 
@@ -20,6 +20,7 @@ Last run at **2024-01-12 15:34:01**.
 * 📰 [Daily News](data/2024-01-12/daily-news/2024-01-12-daily-news-9cf4f5e1.json) Mrs A.R.C.C. Mortier (Anne),
 * 📰 [Daily News](data/2024-01-12/daily-news/2024-01-12-daily-news-646f965f.json) Fernando,​ Godwin
 * 📰 [Daily News](data/2024-01-12/daily-news/2024-01-12-daily-news-51eac9e1.json) Hakmana – Ananda Bandara
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-fef4133d.json) De Silva-Baddhika
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-fe5f9573.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-f58d8379.json) De Silva-Baddhika
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-edb612c0.json) Basnayake - Clarible
@@ -41,6 +42,8 @@ Last run at **2024-01-12 15:34:01**.
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-6c04b647.json) De Silva-Baddhika
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-64ccba1f.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-6304ca60.json) Basnayake - Clarible
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-50c00ede.json) Basnayake - Clarible
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-4d26f42b.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-279fa532.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-16fe68f8.json) De Silva-Baddhika
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-155aecc8.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
