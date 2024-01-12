@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-12 09:35:41**.
+Last run at **2024-01-12 10:04:02**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (334)
+## List of Obituaries (336)
 
 ### 2024
 
@@ -20,6 +20,8 @@ Last run at **2024-01-12 09:35:41**.
 * 📰 [Daily News](data/2024-01-12/daily-news/2024-01-12-daily-news-9cf4f5e1.json) Mrs A.R.C.C. Mortier (Anne),
 * 📰 [Daily News](data/2024-01-12/daily-news/2024-01-12-daily-news-646f965f.json) Fernando,​ Godwin
 * 📰 [Daily News](data/2024-01-12/daily-news/2024-01-12-daily-news-51eac9e1.json) Hakmana – Ananda Bandara
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-78a545bc.json) M.D. Jesuthasan
+* 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-7230c749.json) Basnayake - Clarible
 
 ##### 2024-01-11
 
