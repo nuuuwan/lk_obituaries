@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-15 05:03:20**.
+Last run at **2024-01-15 05:42:36**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (390)
+## List of Obituaries (392)
 
 ### 2024
 
 #### 2024-01
+
+##### 2024-01-15
+
+* 📰 [Daily News](data/2024-01-15/daily-news/2024-01-15-daily-news-c9852d19.json) Nita Iranda Dissanayake.
+* 📰 [Daily News](data/2024-01-15/daily-news/2024-01-15-daily-news-78460c5e.json) Amarasekera – Mrs Kanthi
 
 ##### 2024-01-12
 
