@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-16 17:35:26**.
+Last run at **2024-01-16 18:11:44**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (406)
+## List of Obituaries (407)
 
 ### 2024
 
@@ -26,6 +26,7 @@ Last run at **2024-01-16 17:35:26**.
 * 🪞 [Daily Mirror](data/2024-01-16/daily-mirror/2024-01-16-daily-mirror-90432b4a.json) Kulatunga - Ranjeewa
 * 🪞 [Daily Mirror](data/2024-01-16/daily-mirror/2024-01-16-daily-mirror-89a3e029.json) Kulatunga - Ranjeewa
 * 🪞 [Daily Mirror](data/2024-01-16/daily-mirror/2024-01-16-daily-mirror-7b8b1d71.json) Kulatunga - Ranjeewa
+* 🪞 [Daily Mirror](data/2024-01-16/daily-mirror/2024-01-16-daily-mirror-78913770.json) Kulatunga - Ranjeewa
 * 🪞 [Daily Mirror](data/2024-01-16/daily-mirror/2024-01-16-daily-mirror-6b5da1a8.json) Kulatunga - Ranjeewa
 * 🪞 [Daily Mirror](data/2024-01-16/daily-mirror/2024-01-16-daily-mirror-5be68e2a.json) Kulatunga - Ranjeewa
 * 🪞 [Daily Mirror](data/2024-01-16/daily-mirror/2024-01-16-daily-mirror-3f1356fe.json) Kulatunga - Ranjeewa
