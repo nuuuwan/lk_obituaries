@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-16 05:03:25**.
+Last run at **2024-01-16 05:41:54**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (392)
+## List of Obituaries (393)
 
 ### 2024
 
 #### 2024-01
+
+##### 2024-01-16
+
+* 📰 [Daily News](data/2024-01-16/daily-news/2024-01-16-daily-news-50842670.json) Brohier – Desmond Percival
 
 ##### 2024-01-15
 
