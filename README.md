@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-16 18:36:31**.
+Last run at **2024-01-16 19:05:20**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (408)
+## List of Obituaries (409)
 
 ### 2024
 
@@ -18,6 +18,7 @@ Last run at **2024-01-16 18:36:31**.
 ##### 2024-01-16
 
 * 📰 [Daily News](data/2024-01-16/daily-news/2024-01-16-daily-news-50842670.json) Brohier – Desmond Percival
+* 🪞 [Daily Mirror](data/2024-01-16/daily-mirror/2024-01-16-daily-mirror-f5fc17a4.json) Kulatunga - Ranjeewa
 * 🪞 [Daily Mirror](data/2024-01-16/daily-mirror/2024-01-16-daily-mirror-ecb27efd.json) Kulatunga - Ranjeewa
 * 🪞 [Daily Mirror](data/2024-01-16/daily-mirror/2024-01-16-daily-mirror-dcccb122.json) Kulatunga - Ranjeewa
 * 🪞 [Daily Mirror](data/2024-01-16/daily-mirror/2024-01-16-daily-mirror-d7c37828.json) Kulatunga - Ranjeewa
