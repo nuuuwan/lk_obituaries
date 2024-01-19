@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-19 13:03:51**.
+Last run at **2024-01-19 13:34:49**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (424)
+## List of Obituaries (425)
 
 ### 2024
 
@@ -22,6 +22,7 @@ Last run at **2024-01-19 13:03:51**.
 * 📰 [Daily News](data/2024-01-19/daily-news/2024-01-19-daily-news-31565fd3.json) Fernando – Juliet,​
 * 🪞 [Daily Mirror](data/2024-01-19/daily-mirror/2024-01-19-daily-mirror-aa07babd.json) Seneviratne - Sudharshan Deepal Suresh
 * 🪞 [Daily Mirror](data/2024-01-19/daily-mirror/2024-01-19-daily-mirror-949a66fa.json) Seneviratne - Sudharshan Deepal Suresh
+* 🪞 [Daily Mirror](data/2024-01-19/daily-mirror/2024-01-19-daily-mirror-9356373a.json) Seneviratne - Sudharshan Deepal Suresh
 * 🪞 [Daily Mirror](data/2024-01-19/daily-mirror/2024-01-19-daily-mirror-68bd9995.json) Seneviratne - Sudharshan Deepal Suresh
 * 🪞 [Daily Mirror](data/2024-01-19/daily-mirror/2024-01-19-daily-mirror-5f040e34.json) Seneviratne - Sudharshan Deepal Suresh
 
