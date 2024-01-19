@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-19 10:34:07**.
+Last run at **2024-01-19 11:03:36**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (419)
+## List of Obituaries (420)
 
 ### 2024
 
@@ -29,6 +29,7 @@ Last run at **2024-01-19 10:34:07**.
 
 * 📰 [Daily News](data/2024-01-17/daily-news/2024-01-17-daily-news-24ce3bea.json) Charles Tissera
 * 📰 [Daily News](data/2024-01-17/daily-news/2024-01-17-daily-news-06540ec9.json) Brohier – Desmond Percival – 
+* 🪞 [Daily Mirror](data/2024-01-17/daily-mirror/2024-01-17-daily-mirror-b178e4a8.json) Seneviratne - Sudharshan Deepal Suresh
 
 ##### 2024-01-16
 
