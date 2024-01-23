@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-23 05:03:18**.
+Last run at **2024-01-23 05:42:09**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (437)
+## List of Obituaries (440)
 
 ### 2024
 
 #### 2024-01
+
+##### 2024-01-23
+
+* 📰 [Daily News](data/2024-01-23/daily-news/2024-01-23-daily-news-d1488ba8.json) Goonesekere – Nanda (Nee Nanayakkara)
+* 📰 [Daily News](data/2024-01-23/daily-news/2024-01-23-daily-news-74f5f48b.json) Rev. Sister Mary Patrick Sovis. 
+* 📰 [Daily News](data/2024-01-23/daily-news/2024-01-23-daily-news-68e8358d.json) De Silva – Chinthan
 
 ##### 2024-01-19
 
