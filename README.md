@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-23 16:06:05**.
+Last run at **2024-01-23 16:33:50**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (449)
+## List of Obituaries (450)
 
 ### 2024
 
@@ -23,6 +23,7 @@ Last run at **2024-01-23 16:06:05**.
 * 🪞 [Daily Mirror](data/2024-01-23/daily-mirror/2024-01-23-daily-mirror-c16aedf8.json) Mahal Wickremeratne
 * 🪞 [Daily Mirror](data/2024-01-23/daily-mirror/2024-01-23-daily-mirror-bd315e96.json) Mahal Wickremeratne
 * 🪞 [Daily Mirror](data/2024-01-23/daily-mirror/2024-01-23-daily-mirror-ac710f0b.json) Mahal Wickremeratne
+* 🪞 [Daily Mirror](data/2024-01-23/daily-mirror/2024-01-23-daily-mirror-a8447cc9.json) Mahal Wickremeratne
 * 🪞 [Daily Mirror](data/2024-01-23/daily-mirror/2024-01-23-daily-mirror-a252d4ef.json) Mahal Wickremeratne
 * 🪞 [Daily Mirror](data/2024-01-23/daily-mirror/2024-01-23-daily-mirror-9232a9e2.json) Mahal Wickremeratne
 * 🪞 [Daily Mirror](data/2024-01-23/daily-mirror/2024-01-23-daily-mirror-7c63a0ba.json) Mahal Wickremeratne
