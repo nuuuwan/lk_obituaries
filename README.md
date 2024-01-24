@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-24 12:34:25**.
+Last run at **2024-01-24 13:03:23**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (464)
+## List of Obituaries (465)
 
 ### 2024
 
@@ -20,6 +20,7 @@ Last run at **2024-01-24 12:34:25**.
 * 📰 [Daily News](data/2024-01-24/daily-news/2024-01-24-daily-news-3d59760f.json) De Silva – Chinthan.
 * 🪞 [Daily Mirror](data/2024-01-24/daily-mirror/2024-01-24-daily-mirror-b0ffd56a.json) Weerasinghe - Chandra (Kulasekara) (Journalist)
 * 🪞 [Daily Mirror](data/2024-01-24/daily-mirror/2024-01-24-daily-mirror-9fd7e47c.json) Weerasinghe - Chandra (Kulasekara) (Journalist)
+* 🪞 [Daily Mirror](data/2024-01-24/daily-mirror/2024-01-24-daily-mirror-936ca898.json) Weerasinghe - Chandra (Kulasekara) (Journalist)
 * 🪞 [Daily Mirror](data/2024-01-24/daily-mirror/2024-01-24-daily-mirror-692912ef.json) Weerasinghe - Chandra (Kulasekara) (Journalist)
 * 🪞 [Daily Mirror](data/2024-01-24/daily-mirror/2024-01-24-daily-mirror-203fee8d.json) Weerasinghe - Chandra (Kulasekara) (Journalist)
 * 🪞 [Daily Mirror](data/2024-01-24/daily-mirror/2024-01-24-daily-mirror-0b87882a.json) Weerasinghe - Chandra (Kulasekara) (Journalist)
