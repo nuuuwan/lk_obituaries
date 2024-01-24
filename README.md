@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-24 05:05:36**.
+Last run at **2024-01-24 05:42:08**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (457)
+## List of Obituaries (458)
 
 ### 2024
 
 #### 2024-01
+
+##### 2024-01-24
+
+* 📰 [Daily News](data/2024-01-24/daily-news/2024-01-24-daily-news-3d59760f.json) De Silva – Chinthan.
 
 ##### 2024-01-23
 
