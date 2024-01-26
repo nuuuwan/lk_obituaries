@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-26 05:03:11**.
+Last run at **2024-01-26 05:41:39**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (479)
+## List of Obituaries (481)
 
 ### 2024
 
 #### 2024-01
+
+##### 2024-01-26
+
+* 📰 [Daily News](data/2024-01-26/daily-news/2024-01-26-daily-news-88b78040.json) Kotakadeniya – N.B.A. –
+* 📰 [Daily News](data/2024-01-26/daily-news/2024-01-26-daily-news-02dcb6d9.json) Fernando – Douglas Francis
 
 ##### 2024-01-25
 
