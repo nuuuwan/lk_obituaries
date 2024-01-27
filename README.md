@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-27 05:03:18**.
+Last run at **2024-01-27 05:41:26**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (481)
+## List of Obituaries (483)
 
 ### 2024
 
 #### 2024-01
+
+##### 2024-01-27
+
+* 📰 [Daily News](data/2024-01-27/daily-news/2024-01-27-daily-news-829e1dd5.json) Dias Bandaranayake – Manthri,
+* 📰 [Daily News](data/2024-01-27/daily-news/2024-01-27-daily-news-53a9dac2.json) Fernando – Douglas Francis
 
 ##### 2024-01-26
 
