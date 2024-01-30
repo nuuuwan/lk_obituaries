@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-31 00:34:12**.
+Last run at **2024-01-31 01:03:42**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (517)
+## List of Obituaries (519)
 
 ### 2024
 
@@ -24,6 +24,7 @@ Last run at **2024-01-31 00:34:12**.
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-fbdfcaa7.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-fb56a4dd.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-e768c297.json) Inna Lillahi Wa Inna Llaihi Rajioon
+* 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-e138d4f8.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-dd3f253d.json) Inna Lillahi Wa Inna Llaihi Rajioon
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-d9007ec4.json) Inna Lillahi Wa Inna Llaihi Rajioon
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-d30631c7.json) Inna Lillahi Wa Inna Llaihi Rajioon
@@ -35,6 +36,7 @@ Last run at **2024-01-31 00:34:12**.
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-89f0703e.json) Inna Lillahi Wa Inna Llaihi Rajioon
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-86409c46.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-68a731ff.json) Inna Lillahi Wa Inna Llaihi Rajioon
+* 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-689f2d8e.json) Inna Lillahi Wa Inna Llaihi Rajioon
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-66ed4945.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-6072a2ce.json) Inna Lillahi Wa Inna Llaihi Rajioon
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-5e31fb6f.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
