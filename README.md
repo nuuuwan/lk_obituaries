@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-30 17:03:09**.
+Last run at **2024-01-30 17:35:26**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (487)
+## List of Obituaries (489)
 
 ### 2024
 
@@ -21,6 +21,11 @@ Last run at **2024-01-30 17:03:09**.
 * 📰 [Daily News](data/2024-01-30/daily-news/2024-01-30-daily-news-68b3a1a9.json) Ramenaden – Lourdes Leity – 
 * 📰 [Daily News](data/2024-01-30/daily-news/2024-01-30-daily-news-488a659c.json) Ferdinando – Lilani –
 * 📰 [Daily News](data/2024-01-30/daily-news/2024-01-30-daily-news-22d69566.json) Abeysekara – Claudia Clorida Heyzer – (Nee Schokman),​
+
+##### 2024-01-29
+
+* 🪞 [Daily Mirror](data/2024-01-29/daily-mirror/2024-01-29-daily-mirror-55f5ebb9.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
+* 🪞 [Daily Mirror](data/2024-01-29/daily-mirror/2024-01-29-daily-mirror-325648a1.json) Inna Lillahi Wa Inna Llaihi Rajioon
 
 ##### 2024-01-27
 
