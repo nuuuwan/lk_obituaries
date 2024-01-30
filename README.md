@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-31 01:35:25**.
+Last run at **2024-01-31 02:03:22**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (521)
+## List of Obituaries (523)
 
 ### 2024
 
@@ -21,6 +21,7 @@ Last run at **2024-01-31 01:35:25**.
 * 📰 [Daily News](data/2024-01-30/daily-news/2024-01-30-daily-news-68b3a1a9.json) Ramenaden – Lourdes Leity – 
 * 📰 [Daily News](data/2024-01-30/daily-news/2024-01-30-daily-news-488a659c.json) Ferdinando – Lilani –
 * 📰 [Daily News](data/2024-01-30/daily-news/2024-01-30-daily-news-22d69566.json) Abeysekara – Claudia Clorida Heyzer – (Nee Schokman),​
+* 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-fde1d7e5.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-fbdfcaa7.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-fb56a4dd.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-e768c297.json) Inna Lillahi Wa Inna Llaihi Rajioon
@@ -53,6 +54,7 @@ Last run at **2024-01-31 01:35:25**.
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-273c2404.json) Inna Lillahi Wa Inna Llaihi Rajioon
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-07aa5927.json) Inna Lillahi Wa Inna Llaihi Rajioon
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-0714b5b1.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
+* 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-05da22c3.json) Inna Lillahi Wa Inna Llaihi Rajioon
 
 ##### 2024-01-29
 
