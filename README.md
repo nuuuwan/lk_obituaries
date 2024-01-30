@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-31 02:03:22**.
+Last run at **2024-01-31 02:33:42**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (523)
+## List of Obituaries (525)
 
 ### 2024
 
@@ -24,6 +24,8 @@ Last run at **2024-01-31 02:03:22**.
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-fde1d7e5.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-fbdfcaa7.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-fb56a4dd.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
+* 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-f3fcab05.json) Inna Lillahi Wa Inna Llaihi Rajioon
+* 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-f36dddc1.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-e768c297.json) Inna Lillahi Wa Inna Llaihi Rajioon
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-e138d4f8.json) Sugirtha Devi Kumaradas Maapana Mudaliyar
 * 🪞 [Daily Mirror](data/2024-01-30/daily-mirror/2024-01-30-daily-mirror-dd3f253d.json) Inna Lillahi Wa Inna Llaihi Rajioon
