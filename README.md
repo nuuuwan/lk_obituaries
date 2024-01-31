@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-31 19:04:12**.
+Last run at **2024-01-31 19:34:24**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (576)
+## List of Obituaries (579)
 
 ### 2024
 
@@ -20,6 +20,8 @@ Last run at **2024-01-31 19:04:12**.
 * 📰 [Daily News](data/2024-01-31/daily-news/2024-01-31-daily-news-b2e4a0b5.json) Juriansz Richard Llewellyn (Dickie)
 * 📰 [Daily News](data/2024-01-31/daily-news/2024-01-31-daily-news-9a0f08d9.json) Sinniah – Talia Shalini
 * 📰 [Daily News](data/2024-01-31/daily-news/2024-01-31-daily-news-6310fe27.json) Thuyacontha – Chithra
+* 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-feb3bdc3.json) Mr. R. L. Juriansz
+* 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-f5bc8a07.json) Talia Shalini
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-ec58104e.json) Talia Shalini
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-e7a489f9.json) Talia Shalini
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-e7a2ee8b.json) Kosala Nadarajah
@@ -58,6 +60,7 @@ Last run at **2024-01-31 19:04:12**.
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-3532556d.json) Kosala Nadarajah
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-2c3ef0d0.json) Mr. R. L. Juriansz
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-23203525.json) Mr. R. L. Juriansz
+* 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-1c91043e.json) Kosala Nadarajah
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-1a4705c0.json) Mr. R. L. Juriansz
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-13afe4ee.json) Talia Shalini
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-12e45752.json) Kosala Nadarajah
