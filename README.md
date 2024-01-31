@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-31 14:34:07**.
+Last run at **2024-01-31 15:03:34**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (555)
+## List of Obituaries (558)
 
 ### 2024
 
@@ -20,6 +20,7 @@ Last run at **2024-01-31 14:34:07**.
 * 📰 [Daily News](data/2024-01-31/daily-news/2024-01-31-daily-news-b2e4a0b5.json) Juriansz Richard Llewellyn (Dickie)
 * 📰 [Daily News](data/2024-01-31/daily-news/2024-01-31-daily-news-9a0f08d9.json) Sinniah – Talia Shalini
 * 📰 [Daily News](data/2024-01-31/daily-news/2024-01-31-daily-news-6310fe27.json) Thuyacontha – Chithra
+* 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-ec58104e.json) Talia Shalini
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-e7a489f9.json) Talia Shalini
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-e7a2ee8b.json) Kosala Nadarajah
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-e025e3f4.json) Kosala Nadarajah
@@ -29,6 +30,7 @@ Last run at **2024-01-31 14:34:07**.
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-c94818f9.json) Talia Shalini
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-91c51dd7.json) Mr. R. L. Juriansz
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-89ae9220.json) Mr. R. L. Juriansz
+* 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-71be5493.json) Kosala Nadarajah
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-65e91e05.json) Talia Shalini
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-62c44a4c.json) Mr. R. L. Juriansz
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-5a34e8ea.json) Kosala Nadarajah
@@ -40,6 +42,7 @@ Last run at **2024-01-31 14:34:07**.
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-3c8cb5e0.json) Mr. R. L. Juriansz
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-3c4b4b6c.json) Talia Shalini
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-3a59ec9d.json) Kosala Nadarajah
+* 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-1a4705c0.json) Mr. R. L. Juriansz
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-13afe4ee.json) Talia Shalini
 
 ##### 2024-01-30
