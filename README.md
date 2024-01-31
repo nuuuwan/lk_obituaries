@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-01-31 05:04:26**.
+Last run at **2024-01-31 05:41:11**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (525)
+## List of Obituaries (528)
 
 ### 2024
 
 #### 2024-01
+
+##### 2024-01-31
+
+* 📰 [Daily News](data/2024-01-31/daily-news/2024-01-31-daily-news-b2e4a0b5.json) Juriansz Richard Llewellyn (Dickie)
+* 📰 [Daily News](data/2024-01-31/daily-news/2024-01-31-daily-news-9a0f08d9.json) Sinniah – Talia Shalini
+* 📰 [Daily News](data/2024-01-31/daily-news/2024-01-31-daily-news-6310fe27.json) Thuyacontha – Chithra
 
 ##### 2024-01-30
 
