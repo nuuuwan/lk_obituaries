@@ -2,16 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-01 05:03:31**.
+Last run at **2024-02-01 05:41:59**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (581)
+## List of Obituaries (584)
 
 ### 2024
+
+#### 2024-02
+
+##### 2024-02-01
+
+* 📰 [Daily News](data/2024-02-01/daily-news/2024-02-01-daily-news-cb7ac62d.json) Karunadasa – B.W
+* 📰 [Daily News](data/2024-02-01/daily-news/2024-02-01-daily-news-2b6c8564.json) Sinniah – Talia Shalini
+* 📰 [Daily News](data/2024-02-01/daily-news/2024-02-01-daily-news-0e98dcd4.json) Samarawickrama Lakshmi Iranganie (Nee Ranasinghe)
 
 #### 2024-01
 
