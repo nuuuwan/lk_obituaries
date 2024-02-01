@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-01 18:34:07**.
+Last run at **2024-02-01 19:03:31**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (599)
+## List of Obituaries (600)
 
 ### 2024
 
@@ -30,6 +30,7 @@ Last run at **2024-02-01 18:34:07**.
 * 🪞 [Daily Mirror](data/2024-02-01/daily-mirror/2024-02-01-daily-mirror-777ddf17.json) Darling Daughter Of Chinna (Bernard) And Anita
 * 🪞 [Daily Mirror](data/2024-02-01/daily-mirror/2024-02-01-daily-mirror-71116f98.json) Darling Daughter Of Chinna (Bernard) And Anita
 * 🪞 [Daily Mirror](data/2024-02-01/daily-mirror/2024-02-01-daily-mirror-6f19faed.json) Darling Daughter Of Chinna (Bernard) And Anita
+* 🪞 [Daily Mirror](data/2024-02-01/daily-mirror/2024-02-01-daily-mirror-5ca0fd86.json) Darling Daughter Of Chinna (Bernard) And Anita
 * 🪞 [Daily Mirror](data/2024-02-01/daily-mirror/2024-02-01-daily-mirror-51845559.json) Darling Daughter Of Chinna (Bernard) And Anita
 * 🪞 [Daily Mirror](data/2024-02-01/daily-mirror/2024-02-01-daily-mirror-4a532538.json) Darling Daughter Of Chinna (Bernard) And Anita
 * 🪞 [Daily Mirror](data/2024-02-01/daily-mirror/2024-02-01-daily-mirror-1b027697.json) Darling Daughter Of Chinna (Bernard) And Anita
