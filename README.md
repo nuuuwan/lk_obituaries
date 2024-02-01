@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-01 10:03:35**.
+Last run at **2024-02-01 10:34:58**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (584)
+## List of Obituaries (585)
 
 ### 2024
 
@@ -29,6 +29,7 @@ Last run at **2024-02-01 10:03:35**.
 * 📰 [Daily News](data/2024-01-31/daily-news/2024-01-31-daily-news-9a0f08d9.json) Sinniah – Talia Shalini
 * 📰 [Daily News](data/2024-01-31/daily-news/2024-01-31-daily-news-6310fe27.json) Thuyacontha – Chithra
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-feb3bdc3.json) Mr. R. L. Juriansz
+* 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-fa08145f.json) Darling Daughter Of Chinna (Bernard) And Anita
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-f5bc8a07.json) Talia Shalini
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-ec58104e.json) Talia Shalini
 * 🪞 [Daily Mirror](data/2024-01-31/daily-mirror/2024-01-31-daily-mirror-e7a489f9.json) Talia Shalini
