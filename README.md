@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-01 17:34:53**.
+Last run at **2024-02-01 18:08:59**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (597)
+## List of Obituaries (598)
 
 ### 2024
 
@@ -20,6 +20,7 @@ Last run at **2024-02-01 17:34:53**.
 * 📰 [Daily News](data/2024-02-01/daily-news/2024-02-01-daily-news-cb7ac62d.json) Karunadasa – B.W
 * 📰 [Daily News](data/2024-02-01/daily-news/2024-02-01-daily-news-2b6c8564.json) Sinniah – Talia Shalini
 * 📰 [Daily News](data/2024-02-01/daily-news/2024-02-01-daily-news-0e98dcd4.json) Samarawickrama Lakshmi Iranganie (Nee Ranasinghe)
+* 🪞 [Daily Mirror](data/2024-02-01/daily-mirror/2024-02-01-daily-mirror-f819821f.json) Darling Daughter Of Chinna (Bernard) And Anita
 * 🪞 [Daily Mirror](data/2024-02-01/daily-mirror/2024-02-01-daily-mirror-f607d066.json) Darling Daughter Of Chinna (Bernard) And Anita
 * 🪞 [Daily Mirror](data/2024-02-01/daily-mirror/2024-02-01-daily-mirror-e6baf82e.json) Darling Daughter Of Chinna (Bernard) And Anita
 * 🪞 [Daily Mirror](data/2024-02-01/daily-mirror/2024-02-01-daily-mirror-b711b2bb.json) Darling Daughter Of Chinna (Bernard) And Anita
