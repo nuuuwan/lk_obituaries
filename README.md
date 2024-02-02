@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-02 12:03:16**.
+Last run at **2024-02-02 12:33:57**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (608)
+## List of Obituaries (609)
 
 ### 2024
 
@@ -20,6 +20,7 @@ Last run at **2024-02-02 12:03:16**.
 * 📰 [Daily News](data/2024-02-02/daily-news/2024-02-02-daily-news-850dd5ab.json) Lion Bandula Senaratna
 * 🪞 [Daily Mirror](data/2024-02-02/daily-mirror/2024-02-02-daily-mirror-cf464339.json) Mr. Upali Jayasuriya
 * 🪞 [Daily Mirror](data/2024-02-02/daily-mirror/2024-02-02-daily-mirror-4d3c54b6.json) Mr. Upali Jayasuriya
+* 🪞 [Daily Mirror](data/2024-02-02/daily-mirror/2024-02-02-daily-mirror-3710bc16.json) Mr. Upali Jayasuriya
 * 🪞 [Daily Mirror](data/2024-02-02/daily-mirror/2024-02-02-daily-mirror-2b80e1fd.json) Mr. Upali Jayasuriya
 * 🪞 [Daily Mirror](data/2024-02-02/daily-mirror/2024-02-02-daily-mirror-21fe93d9.json) Mr. Upali Jayasuriya
 
