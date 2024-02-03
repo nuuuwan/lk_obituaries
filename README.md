@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-03 05:03:16**.
+Last run at **2024-02-03 05:41:47**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (620)
+## List of Obituaries (622)
 
 ### 2024
 
 #### 2024-02
+
+##### 2024-02-03
+
+* 📰 [Daily News](data/2024-02-03/daily-news/2024-02-03-daily-news-e957e6ea.json) Lion Bandula Senaratna (Kalutara Central)
+* 📰 [Daily News](data/2024-02-03/daily-news/2024-02-03-daily-news-e7c517e4.json) Ashley Perera (Old Ben)
 
 ##### 2024-02-02
 
