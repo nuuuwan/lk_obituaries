@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-07 18:08:57**.
+Last run at **2024-02-07 18:34:12**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (653)
+## List of Obituaries (654)
 
 ### 2024
 
@@ -24,6 +24,7 @@ Last run at **2024-02-07 18:08:57**.
 * 🪞 [Daily Mirror](data/2024-02-07/daily-mirror/2024-02-07-daily-mirror-a3be6eeb.json) Parathalingam - Padma
 * 🪞 [Daily Mirror](data/2024-02-07/daily-mirror/2024-02-07-daily-mirror-97a477eb.json) Parathalingam - Padma
 * 🪞 [Daily Mirror](data/2024-02-07/daily-mirror/2024-02-07-daily-mirror-93ac25d5.json) Parathalingam - Padma
+* 🪞 [Daily Mirror](data/2024-02-07/daily-mirror/2024-02-07-daily-mirror-80373852.json) Parathalingam - Padma
 * 🪞 [Daily Mirror](data/2024-02-07/daily-mirror/2024-02-07-daily-mirror-62fa2e37.json) Parathalingam - Padma
 * 🪞 [Daily Mirror](data/2024-02-07/daily-mirror/2024-02-07-daily-mirror-553452b4.json) Parathalingam - Padma
 * 🪞 [Daily Mirror](data/2024-02-07/daily-mirror/2024-02-07-daily-mirror-474b2f7e.json) Parathalingam - Padma
