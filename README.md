@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-07 11:34:18**.
+Last run at **2024-02-07 12:03:15**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (641)
+## List of Obituaries (642)
 
 ### 2024
 
@@ -39,6 +39,7 @@ Last run at **2024-02-07 11:34:18**.
 
 * 📰 [Daily News](data/2024-02-05/daily-news/2024-02-05-daily-news-be77ef1c.json) Senanayake – Maureen Gertrude Mamelta
 * 🪞 [Daily Mirror](data/2024-02-05/daily-mirror/2024-02-05-daily-mirror-5ef8edc2.json) Parathalingam - Padma
+* 🪞 [Daily Mirror](data/2024-02-05/daily-mirror/2024-02-05-daily-mirror-0df87e65.json) Parathalingam - Padma
 
 ##### 2024-02-03
 
