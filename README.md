@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-09 19:03:41**.
+Last run at **2024-02-09 19:34:03**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (677)
+## List of Obituaries (678)
 
 ### 2024
 
@@ -23,6 +23,7 @@ Last run at **2024-02-09 19:03:41**.
 * 🪞 [Daily Mirror](data/2024-02-09/daily-mirror/2024-02-09-daily-mirror-b5e7eea3.json) Devotta - Geraldine Grace (Retired Teacher)
 * 🪞 [Daily Mirror](data/2024-02-09/daily-mirror/2024-02-09-daily-mirror-b0d3fa92.json) Devotta - Geraldine Grace (Retired Teacher)
 * 🪞 [Daily Mirror](data/2024-02-09/daily-mirror/2024-02-09-daily-mirror-aeef1a86.json) Devotta - Geraldine Grace (Retired Teacher)
+* 🪞 [Daily Mirror](data/2024-02-09/daily-mirror/2024-02-09-daily-mirror-71f30243.json) Devotta - Geraldine Grace (Retired Teacher)
 * 🪞 [Daily Mirror](data/2024-02-09/daily-mirror/2024-02-09-daily-mirror-7081f801.json) Devotta - Geraldine Grace (Retired Teacher)
 * 🪞 [Daily Mirror](data/2024-02-09/daily-mirror/2024-02-09-daily-mirror-6072ff12.json) Devotta - Geraldine Grace (Retired Teacher)
 * 🪞 [Daily Mirror](data/2024-02-09/daily-mirror/2024-02-09-daily-mirror-5f2294db.json) Devotta - Geraldine Grace (Retired Teacher)
