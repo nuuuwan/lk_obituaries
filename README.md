@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-09 10:03:30**.
+Last run at **2024-02-09 10:34:26**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (660)
+## List of Obituaries (661)
 
 ### 2024
 
@@ -23,6 +23,7 @@ Last run at **2024-02-09 10:03:30**.
 
 * 📰 [Daily News](data/2024-02-08/daily-news/2024-02-08-daily-news-ed051e09.json) De Silva – Mrs. Arumadura Vinitamali,
 * 📰 [Daily News](data/2024-02-08/daily-news/2024-02-08-daily-news-0748155e.json) Devotta – Geraldine Grace,​ 
+* 🪞 [Daily Mirror](data/2024-02-08/daily-mirror/2024-02-08-daily-mirror-9e808804.json) Devotta - Geraldine Grace (Retired Teacher)
 
 ##### 2024-02-07
 
