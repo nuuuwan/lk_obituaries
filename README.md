@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-09 05:03:29**.
+Last run at **2024-02-09 05:41:21**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (659)
+## List of Obituaries (660)
 
 ### 2024
 
 #### 2024-02
+
+##### 2024-02-09
+
+* 📰 [Daily News](data/2024-02-09/daily-news/2024-02-09-daily-news-23cb89a9.json) Devotta – Geraldine Grace,
 
 ##### 2024-02-08
 
