@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-12 19:03:26**.
+Last run at **2024-02-12 19:34:24**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (698)
+## List of Obituaries (699)
 
 ### 2024
 
@@ -30,6 +30,7 @@ Last run at **2024-02-12 19:03:26**.
 * 🪞 [Daily Mirror](data/2024-02-12/daily-mirror/2024-02-12-daily-mirror-13517501.json) Nagarajан – К.Ј.Т.
 * 🪞 [Daily Mirror](data/2024-02-12/daily-mirror/2024-02-12-daily-mirror-0ef81fc8.json) Nagarajан – К.Ј.Т.
 * 🪞 [Daily Mirror](data/2024-02-12/daily-mirror/2024-02-12-daily-mirror-0bcad21a.json) Nagarajан – К.Ј.Т.
+* 🪞 [Daily Mirror](data/2024-02-12/daily-mirror/2024-02-12-daily-mirror-0871c9ee.json) Nagarajан – К.Ј.Т.
 * 🪞 [Daily Mirror](data/2024-02-12/daily-mirror/2024-02-12-daily-mirror-07f54957.json) Nagarajан – К.Ј.Т.
 * 🪞 [Daily Mirror](data/2024-02-12/daily-mirror/2024-02-12-daily-mirror-064f969b.json) Nagarajан – К.Ј.Т.
 
