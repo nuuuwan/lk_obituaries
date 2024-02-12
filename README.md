@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-12 13:06:15**.
+Last run at **2024-02-12 13:34:53**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (689)
+## List of Obituaries (690)
 
 ### 2024
 
@@ -20,6 +20,7 @@ Last run at **2024-02-12 13:06:15**.
 * 📰 [Daily News](data/2024-02-12/daily-news/2024-02-12-daily-news-cea24c19.json) Meurling – Brendon Remigus – 
 * 🪞 [Daily Mirror](data/2024-02-12/daily-mirror/2024-02-12-daily-mirror-e0b4b48d.json) Nagarajан – К.Ј.Т.
 * 🪞 [Daily Mirror](data/2024-02-12/daily-mirror/2024-02-12-daily-mirror-b059a5b2.json) Nagarajан – К.Ј.Т.
+* 🪞 [Daily Mirror](data/2024-02-12/daily-mirror/2024-02-12-daily-mirror-4dbbe854.json) Nagarajан – К.Ј.Т.
 * 🪞 [Daily Mirror](data/2024-02-12/daily-mirror/2024-02-12-daily-mirror-372653f2.json) Nagarajан – К.Ј.Т.
 * 🪞 [Daily Mirror](data/2024-02-12/daily-mirror/2024-02-12-daily-mirror-13517501.json) Nagarajан – К.Ј.Т.
 * 🪞 [Daily Mirror](data/2024-02-12/daily-mirror/2024-02-12-daily-mirror-064f969b.json) Nagarajан – К.Ј.Т.
