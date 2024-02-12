@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-12 10:05:23**.
+Last run at **2024-02-12 10:35:35**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (683)
+## List of Obituaries (684)
 
 ### 2024
 
@@ -27,6 +27,7 @@ Last run at **2024-02-12 10:05:23**.
 
 * 📰 [Daily News](data/2024-02-10/daily-news/2024-02-10-daily-news-ce20e6dd.json) Wijesinghe – Gamini
 * 📰 [Daily News](data/2024-02-10/daily-news/2024-02-10-daily-news-01cc2ff3.json) Devotta – Geraldine Grace,​
+* 🪞 [Daily Mirror](data/2024-02-10/daily-mirror/2024-02-10-daily-mirror-6b787c49.json) Nagarajан – К.Ј.Т.
 
 ##### 2024-02-09
 
