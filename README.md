@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-13 14:04:25**.
+Last run at **2024-02-13 14:35:18**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (275)
+## List of Obituaries (307)
 
 ### 2024
 
@@ -654,3 +654,80 @@ Last run at **2024-02-13 14:04:25**.
 ##### 2023-08-29
 
 * 📰 [Daily News](data/2023-08-29/daily-news/2023-08-29-daily-news-34706a0b.json) Abeywickrama – Dr. Gamini
+
+##### 2023-08-26
+
+* 📰 [Daily News](data/2023-08-26/daily-news/2023-08-26-daily-news-d40ae5af.json) Stave – John
+* 📰 [Daily News](data/2023-08-26/daily-news/2023-08-26-daily-news-c9fbf497.json) Dias Bandaranaike,​ Lakshmi (Nee Jayasundara)
+* 📰 [Daily News](data/2023-08-26/daily-news/2023-08-26-daily-news-b2083828.json) Egodage Indrani (Samaranayake)
+
+##### 2023-08-25
+
+* 📰 [Daily News](data/2023-08-25/daily-news/2023-08-25-daily-news-d29e9d2d.json) Gonawela – Mrs Florence Mary
+* 📰 [Daily News](data/2023-08-25/daily-news/2023-08-25-daily-news-c8a51dbd.json) Stave – John
+* 📰 [Daily News](data/2023-08-25/daily-news/2023-08-25-daily-news-63fffb35.json) Abeywickrema Irandi
+
+##### 2023-08-24
+
+* 📰 [Daily News](data/2023-08-24/daily-news/2023-08-24-daily-news-f99d7306.json) Fernandopulle – Mercia (Bubby)
+
+##### 2023-08-22
+
+* 📰 [Daily News](data/2023-08-22/daily-news/2023-08-22-daily-news-da7336d3.json) Perumal – Helen
+* 📰 [Daily News](data/2023-08-22/daily-news/2023-08-22-daily-news-90620ab8.json) Herft – Yvonne Marvis
+
+##### 2023-08-21
+
+* 📰 [Daily News](data/2023-08-21/daily-news/2023-08-21-daily-news-0b178907.json) Kamala Samaranayake
+
+##### 2023-08-19
+
+* 📰 [Daily News](data/2023-08-19/daily-news/2023-08-19-daily-news-feb4fcaf.json) Webster – Mervyn
+* 📰 [Daily News](data/2023-08-19/daily-news/2023-08-19-daily-news-f6a19e2a.json) Wijesinghe – Mallika
+* 📰 [Daily News](data/2023-08-19/daily-news/2023-08-19-daily-news-67f13d8e.json) Cooray – Dr. Nilanthi
+
+##### 2023-08-18
+
+* 📰 [Daily News](data/2023-08-18/daily-news/2023-08-18-daily-news-a08d1bcd.json) Webster – Mervyn
+* 📰 [Daily News](data/2023-08-18/daily-news/2023-08-18-daily-news-13ae55a1.json) Perera – Gamini,​
+
+##### 2023-08-17
+
+* 📰 [Daily News](data/2023-08-17/daily-news/2023-08-17-daily-news-4acd339c.json) Webster – Mervyn
+* 📰 [Daily News](data/2023-08-17/daily-news/2023-08-17-daily-news-19b22891.json) Al Haj Mohamed Mohamed Kaleel
+
+##### 2023-08-14
+
+* 📰 [Daily News](data/2023-08-14/daily-news/2023-08-14-daily-news-fb99ed86.json) Peiris – Pansy
+
+##### 2023-08-12
+
+* 📰 [Daily News](data/2023-08-12/daily-news/2023-08-12-daily-news-865f0a89.json) Abayawardana Nimal
+* 📰 [Daily News](data/2023-08-12/daily-news/2023-08-12-daily-news-05ce2fca.json) Antonypillai Augustine
+
+##### 2023-08-09
+
+* 📰 [Daily News](data/2023-08-09/daily-news/2023-08-09-daily-news-4888d3b2.json) Bulner – Norah Audrey
+* 📰 [Daily News](data/2023-08-09/daily-news/2023-08-09-daily-news-45f05dff.json) Dr. Weerasekara J.K.S.
+
+##### 2023-08-08
+
+* 📰 [Daily News](data/2023-08-08/daily-news/2023-08-08-daily-news-ec497aff.json) Dr. Weerasekara J.K.S.
+* 📰 [Daily News](data/2023-08-08/daily-news/2023-08-08-daily-news-d70be2c7.json) De Silva – Mr Nihan
+
+##### 2023-08-05
+
+* 📰 [Daily News](data/2023-08-05/daily-news/2023-08-05-daily-news-f3fc9876.json) Panambalana Leonard
+* 📰 [Daily News](data/2023-08-05/daily-news/2023-08-05-daily-news-f03cc002.json) Goonewardene – Mrs Victorine (Nee De Almeida)
+* 📰 [Daily News](data/2023-08-05/daily-news/2023-08-05-daily-news-94695e49.json) Perera – Gayatri,​
+* 📰 [Daily News](data/2023-08-05/daily-news/2023-08-05-daily-news-18273af8.json) Shakthevell – T. (Ex Hnb)
+
+##### 2023-08-04
+
+* 📰 [Daily News](data/2023-08-04/daily-news/2023-08-04-daily-news-e625810c.json) Shakthevell – T
+* 📰 [Daily News](data/2023-08-04/daily-news/2023-08-04-daily-news-ca5a454c.json) Sujatha Jagodage –
+* 📰 [Daily News](data/2023-08-04/daily-news/2023-08-04-daily-news-46d5b5c0.json) Panambalana Leonard
+
+##### 2023-08-03
+
+* 📰 [Daily News](data/2023-08-03/daily-news/2023-08-03-daily-news-c011d3b2.json) Ekanayake – Sita Rosalin (Nee Samarakoon)
