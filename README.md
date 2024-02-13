@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-13 13:36:30**.
+Last run at **2024-02-13 14:04:25**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (238)
+## List of Obituaries (275)
 
 ### 2024
 
@@ -555,3 +555,102 @@ Last run at **2024-02-13 13:36:30**.
 * 📰 [Daily News](data/2023-09-26/daily-news/2023-09-26-daily-news-dc3d8ca5.json) Goonewardene – Avis Ninette (Nee Gerreyn)
 * 📰 [Daily News](data/2023-09-26/daily-news/2023-09-26-daily-news-8ad888d3.json) Neththikumara Ranjith Srilal Fonseka
 * 📰 [Daily News](data/2023-09-26/daily-news/2023-09-26-daily-news-1c18108c.json) Rev. Sister Geraldine Perera
+
+##### 2023-09-25
+
+* 📰 [Daily News](data/2023-09-25/daily-news/2023-09-25-daily-news-a9cfb77c.json) Rajanathan – Yogam
+
+##### 2023-09-23
+
+* 📰 [Daily News](data/2023-09-23/daily-news/2023-09-23-daily-news-9548b8b0.json) Jesudason
+
+##### 2023-09-22
+
+* 📰 [Daily News](data/2023-09-22/daily-news/2023-09-22-daily-news-531715c1.json) Harold Llewellyn Juriansz
+
+##### 2023-09-20
+
+* 📰 [Daily News](data/2023-09-20/daily-news/2023-09-20-daily-news-e37b7923.json) Eyabalan – Muttiah
+* 📰 [Daily News](data/2023-09-20/daily-news/2023-09-20-daily-news-8ee82c8d.json) Anandakumar,​ Lucian Kushwant
+* 📰 [Daily News](data/2023-09-20/daily-news/2023-09-20-daily-news-89d0f6d7.json) Dharmapala – Senarath
+
+##### 2023-09-19
+
+* 📰 [Daily News](data/2023-09-19/daily-news/2023-09-19-daily-news-c08ae521.json) Anandakumar,​ Lucian Kushwant
+
+##### 2023-09-18
+
+* 📰 [Daily News](data/2023-09-18/daily-news/2023-09-18-daily-news-504a4790.json) Patuwathavithana – Mrs. Dorathy
+
+##### 2023-09-16
+
+* 📰 [Daily News](data/2023-09-16/daily-news/2023-09-16-daily-news-a6e5a194.json) De Zoysa – Mrs Rupa Ranjani (Nee De Silva)
+* 📰 [Daily News](data/2023-09-16/daily-news/2023-09-16-daily-news-42876c40.json) De Silva – Druvi
+* 📰 [Daily News](data/2023-09-16/daily-news/2023-09-16-daily-news-3ff5e7da.json) Cooray – Monica – (Nee Fernando)
+
+##### 2023-09-14
+
+* 📰 [Daily News](data/2023-09-14/daily-news/2023-09-14-daily-news-ac2fb4c8.json) Fernando – Oliver Annesly
+* 📰 [Daily News](data/2023-09-14/daily-news/2023-09-14-daily-news-71a645d4.json) Weliwita – Thusitha
+* 📰 [Daily News](data/2023-09-14/daily-news/2023-09-14-daily-news-48a59810.json) Wijesuriya – Soma
+* 📰 [Daily News](data/2023-09-14/daily-news/2023-09-14-daily-news-38d9e1e2.json) Rodrigo – Clifford Tissa
+
+##### 2023-09-13
+
+* 📰 [Daily News](data/2023-09-13/daily-news/2023-09-13-daily-news-a3ee6ce8.json) Ranasinghe,​ Norman Matthew
+* 📰 [Daily News](data/2023-09-13/daily-news/2023-09-13-daily-news-26189770.json) Mahinda Bandara Warakaulle
+
+##### 2023-09-12
+
+* 📰 [Daily News](data/2023-09-12/daily-news/2023-09-12-daily-news-41793c0f.json) Adhihetty,​ Hiran
+* 📰 [Daily News](data/2023-09-12/daily-news/2023-09-12-daily-news-231325ba.json) De Silva, Chitrika
+
+##### 2023-09-11
+
+* 📰 [Daily News](data/2023-09-11/daily-news/2023-09-11-daily-news-49b312ea.json) Harindran – Colonel Ramalingam –
+
+##### 2023-09-08
+
+* 📰 [Daily News](data/2023-09-08/daily-news/2023-09-08-daily-news-f6bf36c3.json) Kulandra (Kulen) Ratneser
+* 📰 [Daily News](data/2023-09-08/daily-news/2023-09-08-daily-news-4e4c59c3.json) Dias,​ Dorothy
+
+##### 2023-09-07
+
+* 📰 [Daily News](data/2023-09-07/daily-news/2023-09-07-daily-news-ea29ae24.json) Kulandra (Kulen) Ratneser
+
+##### 2023-09-05
+
+* 📰 [Daily News](data/2023-09-05/daily-news/2023-09-05-daily-news-d6a67ca8.json) Mallawaratchie – S. Malini –
+* 📰 [Daily News](data/2023-09-05/daily-news/2023-09-05-daily-news-cf0642e4.json) Ratnayake – R.M.A.
+
+##### 2023-09-04
+
+* 📰 [Daily News](data/2023-09-04/daily-news/2023-09-04-daily-news-a9526c6a.json) Alwis – Christie
+
+##### 2023-09-02
+
+* 📰 [Daily News](data/2023-09-02/daily-news/2023-09-02-daily-news-fe7e00ff.json) Abhayaratna,​ Manel (Nee Jayasuriya)
+* 📰 [Daily News](data/2023-09-02/daily-news/2023-09-02-daily-news-ccd1e7d3.json) De Silva – Nihal
+* 📰 [Daily News](data/2023-09-02/daily-news/2023-09-02-daily-news-8d0bb413.json) Christie Alwis
+* 📰 [Daily News](data/2023-09-02/daily-news/2023-09-02-daily-news-4a5671d8.json) Handy – Dr Srikanti (Kanti)
+
+##### 2023-09-01
+
+* 📰 [Daily News](data/2023-09-01/daily-news/2023-09-01-daily-news-c5c74997.json) Abhayaratna,​ Manel
+* 📰 [Daily News](data/2023-09-01/daily-news/2023-09-01-daily-news-0fcace6c.json) Handy – Dr Srikanti
+
+#### 2023-08
+
+##### 2023-08-31
+
+* 📰 [Daily News](data/2023-08-31/daily-news/2023-08-31-daily-news-70893b0d.json) Panabokke – Dr. C.R
+* 📰 [Daily News](data/2023-08-31/daily-news/2023-08-31-daily-news-5918777b.json) Rev. Sr. Vincent Perrer Perera
+* 📰 [Daily News](data/2023-08-31/daily-news/2023-08-31-daily-news-426d0c14.json) Salgado – Ramya Lakshmini Nee Jayasekera –
+
+##### 2023-08-30
+
+* 📰 [Daily News](data/2023-08-30/daily-news/2023-08-30-daily-news-67258191.json) Panabokke
+
+##### 2023-08-29
+
+* 📰 [Daily News](data/2023-08-29/daily-news/2023-08-29-daily-news-34706a0b.json) Abeywickrama – Dr. Gamini
