@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-13 11:36:02**.
+Last run at **2024-02-13 12:05:31**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (69)
+## List of Obituaries (119)
 
 ### 2024
 
@@ -139,42 +139,104 @@ Last run at **2024-02-13 11:36:02**.
 
 ##### 2024-01-12
 
+* 📰 [Daily News](data/2024-01-12/daily-news/2024-01-12-daily-news-a10f5284.json) Mrs A.R.C.C. Mortier (Anne),
+* 📰 [Daily News](data/2024-01-12/daily-news/2024-01-12-daily-news-4d10b011.json) Fernando,​ Godwin
+* 📰 [Daily News](data/2024-01-12/daily-news/2024-01-12-daily-news-41fc4186.json) Hakmana – Ananda Bandara
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-f2b15285.json) Dr. Kandasamy Ponnusamy (Nawaloka Hospital Plc)
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-64e572f2.json) Basnayake - Clarible
 * 🪞 [Daily Mirror](data/2024-01-12/daily-mirror/2024-01-12-daily-mirror-3f492f12.json) De Silva-Baddhika
 
 ##### 2024-01-11
 
+* 📰 [Daily News](data/2024-01-11/daily-news/2024-01-11-daily-news-164448e8.json) Fernando – Godwin
 * 🪞 [Daily Mirror](data/2024-01-11/daily-mirror/2024-01-11-daily-mirror-335afba5.json) Fonseka-Bertha Olivia (Nee Fernando)
+
+##### 2024-01-10
+
+* 📰 [Daily News](data/2024-01-10/daily-news/2024-01-10-daily-news-dbc3c008.json) Rev. Sister Marie Louise A.C.
+* 📰 [Daily News](data/2024-01-10/daily-news/2024-01-10-daily-news-ba0b3c5f.json) Binduhewa – Mercy
+* 📰 [Daily News](data/2024-01-10/daily-news/2024-01-10-daily-news-123378e5.json) De Kretser,​ Carlton Loftus (Bunny)
 
 ##### 2024-01-08
 
+* 📰 [Daily News](data/2024-01-08/daily-news/2024-01-08-daily-news-b6e5f1af.json) Somalingam – Selvadurai
+* 📰 [Daily News](data/2024-01-08/daily-news/2024-01-08-daily-news-a3298632.json) Mahendran,​ Rajah
 * 🪞 [Daily Mirror](data/2024-01-08/daily-mirror/2024-01-08-daily-mirror-cbd75b66.json) Brohier Nee Holsinger - Barbara
+
+##### 2024-01-06
+
+* 📰 [Daily News](data/2024-01-06/daily-news/2024-01-06-daily-news-d2754a90.json) Karunaratne – Mervyn
+* 📰 [Daily News](data/2024-01-06/daily-news/2024-01-06-daily-news-cdb9bad3.json) Herath – Anula
+* 📰 [Daily News](data/2024-01-06/daily-news/2024-01-06-daily-news-6108a911.json) Mahpitigama Nanda
+* 📰 [Daily News](data/2024-01-06/daily-news/2024-01-06-daily-news-358ab59d.json) Mahendran,​ Rajah (
+
+##### 2024-01-05
+
+* 📰 [Daily News](data/2024-01-05/daily-news/2024-01-05-daily-news-bc803970.json) Mahendran, Rajah
+* 📰 [Daily News](data/2024-01-05/daily-news/2024-01-05-daily-news-ac0b5d3a.json) Piyasena Labutale
+* 📰 [Daily News](data/2024-01-05/daily-news/2024-01-05-daily-news-7d6578e7.json) Herath – Anula
+* 📰 [Daily News](data/2024-01-05/daily-news/2024-01-05-daily-news-18e23b31.json) Mendis – Olga
 
 ##### 2024-01-04
 
+* 📰 [Daily News](data/2024-01-04/daily-news/2024-01-04-daily-news-ac7b86fa.json) Widyalankara,​ Anula –
+* 📰 [Daily News](data/2024-01-04/daily-news/2024-01-04-daily-news-8519b7f4.json) Mendis – Olga
+* 📰 [Daily News](data/2024-01-04/daily-news/2024-01-04-daily-news-60ab8a81.json) Settinayake – Anoja Kusum
 * 🪞 [Daily Mirror](data/2024-01-04/daily-mirror/2024-01-04-daily-mirror-51034125.json) Mendis - Mrs. Olga
 
 ##### 2024-01-03
 
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-fec3ac99.json) Madhuraganan Shanmugananthan
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-f7d7c156.json)  
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-cb9facea.json) “Lakmilan” St. Jude Mawatha,
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-9f891eb3.json) Shiranthi Perera
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-757e3305.json) Daniel – Grace
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-567a5ac8.json) Remembrance
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-562175b8.json) De Silva – Dr. Sara
+* 📰 [Daily News](data/2024-01-03/daily-news/2024-01-03-daily-news-05e97796.json) Fernando – Dr. George
 * 🪞 [Daily Mirror](data/2024-01-03/daily-mirror/2024-01-03-daily-mirror-35f3374b.json) Perera - Shiranthi (Nee Mendis Abeysekara)
 
 ##### 2024-01-02
 
+* 📰 [Daily News](data/2024-01-02/daily-news/2024-01-02-daily-news-114a6620.json) Silva – Kamala
 * 🪞 [Daily Mirror](data/2024-01-02/daily-mirror/2024-01-02-daily-mirror-72dd2d27.json) Fernando - Dr. George
 
 ### 2023
 
 #### 2023-12
 
+##### 2023-12-30
+
+* 📰 [Daily News](data/2023-12-30/daily-news/2023-12-30-daily-news-892845cf.json) Sennen (S.A.) Perera
+* 📰 [Daily News](data/2023-12-30/daily-news/2023-12-30-daily-news-404334c2.json) Bertram Willard White (Bommer)
+* 📰 [Daily News](data/2023-12-30/daily-news/2023-12-30-daily-news-338c27f1.json) Coorey,​ Leila Lakshmi
+
+##### 2023-12-29
+
+* 📰 [Daily News](data/2023-12-29/daily-news/2023-12-29-daily-news-48a16706.json) Sennen (S.A.) Perera
+
 ##### 2023-12-28
 
+* 📰 [Daily News](data/2023-12-28/daily-news/2023-12-28-daily-news-1c29627e.json) Mason – Jeffrey
+* 📰 [Daily News](data/2023-12-28/daily-news/2023-12-28-daily-news-0515333f.json) Perera,​ N.V.G. (Gnana)
 * 🪞 [Daily Mirror](data/2023-12-28/daily-mirror/2023-12-28-daily-mirror-70623dde.json) Mason – Jeffrey
 * 🪞 [Daily Mirror](data/2023-12-28/daily-mirror/2023-12-28-daily-mirror-6eb00b9a.json) Herath – Susantha
 
 ##### 2023-12-27
 
+* 📰 [Daily News](data/2023-12-27/daily-news/2023-12-27-daily-news-f48f178f.json) Eng. Edward Walter Karunaratna
+* 📰 [Daily News](data/2023-12-27/daily-news/2023-12-27-daily-news-444bf8b0.json) Perera – Sennen (S.A Perera)
+* 📰 [Daily News](data/2023-12-27/daily-news/2023-12-27-daily-news-40fcfa42.json) Ekanayake – Pathma
 * 🪞 [Daily Mirror](data/2023-12-27/daily-mirror/2023-12-27-daily-mirror-bcce2b2e.json) Shanta P. Chitty
+
+##### 2023-12-26
+
+* 📰 [Daily News](data/2023-12-26/daily-news/2023-12-26-daily-news-c7aa29f6.json) Ekanayake – Pathma
+* 📰 [Daily News](data/2023-12-26/daily-news/2023-12-26-daily-news-70b1a555.json) Eng. Edward Walter Karunaratna
+
+##### 2023-12-23
+
+* 📰 [Daily News](data/2023-12-23/daily-news/2023-12-23-daily-news-848b6390.json) Rev. Fr. Quentin Perera
 
 ##### 2023-12-22
 
@@ -182,9 +244,24 @@ Last run at **2024-02-13 11:36:02**.
 
 ##### 2023-12-21
 
+* 📰 [Daily News](data/2023-12-21/daily-news/2023-12-21-daily-news-b65c6dc6.json) Ranasinghe – Bernadette (Bernie)
+* 📰 [Daily News](data/2023-12-21/daily-news/2023-12-21-daily-news-0c3d2694.json) Ludowyk – Theodore Derrick Brian
 * 🪞 [Daily Mirror](data/2023-12-21/daily-mirror/2023-12-21-daily-mirror-b0e910e3.json) Ranasinghe - Bernadette (Bernie)
 * 🪞 [Daily Mirror](data/2023-12-21/daily-mirror/2023-12-21-daily-mirror-667d5013.json) Ludowyk Theodore Derrick Brian
 
+##### 2023-12-20
+
+* 📰 [Daily News](data/2023-12-20/daily-news/2023-12-20-daily-news-c98edd4c.json) Dr Stanley Wijeyaratne
+* 📰 [Daily News](data/2023-12-20/daily-news/2023-12-20-daily-news-b913aa65.json) Dewage Karunadasa
+* 📰 [Daily News](data/2023-12-20/daily-news/2023-12-20-daily-news-a35ce4d2.json) Jayawardhana
+
 ##### 2023-12-19
 
+* 📰 [Daily News](data/2023-12-19/daily-news/2023-12-19-daily-news-b8389491.json) Cooray – Bhadrani – Beloved Wife Of Lakshman –
+* 📰 [Daily News](data/2023-12-19/daily-news/2023-12-19-daily-news-2cf9d574.json) Fernando – Rev. Premasiri –
 * 🪞 [Daily Mirror](data/2023-12-19/daily-mirror/2023-12-19-daily-mirror-bac71534.json) Dushantha De Mel
+
+##### 2023-12-18
+
+* 📰 [Daily News](data/2023-12-18/daily-news/2023-12-18-daily-news-c54330f6.json) Wijemanne – Vasantha Sivali
+* 📰 [Daily News](data/2023-12-18/daily-news/2023-12-18-daily-news-5b5ba96b.json) Sivamani Agustyan
