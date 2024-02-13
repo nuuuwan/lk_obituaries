@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-13 13:12:49**.
+Last run at **2024-02-13 13:36:30**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (194)
+## List of Obituaries (238)
 
 ### 2024
 
@@ -449,3 +449,109 @@ Last run at **2024-02-13 13:12:49**.
 
 * 📰 [Daily News](data/2023-10-24/daily-news/2023-10-24-daily-news-69e2b68b.json) Lucke Sunil Fernando
 * 📰 [Daily News](data/2023-10-24/daily-news/2023-10-24-daily-news-39299b6a.json) Swarna Wijetunge
+
+##### 2023-10-21
+
+* 📰 [Daily News](data/2023-10-21/daily-news/2023-10-21-daily-news-d49816b1.json) Gunesekera Asoka Terrance
+
+##### 2023-10-20
+
+* 📰 [Daily News](data/2023-10-20/daily-news/2023-10-20-daily-news-749c430f.json) Edward – Joseph Christopher Rajasingham (Joe)
+
+##### 2023-10-17
+
+* 📰 [Daily News](data/2023-10-17/daily-news/2023-10-17-daily-news-d2b3c62e.json) Rodrigo – Dr Wedage Dantha
+* 📰 [Daily News](data/2023-10-17/daily-news/2023-10-17-daily-news-205f7b0e.json) Paul – Mary Ranjani Ivy
+
+##### 2023-10-16
+
+* 📰 [Daily News](data/2023-10-16/daily-news/2023-10-16-daily-news-af16f394.json) Sondapperumaarachchi – Don Merril
+* 📰 [Daily News](data/2023-10-16/daily-news/2023-10-16-daily-news-9e5dcde7.json) Meurling – Anthony Ronald –
+* 📰 [Daily News](data/2023-10-16/daily-news/2023-10-16-daily-news-2f0734fa.json) Rev. Sister Mary Perpetual Succour Zoyza
+
+##### 2023-10-14
+
+* 📰 [Daily News](data/2023-10-14/daily-news/2023-10-14-daily-news-a98c15bf.json) Perusinghe – Keshini
+* 📰 [Daily News](data/2023-10-14/daily-news/2023-10-14-daily-news-81fa61c2.json) Uduwawala – Padmini
+* 📰 [Daily News](data/2023-10-14/daily-news/2023-10-14-daily-news-6b2426ff.json) Edirisinghe – Kamala Malini
+
+##### 2023-10-13
+
+* 📰 [Daily News](data/2023-10-13/daily-news/2023-10-13-daily-news-abf66170.json) Berhardt – (June) Marie Thomazine (Nee Ludowyk)
+* 📰 [Daily News](data/2023-10-13/daily-news/2023-10-13-daily-news-50a8bee9.json) Liyanaarachchi – Lal
+* 📰 [Daily News](data/2023-10-13/daily-news/2023-10-13-daily-news-4021c3a8.json) Uduwawala – Padmini
+* 📰 [Daily News](data/2023-10-13/daily-news/2023-10-13-daily-news-04f2aba2.json) Perera – Chandrani Suneth
+* 📰 [Daily News](data/2023-10-13/daily-news/2023-10-13-daily-news-04e09e23.json) De Silva – Nihal –
+
+##### 2023-10-12
+
+* 📰 [Daily News](data/2023-10-12/daily-news/2023-10-12-daily-news-fa44d11c.json) Liyanaarachchi – Lal
+* 📰 [Daily News](data/2023-10-12/daily-news/2023-10-12-daily-news-5dfb3a71.json) Watson – Patricia Indrawanthi (Nee Nevins Selvadurai)
+* 📰 [Daily News](data/2023-10-12/daily-news/2023-10-12-daily-news-1ed806c2.json) Berhardt (June) Marie Thomazine (Nee Ludowyk)
+
+##### 2023-10-11
+
+* 📰 [Daily News](data/2023-10-11/daily-news/2023-10-11-daily-news-fc70b4ed.json) Perera – Surangani Menique (Nee Wickremasinghe)
+* 📰 [Daily News](data/2023-10-11/daily-news/2023-10-11-daily-news-6615ed80.json) Fernando – Laksiri –
+* 📰 [Daily News](data/2023-10-11/daily-news/2023-10-11-daily-news-61e5f5fe.json) Weerasinghe Arthur Silva
+* 📰 [Daily News](data/2023-10-11/daily-news/2023-10-11-daily-news-42f1812c.json) Samarawickrama – Tamara
+
+##### 2023-10-10
+
+* 📰 [Daily News](data/2023-10-10/daily-news/2023-10-10-daily-news-50f628cf.json) Dias – J.V. Ranjitha
+
+##### 2023-10-09
+
+* 📰 [Daily News](data/2023-10-09/daily-news/2023-10-09-daily-news-dd2ed6a9.json) Ranjitha – J.V.
+* 📰 [Daily News](data/2023-10-09/daily-news/2023-10-09-daily-news-caed18f2.json) Siriwardhane – Kamal
+
+##### 2023-10-07
+
+* 📰 [Daily News](data/2023-10-07/daily-news/2023-10-07-daily-news-b792965c.json) Jayasuriya – Ivan
+* 📰 [Daily News](data/2023-10-07/daily-news/2023-10-07-daily-news-4c627210.json) Dirckze – Kamini
+
+##### 2023-10-06
+
+* 📰 [Daily News](data/2023-10-06/daily-news/2023-10-06-daily-news-c7e54fe3.json) Perumal Felix Anthony
+
+##### 2023-10-05
+
+* 📰 [Daily News](data/2023-10-05/daily-news/2023-10-05-daily-news-a6b0c4ee.json) Perumal Felix Anthony
+* 📰 [Daily News](data/2023-10-05/daily-news/2023-10-05-daily-news-0b903279.json) Josephine Sivasamboo
+
+##### 2023-10-04
+
+* 📰 [Daily News](data/2023-10-04/daily-news/2023-10-04-daily-news-fb954ccf.json) Imbuldeniya – Nalini Kadigamuwa
+* 📰 [Daily News](data/2023-10-04/daily-news/2023-10-04-daily-news-dc6f0bd5.json) Fernandopulle Dr Jbt
+* 📰 [Daily News](data/2023-10-04/daily-news/2023-10-04-daily-news-0b565586.json) Perera – Harinda (H.C.)
+
+##### 2023-10-03
+
+* 📰 [Daily News](data/2023-10-03/daily-news/2023-10-03-daily-news-d5bffedd.json) Perera – Harinda
+* 📰 [Daily News](data/2023-10-03/daily-news/2023-10-03-daily-news-06f687e9.json) Fernandopulle Dr Jbt
+
+#### 2023-09
+
+##### 2023-09-30
+
+* 📰 [Daily News](data/2023-09-30/daily-news/2023-09-30-daily-news-cd2c64de.json) Sellathamboo – Joseph Emmanuel Rajendra
+
+##### 2023-09-29
+
+* 📰 [Daily News](data/2023-09-29/daily-news/2023-09-29-daily-news-85143a8e.json) Sellathamboo – Joseph Emmanuel Rajendra
+
+##### 2023-09-28
+
+* 📰 [Daily News](data/2023-09-28/daily-news/2023-09-28-daily-news-847afcea.json) Manel – Perera (Nee Caldera),
+
+##### 2023-09-27
+
+* 📰 [Daily News](data/2023-09-27/daily-news/2023-09-27-daily-news-bb19dd27.json) Jayakody – Mithra (Nee Ratnavira)
+* 📰 [Daily News](data/2023-09-27/daily-news/2023-09-27-daily-news-ac36bb3f.json) Rev. Sister Mary Cinthia A.C. (Nee Hyacinth Blossom Emmanuel)
+* 📰 [Daily News](data/2023-09-27/daily-news/2023-09-27-daily-news-87b99d89.json) Neththikumara Ranjith Srilal Fonseka
+
+##### 2023-09-26
+
+* 📰 [Daily News](data/2023-09-26/daily-news/2023-09-26-daily-news-dc3d8ca5.json) Goonewardene – Avis Ninette (Nee Gerreyn)
+* 📰 [Daily News](data/2023-09-26/daily-news/2023-09-26-daily-news-8ad888d3.json) Neththikumara Ranjith Srilal Fonseka
+* 📰 [Daily News](data/2023-09-26/daily-news/2023-09-26-daily-news-1c18108c.json) Rev. Sister Geraldine Perera
