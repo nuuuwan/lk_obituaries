@@ -30,9 +30,6 @@ class Obituary:
     def to_dict_for_hash(self) -> dict:
         # DO NOT MODIFY!
         return dict(
-            ut=self.ut,
-            date_str=self.date_str,
-            newspaper_id=self.newspaper_id,
             url=self.url,
             raw_title=self.raw_title,
             raw_body=self.raw_body,
