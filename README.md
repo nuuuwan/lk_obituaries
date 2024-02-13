@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-13 12:05:31**.
+Last run at **2024-02-13 12:35:39**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (119)
+## List of Obituaries (155)
 
 ### 2024
 
@@ -265,3 +265,95 @@ Last run at **2024-02-13 12:05:31**.
 
 * 📰 [Daily News](data/2023-12-18/daily-news/2023-12-18-daily-news-c54330f6.json) Wijemanne – Vasantha Sivali
 * 📰 [Daily News](data/2023-12-18/daily-news/2023-12-18-daily-news-5b5ba96b.json) Sivamani Agustyan
+
+##### 2023-12-15
+
+* 📰 [Daily News](data/2023-12-15/daily-news/2023-12-15-daily-news-fe180f5d.json) Bandula Rambukwella
+
+##### 2023-12-12
+
+* 📰 [Daily News](data/2023-12-12/daily-news/2023-12-12-daily-news-38fb52a7.json) Mrs. Regina Ananda
+
+##### 2023-12-11
+
+* 📰 [Daily News](data/2023-12-11/daily-news/2023-12-11-daily-news-0adda661.json) Ganhewa – Thusitha Lalith
+
+##### 2023-12-09
+
+* 📰 [Daily News](data/2023-12-09/daily-news/2023-12-09-daily-news-6f1b7c6e.json) Mrs M – Amarasekera
+* 📰 [Daily News](data/2023-12-09/daily-news/2023-12-09-daily-news-04a0aa47.json) Mr R.G.L. De Silva
+
+##### 2023-12-08
+
+* 📰 [Daily News](data/2023-12-08/daily-news/2023-12-08-daily-news-c3542608.json) Jayasekara – Ajith
+* 📰 [Daily News](data/2023-12-08/daily-news/2023-12-08-daily-news-0c3c9803.json) Dr A.N. Haniffa
+
+##### 2023-12-07
+
+* 📰 [Daily News](data/2023-12-07/daily-news/2023-12-07-daily-news-fbf61579.json) Berhardt – John Maurice
+* 📰 [Daily News](data/2023-12-07/daily-news/2023-12-07-daily-news-cd60e4f5.json) Abeynayake – Mallika
+* 📰 [Daily News](data/2023-12-07/daily-news/2023-12-07-daily-news-b27c541f.json) Perera – O.D. Stanley Peter
+* 📰 [Daily News](data/2023-12-07/daily-news/2023-12-07-daily-news-74c52fc5.json) Dharmawardena – Kolitha Indrajith
+
+##### 2023-12-06
+
+* 📰 [Daily News](data/2023-12-06/daily-news/2023-12-06-daily-news-d423315d.json) Loretta Clarice Weerasuriya
+* 📰 [Daily News](data/2023-12-06/daily-news/2023-12-06-daily-news-bf2f960a.json) Labrooy – Jude –
+* 📰 [Daily News](data/2023-12-06/daily-news/2023-12-06-daily-news-b83456fd.json) Pussedeniya – Y.B
+* 📰 [Daily News](data/2023-12-06/daily-news/2023-12-06-daily-news-48c568a8.json) Berhardt – John Maurice
+* 📰 [Daily News](data/2023-12-06/daily-news/2023-12-06-daily-news-0b11b8b7.json) Perera – Nihal
+
+##### 2023-12-05
+
+* 📰 [Daily News](data/2023-12-05/daily-news/2023-12-05-daily-news-4cd10ee0.json) Berhardt – John Maurice
+* 📰 [Daily News](data/2023-12-05/daily-news/2023-12-05-daily-news-1f5353bf.json) Kuruppu – Hesketh
+
+##### 2023-12-04
+
+* 📰 [Daily News](data/2023-12-04/daily-news/2023-12-04-daily-news-119dc58f.json) Kuruppu-Hesketh
+
+##### 2023-12-02
+
+* 📰 [Daily News](data/2023-12-02/daily-news/2023-12-02-daily-news-987c5e11.json) Ranjith – Gunasinghe
+* 📰 [Daily News](data/2023-12-02/daily-news/2023-12-02-daily-news-5c6e1a0c.json) Dr Wijenaike – Amarapala
+
+##### 2023-12-01
+
+* 📰 [Daily News](data/2023-12-01/daily-news/2023-12-01-daily-news-39738748.json) Goonetilleke Ira
+* 📰 [Daily News](data/2023-12-01/daily-news/2023-12-01-daily-news-393ae597.json) Cosmas De Saram –
+* 📰 [Daily News](data/2023-12-01/daily-news/2023-12-01-daily-news-22777a6a.json) Dr Wijenaike – Amarapala
+
+#### 2023-11
+
+##### 2023-11-30
+
+* 📰 [Daily News](data/2023-11-30/daily-news/2023-11-30-daily-news-f6772e42.json) Betsy – Bastians (Nee Nesamony)
+* 📰 [Daily News](data/2023-11-30/daily-news/2023-11-30-daily-news-d29fba76.json) Coggins,​ Elmo C.B
+* 📰 [Daily News](data/2023-11-30/daily-news/2023-11-30-daily-news-6ff8b434.json) Bolling – Bernadette (Bernie) Prisicilla (Nee Fernando)
+
+##### 2023-11-29
+
+* 📰 [Daily News](data/2023-11-29/daily-news/2023-11-29-daily-news-b106fc4e.json) Webster,​ Sheila –
+* 📰 [Daily News](data/2023-11-29/daily-news/2023-11-29-daily-news-90fbd546.json) Cosmas De Saram
+
+##### 2023-11-28
+
+* 📰 [Daily News](data/2023-11-28/daily-news/2023-11-28-daily-news-2fe24fcf.json) Esme Rita Abeywardene Nee Talayratne
+* 📰 [Daily News](data/2023-11-28/daily-news/2023-11-28-daily-news-272abd12.json) Webster,​ Sheila
+* 📰 [Daily News](data/2023-11-28/daily-news/2023-11-28-daily-news-1545ac40.json) Somanader – Shirley Wignarajah
+
+##### 2023-11-27
+
+* 📰 [Daily News](data/2023-11-27/daily-news/2023-11-27-daily-news-2010d15d.json) Wijewardene – Seela R.I.P.
+
+##### 2023-11-25
+
+* 📰 [Daily News](data/2023-11-25/daily-news/2023-11-25-daily-news-bff29509.json) Dharmaratne (Nee Kankanige) Sujatha.
+
+##### 2023-11-23
+
+* 📰 [Daily News](data/2023-11-23/daily-news/2023-11-23-daily-news-fe710220.json) Dr. Prematilake – Kalubowila
+
+##### 2023-11-21
+
+* 📰 [Daily News](data/2023-11-21/daily-news/2023-11-21-daily-news-62383655.json) Peiris – Sunimal
