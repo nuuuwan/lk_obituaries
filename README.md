@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-13 12:35:39**.
+Last run at **2024-02-13 13:12:49**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (155)
+## List of Obituaries (194)
 
 ### 2024
 
@@ -357,3 +357,95 @@ Last run at **2024-02-13 12:35:39**.
 ##### 2023-11-21
 
 * 📰 [Daily News](data/2023-11-21/daily-news/2023-11-21-daily-news-62383655.json) Peiris – Sunimal
+
+##### 2023-11-18
+
+* 📰 [Daily News](data/2023-11-18/daily-news/2023-11-18-daily-news-aef6f4c6.json) Corea – Monica Doreen
+
+##### 2023-11-16
+
+* 📰 [Daily News](data/2023-11-16/daily-news/2023-11-16-daily-news-6cc9bc18.json) Mr. Anil Anomawansa Jayawardena
+
+##### 2023-11-14
+
+* 📰 [Daily News](data/2023-11-14/daily-news/2023-11-14-daily-news-7121cc5f.json) Collins Leo Milroy
+* 📰 [Daily News](data/2023-11-14/daily-news/2023-11-14-daily-news-2b9ba6c3.json) Tillekeratne,​ Lasanthie Therese
+
+##### 2023-11-13
+
+* 📰 [Daily News](data/2023-11-13/daily-news/2023-11-13-daily-news-660275f9.json) Rosabell Chelvam Nee Rajanayagam
+
+##### 2023-11-11
+
+* 📰 [Daily News](data/2023-11-11/daily-news/2023-11-11-daily-news-a3b628fb.json) Abhayapala – Margaret
+* 📰 [Daily News](data/2023-11-11/daily-news/2023-11-11-daily-news-985533a5.json) Gomes – Pearl Winnifred.
+* 📰 [Daily News](data/2023-11-11/daily-news/2023-11-11-daily-news-6b1b8d61.json) Bandara – Thilak
+
+##### 2023-11-10
+
+* 📰 [Daily News](data/2023-11-10/daily-news/2023-11-10-daily-news-9e166d10.json) Gomes – Pearl Winnifred
+* 📰 [Daily News](data/2023-11-10/daily-news/2023-11-10-daily-news-5b4df61b.json) Bandara – Thilak
+
+##### 2023-11-08
+
+* 📰 [Daily News](data/2023-11-08/daily-news/2023-11-08-daily-news-6c20cb2c.json) Sivalingam – Dr Sellappah
+* 📰 [Daily News](data/2023-11-08/daily-news/2023-11-08-daily-news-2d2bbb1a.json) Makawita
+
+##### 2023-11-07
+
+* 📰 [Daily News](data/2023-11-07/daily-news/2023-11-07-daily-news-4fad4a84.json) Sivalingam – Dr Sellappah
+* 📰 [Daily News](data/2023-11-07/daily-news/2023-11-07-daily-news-35f3b3a9.json) Savithri Rupasinghe
+
+##### 2023-11-04
+
+* 📰 [Daily News](data/2023-11-04/daily-news/2023-11-04-daily-news-fdc94760.json) Silva – W.A. Premasiri
+* 📰 [Daily News](data/2023-11-04/daily-news/2023-11-04-daily-news-a045c33c.json) Ilapperuma Prema.
+* 📰 [Daily News](data/2023-11-04/daily-news/2023-11-04-daily-news-5ac03f5e.json) Hettiarachchi – Don Ivan Pushpapriya (Jp)
+* 📰 [Daily News](data/2023-11-04/daily-news/2023-11-04-daily-news-3f60e18b.json) Prof. Meththananda – Thilaka (Nee Kankanige)
+* 📰 [Daily News](data/2023-11-04/daily-news/2023-11-04-daily-news-2c88ccdc.json) Joan Perera (Nee Atton)
+
+##### 2023-11-03
+
+* 📰 [Daily News](data/2023-11-03/daily-news/2023-11-03-daily-news-8e05cf38.json) Rev. Fr. Nalin Suraja
+* 📰 [Daily News](data/2023-11-03/daily-news/2023-11-03-daily-news-6df0face.json) Sallay – Gnei Ruhina,​
+* 📰 [Daily News](data/2023-11-03/daily-news/2023-11-03-daily-news-306b1b2b.json) Perera – Mavis –
+
+##### 2023-11-02
+
+* 📰 [Daily News](data/2023-11-02/daily-news/2023-11-02-daily-news-8209cc4e.json) Madawela – Dr. Dudley Mahipala Bernard (Mahi)
+* 📰 [Daily News](data/2023-11-02/daily-news/2023-11-02-daily-news-7c3c773c.json) Perera – Kingsley Walter
+* 📰 [Daily News](data/2023-11-02/daily-news/2023-11-02-daily-news-6d2e5711.json) Rev. Sister Marie Phyllis Rodrigo
+* 📰 [Daily News](data/2023-11-02/daily-news/2023-11-02-daily-news-6035254e.json) Goonetilleke – Priya
+* 📰 [Daily News](data/2023-11-02/daily-news/2023-11-02-daily-news-316d162d.json) Rev. Fr. Nalin Suraja
+
+##### 2023-11-01
+
+* 📰 [Daily News](data/2023-11-01/daily-news/2023-11-01-daily-news-ec626d7e.json) Samarasinghe – Sarath
+* 📰 [Daily News](data/2023-11-01/daily-news/2023-11-01-daily-news-b36916a7.json) Rev. Fr. Nalin Suraja
+
+#### 2023-10
+
+##### 2023-10-31
+
+* 📰 [Daily News](data/2023-10-31/daily-news/2023-10-31-daily-news-f1858826.json) Wicrama Surendra Nihal
+
+##### 2023-10-30
+
+* 📰 [Daily News](data/2023-10-30/daily-news/2023-10-30-daily-news-5ed9bea8.json) Dalpadado – Preethee Sonali (Nee Herat)
+* 📰 [Daily News](data/2023-10-30/daily-news/2023-10-30-daily-news-20e4f405.json) Abeyratne – Ajith
+
+##### 2023-10-27
+
+* 📰 [Daily News](data/2023-10-27/daily-news/2023-10-27-daily-news-05ea3abc.json) Abeysuriya – Darshan Ravindra
+
+##### 2023-10-25
+
+* 📰 [Daily News](data/2023-10-25/daily-news/2023-10-25-daily-news-c33024cd.json) Jayasinghe Tissa Nihal
+* 📰 [Daily News](data/2023-10-25/daily-news/2023-10-25-daily-news-3b3cbab9.json) Dias – Mrs Sumana (94 Years Of Meritorious Life)
+* 📰 [Daily News](data/2023-10-25/daily-news/2023-10-25-daily-news-17b70799.json) Dias – Devika (Nee Abayasekara)
+* 📰 [Daily News](data/2023-10-25/daily-news/2023-10-25-daily-news-01f3b853.json) Attukorale – Udumullage – Podinona
+
+##### 2023-10-24
+
+* 📰 [Daily News](data/2023-10-24/daily-news/2023-10-24-daily-news-69e2b68b.json) Lucke Sunil Fernando
+* 📰 [Daily News](data/2023-10-24/daily-news/2023-10-24-daily-news-39299b6a.json) Swarna Wijetunge
