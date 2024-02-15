@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-15 05:04:18**.
+Last run at **2024-02-15 05:41:22**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (341)
+## List of Obituaries (344)
 
 ### 2024
 
 #### 2024-02
+
+##### 2024-02-15
+
+* 📰 [Daily News](data/2024-02-15/daily-news/2024-02-15-daily-news-e593013a.json) Dahpne Enoch
+* 📰 [Daily News](data/2024-02-15/daily-news/2024-02-15-daily-news-ceb8ff4d.json) Enoch – Daphne
+* 📰 [Daily News](data/2024-02-15/daily-news/2024-02-15-daily-news-244d40f1.json) In Loving Memory Of Our Mother
 
 ##### 2024-02-14
 
