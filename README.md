@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-16 10:35:34**.
+Last run at **2024-02-16 11:03:25**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (355)
+## List of Obituaries (357)
 
 ### 2024
 
@@ -24,6 +24,8 @@ Last run at **2024-02-16 10:35:34**.
 * 📰 [Daily News](data/2024-02-16/daily-news/2024-02-16-daily-news-7a380be8.json) Your Soul Of Compassion Still Lives On Within Us”.
 * 📰 [Daily News](data/2024-02-16/daily-news/2024-02-16-daily-news-1df5db3a.json) Colonial Group Of Companies:
 * 📰 [Daily News](data/2024-02-16/daily-news/2024-02-16-daily-news-0b094c83.json) Founder:
+* 🪞 [Daily Mirror](data/2024-02-16/daily-mirror/2024-02-16-daily-mirror-fc8f993d.json) Rajaratnam-Trevor
+* 🪞 [Daily Mirror](data/2024-02-16/daily-mirror/2024-02-16-daily-mirror-0f61173d.json) Trevor Rajaratnam
 
 ##### 2024-02-15
 
