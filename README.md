@@ -2,18 +2,28 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-16 05:03:16**.
+Last run at **2024-02-16 05:41:11**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (344)
+## List of Obituaries (351)
 
 ### 2024
 
 #### 2024-02
+
+##### 2024-02-16
+
+* 📰 [Daily News](data/2024-02-16/daily-news/2024-02-16-daily-news-ff01b779.json) Enoch – Daphne
+* 📰 [Daily News](data/2024-02-16/daily-news/2024-02-16-daily-news-ed7a769b.json) Wickramaratne,​
+* 📰 [Daily News](data/2024-02-16/daily-news/2024-02-16-daily-news-ad3365f3.json) “Your Values And Vision Enlightened Us Through The Years.
+* 📰 [Daily News](data/2024-02-16/daily-news/2024-02-16-daily-news-8de11d6a.json) 1
+* 📰 [Daily News](data/2024-02-16/daily-news/2024-02-16-daily-news-7a380be8.json) Your Soul Of Compassion Still Lives On Within Us”.
+* 📰 [Daily News](data/2024-02-16/daily-news/2024-02-16-daily-news-1df5db3a.json) Colonial Group Of Companies:
+* 📰 [Daily News](data/2024-02-16/daily-news/2024-02-16-daily-news-0b094c83.json) Founder:
 
 ##### 2024-02-15
 
