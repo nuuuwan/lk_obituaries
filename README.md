@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-16 10:03:30**.
+Last run at **2024-02-16 10:35:34**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (353)
+## List of Obituaries (355)
 
 ### 2024
 
@@ -36,6 +36,8 @@ Last run at **2024-02-16 10:03:30**.
 ##### 2024-02-14
 
 * 📰 [Daily News](data/2024-02-14/daily-news/2024-02-14-daily-news-f0fbff6a.json) Jayah – Mohamed Ousman
+* 🪞 [Daily Mirror](data/2024-02-14/daily-mirror/2024-02-14-daily-mirror-fc8f993d.json) Rajaratnam-Trevor
+* 🪞 [Daily Mirror](data/2024-02-14/daily-mirror/2024-02-14-daily-mirror-0f61173d.json) Trevor Rajaratnam
 
 ##### 2024-02-13
 
