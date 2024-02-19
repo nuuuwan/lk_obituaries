@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-19 05:41:58**.
+Last run at **2024-02-19 06:17:29**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (357)
+## List of Obituaries (360)
 
 ### 2024
 
 #### 2024-02
+
+##### 2024-02-19
+
+* 📰 [Daily News](data/2024-02-19/daily-news/2024-02-19-daily-news-c8998981.json) Basnayake – Dr. Sriani
+* 📰 [Daily News](data/2024-02-19/daily-news/2024-02-19-daily-news-6d9a15bd.json) Mary
+* 📰 [Daily News](data/2024-02-19/daily-news/2024-02-19-daily-news-3d85da9b.json) Rev. Sister Mary Theophane A.C.
 
 ##### 2024-02-16
 
