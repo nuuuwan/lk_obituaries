@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-19 10:03:34**.
+Last run at **2024-02-19 10:34:27**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (361)
+## List of Obituaries (362)
 
 ### 2024
 
@@ -21,6 +21,10 @@ Last run at **2024-02-19 10:03:34**.
 * 📰 [Daily News](data/2024-02-19/daily-news/2024-02-19-daily-news-6d9a15bd.json) Mary
 * 📰 [Daily News](data/2024-02-19/daily-news/2024-02-19-daily-news-3d85da9b.json) Rev. Sister Mary Theophane A.C.
 * 🪞 [Daily Mirror](data/2024-02-19/daily-mirror/2024-02-19-daily-mirror-e2e8aab8.json) Goonetilleke Mary Magdalene
+
+##### 2024-02-17
+
+* 🪞 [Daily Mirror](data/2024-02-17/daily-mirror/2024-02-17-daily-mirror-e2e8aab8.json) Goonetilleke Mary Magdalene
 
 ##### 2024-02-16
 
