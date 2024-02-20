@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-20 11:34:40**.
+Last run at **2024-02-20 12:03:38**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (375)
+## List of Obituaries (378)
 
 ### 2024
 
@@ -37,6 +37,12 @@ Last run at **2024-02-20 11:34:40**.
 * 🪞 [Daily Mirror](data/2024-02-19/daily-mirror/2024-02-19-daily-mirror-e2e8aab8.json) Goonetilleke Mary Magdalene
 * 🪞 [Daily Mirror](data/2024-02-19/daily-mirror/2024-02-19-daily-mirror-dc56cea8.json) Anna De Cruze
 * 🪞 [Daily Mirror](data/2024-02-19/daily-mirror/2024-02-19-daily-mirror-4bc42e47.json) Suriaratchie - Delphine
+
+##### 2024-02-18
+
+* 🪞 [Daily Mirror](data/2024-02-18/daily-mirror/2024-02-18-daily-mirror-e44ca538.json) Goonetilleke Mary Magdalene
+* 🪞 [Daily Mirror](data/2024-02-18/daily-mirror/2024-02-18-daily-mirror-dc56cea8.json) Anna De Cruze
+* 🪞 [Daily Mirror](data/2024-02-18/daily-mirror/2024-02-18-daily-mirror-4bc42e47.json) Suriaratchie - Delphine
 
 ##### 2024-02-17
 
