@@ -2,18 +2,31 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-20 05:03:23**.
+Last run at **2024-02-20 05:41:15**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (362)
+## List of Obituaries (372)
 
 ### 2024
 
 #### 2024-02
+
+##### 2024-02-20
+
+* 📰 [Daily News](data/2024-02-20/daily-news/2024-02-20-daily-news-ef7eafdb.json) Mary 
+* 📰 [Daily News](data/2024-02-20/daily-news/2024-02-20-daily-news-e7a17293.json) Wijesooriya, Major General  D S K
+* 📰 [Daily News](data/2024-02-20/daily-news/2024-02-20-daily-news-bc1c302f.json) Neil Senevirathne
+* 📰 [Daily News](data/2024-02-20/daily-news/2024-02-20-daily-news-ae25559d.json) Heartfelt Condolences
+* 📰 [Daily News](data/2024-02-20/daily-news/2024-02-20-daily-news-950a48ae.json) Past Governors Council,
+* 📰 [Daily News](data/2024-02-20/daily-news/2024-02-20-daily-news-815d6326.json) Ratnesar (Nee Gulasekharam) Pushparanee
+* 📰 [Daily News](data/2024-02-20/daily-news/2024-02-20-daily-news-37cf5bce.json) District 306 A2.
+* 📰 [Daily News](data/2024-02-20/daily-news/2024-02-20-daily-news-30ea7066.json) Chairman And Members Of The
+* 📰 [Daily News](data/2024-02-20/daily-news/2024-02-20-daily-news-2cbbf32d.json) Former District Governor,
+* 📰 [Daily News](data/2024-02-20/daily-news/2024-02-20-daily-news-1079cdfd.json) Suriaratchie – Delphine,
 
 ##### 2024-02-19
 
