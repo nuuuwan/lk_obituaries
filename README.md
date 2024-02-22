@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-22 09:34:16**.
+Last run at **2024-02-22 10:03:16**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (386)
+## List of Obituaries (389)
 
 ### 2024
 
@@ -25,6 +25,9 @@ Last run at **2024-02-22 09:34:16**.
 
 * 📰 [Daily News](data/2024-02-21/daily-news/2024-02-21-daily-news-f2271e5a.json) Suriaratchie – Delphine,​
 * 📰 [Daily News](data/2024-02-21/daily-news/2024-02-21-daily-news-abf20163.json) Dr. Mervyn B. Wickramasinghe
+* 🪞 [Daily Mirror](data/2024-02-21/daily-mirror/2024-02-21-daily-mirror-fcccdabb.json) Thiagarajah – Nadeswaran
+* 🪞 [Daily Mirror](data/2024-02-21/daily-mirror/2024-02-21-daily-mirror-f69c2033.json) Munasinghe – Dilipa
+* 🪞 [Daily Mirror](data/2024-02-21/daily-mirror/2024-02-21-daily-mirror-3695bd86.json) De Silva – Dorris (Nee De Fry).
 
 ##### 2024-02-20
 
