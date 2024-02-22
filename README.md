@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-22 10:03:16**.
+Last run at **2024-02-22 10:34:00**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (389)
+## List of Obituaries (392)
 
 ### 2024
 
@@ -41,9 +41,12 @@ Last run at **2024-02-22 10:03:16**.
 * 📰 [Daily News](data/2024-02-20/daily-news/2024-02-20-daily-news-30ea7066.json) Chairman And Members Of The
 * 📰 [Daily News](data/2024-02-20/daily-news/2024-02-20-daily-news-2cbbf32d.json) Former District Governor,
 * 📰 [Daily News](data/2024-02-20/daily-news/2024-02-20-daily-news-1079cdfd.json) Suriaratchie – Delphine,
+* 🪞 [Daily Mirror](data/2024-02-20/daily-mirror/2024-02-20-daily-mirror-fcccdabb.json) Thiagarajah – Nadeswaran
+* 🪞 [Daily Mirror](data/2024-02-20/daily-mirror/2024-02-20-daily-mirror-f69c2033.json) Munasinghe – Dilipa
 * 🪞 [Daily Mirror](data/2024-02-20/daily-mirror/2024-02-20-daily-mirror-e44ca538.json) Goonetilleke Mary Magdalene
 * 🪞 [Daily Mirror](data/2024-02-20/daily-mirror/2024-02-20-daily-mirror-dc56cea8.json) Anna De Cruze
 * 🪞 [Daily Mirror](data/2024-02-20/daily-mirror/2024-02-20-daily-mirror-4bc42e47.json) Suriaratchie - Delphine
+* 🪞 [Daily Mirror](data/2024-02-20/daily-mirror/2024-02-20-daily-mirror-3695bd86.json) De Silva – Dorris (Nee De Fry).
 
 ##### 2024-02-19
 
