@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-22 05:03:23**.
+Last run at **2024-02-22 05:41:03**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (383)
+## List of Obituaries (386)
 
 ### 2024
 
 #### 2024-02
+
+##### 2024-02-22
+
+* 📰 [Daily News](data/2024-02-22/daily-news/2024-02-22-daily-news-61dcce39.json) Death Acknowledgement
+* 📰 [Daily News](data/2024-02-22/daily-news/2024-02-22-daily-news-35b6e3be.json) Thiagarajah Nadeswaran
+* 📰 [Daily News](data/2024-02-22/daily-news/2024-02-22-daily-news-06fec88f.json) Nawarathnam Raja
 
 ##### 2024-02-21
 
