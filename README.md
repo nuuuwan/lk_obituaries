@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-23 05:03:14**.
+Last run at **2024-02-23 05:40:55**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (394)
+## List of Obituaries (395)
 
 ### 2024
 
 #### 2024-02
+
+##### 2024-02-23
+
+* 📰 [Daily News](data/2024-02-23/daily-news/2024-02-23-daily-news-86d449a8.json) Thiagarajah Nadeswaran
 
 ##### 2024-02-22
 
