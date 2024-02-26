@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-26 09:34:27**.
+Last run at **2024-02-26 10:03:22**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (397)
+## List of Obituaries (398)
 
 ### 2024
 
@@ -18,6 +18,10 @@ Last run at **2024-02-26 09:34:27**.
 ##### 2024-02-26
 
 * 📰 [Daily News](data/2024-02-26/daily-news/2024-02-26-daily-news-279138bd.json) Motha Leela (Nee Pereira) –
+
+##### 2024-02-25
+
+* 🪞 [Daily Mirror](data/2024-02-25/daily-mirror/2024-02-25-daily-mirror-c5f5b25c.json) Rodrigo - J.N. Harindra
 
 ##### 2024-02-24
 
