@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-27 05:03:25**.
+Last run at **2024-02-27 05:41:31**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (400)
+## List of Obituaries (403)
 
 ### 2024
 
 #### 2024-02
+
+##### 2024-02-27
+
+* 📰 [Daily News](data/2024-02-27/daily-news/2024-02-27-daily-news-8fe038d9.json) Pandithakorale – Ramya
+* 📰 [Daily News](data/2024-02-27/daily-news/2024-02-27-daily-news-8a640c9a.json) In Memoriam Leela Mother
+* 📰 [Daily News](data/2024-02-27/daily-news/2024-02-27-daily-news-0a6ee57c.json) Selvadurai,​ E. S. Wimal
 
 ##### 2024-02-26
 
