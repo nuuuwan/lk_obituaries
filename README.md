@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-27 15:03:23**.
+Last run at **2024-02-27 15:34:23**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (404)
+## List of Obituaries (405)
 
 ### 2024
 
@@ -30,6 +30,7 @@ Last run at **2024-02-27 15:03:23**.
 ##### 2024-02-25
 
 * 🪞 [Daily Mirror](data/2024-02-25/daily-mirror/2024-02-25-daily-mirror-c5f5b25c.json) Rodrigo - J.N. Harindra
+* 🪞 [Daily Mirror](data/2024-02-25/daily-mirror/2024-02-25-daily-mirror-00f48ffb.json) Ramya Pandithakorale
 
 ##### 2024-02-24
 
