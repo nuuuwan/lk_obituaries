@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-28 10:34:11**.
+Last run at **2024-02-28 11:03:12**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (415)
+## List of Obituaries (416)
 
 ### 2024
 
@@ -24,6 +24,7 @@ Last run at **2024-02-28 10:34:11**.
 * 📰 [Daily News](data/2024-02-28/daily-news/2024-02-28-daily-news-5c71c8fe.json) 28, Dikhenawatte, Mattegoda.
 * 📰 [Daily News](data/2024-02-28/daily-news/2024-02-28-daily-news-3a2465eb.json) Chandrima (Daughter) & Thilantha
 * 📰 [Daily News](data/2024-02-28/daily-news/2024-02-28-daily-news-35b2d1e7.json) Nalinie (Daughter) & Chandana
+* 🪞 [Daily Mirror](data/2024-02-28/daily-mirror/2024-02-28-daily-mirror-815712c1.json) Singarayar - Arulappan
 
 ##### 2024-02-27
 
