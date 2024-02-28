@@ -2,18 +2,28 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-28 05:03:22**.
+Last run at **2024-02-28 05:40:55**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (406)
+## List of Obituaries (413)
 
 ### 2024
 
 #### 2024-02
+
+##### 2024-02-28
+
+* 📰 [Daily News](data/2024-02-28/daily-news/2024-02-28-daily-news-fd4db332.json) Pradeep (Son) & Sanduni
+* 📰 [Daily News](data/2024-02-28/daily-news/2024-02-28-daily-news-e786a833.json) Death Acknowledgement
+* 📰 [Daily News](data/2024-02-28/daily-news/2024-02-28-daily-news-6de300bc.json) 011-2780091
+* 📰 [Daily News](data/2024-02-28/daily-news/2024-02-28-daily-news-6996fdf5.json) Mrs. P Leelaratne 
+* 📰 [Daily News](data/2024-02-28/daily-news/2024-02-28-daily-news-5c71c8fe.json) 28, Dikhenawatte, Mattegoda.
+* 📰 [Daily News](data/2024-02-28/daily-news/2024-02-28-daily-news-3a2465eb.json) Chandrima (Daughter) & Thilantha
+* 📰 [Daily News](data/2024-02-28/daily-news/2024-02-28-daily-news-35b2d1e7.json) Nalinie (Daughter) & Chandana
 
 ##### 2024-02-27
 
