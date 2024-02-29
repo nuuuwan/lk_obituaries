@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-02-29 12:03:16**.
+Last run at **2024-02-29 12:34:10**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (421)
+## List of Obituaries (422)
 
 ### 2024
 
@@ -20,6 +20,7 @@ Last run at **2024-02-29 12:03:16**.
 * 📰 [Daily News](data/2024-02-29/daily-news/2024-02-29-daily-news-a710efbe.json) De Silva,​ Martin
 * 📰 [Daily News](data/2024-02-29/daily-news/2024-02-29-daily-news-6a624c6f.json) Burdette George Harry
 * 📰 [Daily News](data/2024-02-29/daily-news/2024-02-29-daily-news-3be3ba22.json) Gladys Pushparany Mathiaparanan
+* 🪞 [Daily Mirror](data/2024-02-29/daily-mirror/2024-02-29-daily-mirror-b060b71d.json) Mathiaparanan - Gladys Pushparany
 
 ##### 2024-02-28
 
