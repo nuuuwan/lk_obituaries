@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-01 10:35:28**.
+Last run at **2024-03-01 11:05:15**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (439)
+## List of Obituaries (442)
 
 ### 2024
 
@@ -26,7 +26,10 @@ Last run at **2024-03-01 10:35:28**.
 * 📰 [Daily News](data/2024-03-01/daily-news/2024-03-01-daily-news-565dbbf8.json) Vethakan – Helen
 * 📰 [Daily News](data/2024-03-01/daily-news/2024-03-01-daily-news-4ffb8e5d.json) Death    – 03 – 03 – 2019 
 * 📰 [Daily News](data/2024-03-01/daily-news/2024-03-01-daily-news-2a822306.json) May You Attain The Supreme Bliss Of Nibbana! 
+* 🪞 [Daily Mirror](data/2024-03-01/daily-mirror/2024-03-01-daily-mirror-aeea4fdd.json) Vethakan Helen
 * 🪞 [Daily Mirror](data/2024-03-01/daily-mirror/2024-03-01-daily-mirror-8fda8118.json) Mr. Anoj Munidasa
+* 🪞 [Daily Mirror](data/2024-03-01/daily-mirror/2024-03-01-daily-mirror-6babdcb4.json) Vernon Cudugampola Mbe
+* 🪞 [Daily Mirror](data/2024-03-01/daily-mirror/2024-03-01-daily-mirror-669d830f.json) Mathiaparanan Gladys Pushparany
 
 #### 2024-02
 
