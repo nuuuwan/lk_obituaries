@@ -2,16 +2,30 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-01 05:03:18**.
+Last run at **2024-03-01 05:42:45**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (422)
+## List of Obituaries (431)
 
 ### 2024
+
+#### 2024-03
+
+##### 2024-03-01
+
+* 📰 [Daily News](data/2024-03-01/daily-news/2024-03-01-daily-news-ddd43df3.json) Birth      – 27 – 1941 
+* 📰 [Daily News](data/2024-03-01/daily-news/2024-03-01-daily-news-d020ad7f.json) 15Th Year Remembrance
+* 📰 [Daily News](data/2024-03-01/daily-news/2024-03-01-daily-news-b118725c.json) Vernon C. Udugampola Mbe
+* 📰 [Daily News](data/2024-03-01/daily-news/2024-03-01-daily-news-97456485.json) Alfred S. Subasinghe 
+* 📰 [Daily News](data/2024-03-01/daily-news/2024-03-01-daily-news-8da18473.json) Mr Richard Adhihetty
+* 📰 [Daily News](data/2024-03-01/daily-news/2024-03-01-daily-news-614ffb59.json) Gladys Pushparany Mathiaparanan
+* 📰 [Daily News](data/2024-03-01/daily-news/2024-03-01-daily-news-565dbbf8.json) Vethakan – Helen
+* 📰 [Daily News](data/2024-03-01/daily-news/2024-03-01-daily-news-4ffb8e5d.json) Death    – 03 – 03 – 2019 
+* 📰 [Daily News](data/2024-03-01/daily-news/2024-03-01-daily-news-2a822306.json) May You Attain The Supreme Bliss Of Nibbana! 
 
 #### 2024-02
 
