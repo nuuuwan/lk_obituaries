@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-02 05:03:17**.
+Last run at **2024-03-02 05:40:56**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (442)
+## List of Obituaries (444)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-02
+
+* 📰 [Daily News](data/2024-03-02/daily-news/2024-03-02-daily-news-ec6e6198.json) Vethakan – Helen
+* 📰 [Daily News](data/2024-03-02/daily-news/2024-03-02-daily-news-23dc32ad.json) Saparamadu – Benedict
 
 ##### 2024-03-01
 
