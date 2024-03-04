@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-04 12:22:36**.
+Last run at **2024-03-04 12:56:20**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (447)
+## List of Obituaries (448)
 
 ### 2024
 
@@ -20,6 +20,7 @@ Last run at **2024-03-04 12:22:36**.
 * 📰 [Daily News](data/2024-03-04/daily-news/2024-03-04-daily-news-e6ecbe6b.json) Sri Ranjan – Paramsothy,​ Fca
 * 📰 [Daily News](data/2024-03-04/daily-news/2024-03-04-daily-news-6c46374f.json) Rev. Sister Marcelline Thesera
 * 📰 [Daily News](data/2024-03-04/daily-news/2024-03-04-daily-news-2cdc6909.json) Sendanayaka Kanishka, Beyond The Sunset … Resting In Love – 
+* 🪞 [Daily Mirror](data/2024-03-04/daily-mirror/2024-03-04-daily-mirror-c5742e33.json) Paramsothy – Sri Ranjan, Fca. Loving Husband Of Chandrani
 
 ##### 2024-03-02
 
