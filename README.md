@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-05 05:03:17**.
+Last run at **2024-03-05 05:40:57**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (448)
+## List of Obituaries (450)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-05
+
+* 📰 [Daily News](data/2024-03-05/daily-news/2024-03-05-daily-news-aa8a0a8f.json) Sri Ranjan – Paramsothy,​ Fca 
+* 📰 [Daily News](data/2024-03-05/daily-news/2024-03-05-daily-news-6528f391.json) Al Haj Mohamed Mubashir Salie – 
 
 ##### 2024-03-04
 
