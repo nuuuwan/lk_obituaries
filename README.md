@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-06 05:03:12**.
+Last run at **2024-03-06 05:41:27**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (453)
+## List of Obituaries (456)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-06
+
+* 📰 [Daily News](data/2024-03-06/daily-news/2024-03-06-daily-news-49e440e4.json) Restpect Jayarathne, 483, Bauddhaloka 
+* 📰 [Daily News](data/2024-03-06/daily-news/2024-03-06-daily-news-0c3be481.json) Pattiarachchi – Don Sarathchandra
+* 📰 [Daily News](data/2024-03-06/daily-news/2024-03-06-daily-news-0293ef64.json) R.J.M 
 
 ##### 2024-03-05
 
