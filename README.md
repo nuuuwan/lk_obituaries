@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-07 05:03:32**.
+Last run at **2024-03-07 05:40:33**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (456)
+## List of Obituaries (459)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-07
+
+* 📰 [Daily News](data/2024-03-07/daily-news/2024-03-07-daily-news-ce3fe8ad.json) Dias Bandaranayake
+* 📰 [Daily News](data/2024-03-07/daily-news/2024-03-07-daily-news-772e8694.json) Godage – Kalyananda (Nanda
+* 📰 [Daily News](data/2024-03-07/daily-news/2024-03-07-daily-news-76daaf45.json) Jayasinghe T.K. (Tikka)
 
 ##### 2024-03-06
 
