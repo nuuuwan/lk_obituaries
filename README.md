@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-08 05:03:21**.
+Last run at **2024-03-08 05:41:54**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (460)
+## List of Obituaries (463)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-08
+
+* 📰 [Daily News](data/2024-03-08/daily-news/2024-03-08-daily-news-f912aad7.json) Fernando – Elvin Nihal
+* 📰 [Daily News](data/2024-03-08/daily-news/2024-03-08-daily-news-863c4889.json) Godage – Kalyananda (Nanda
+* 📰 [Daily News](data/2024-03-08/daily-news/2024-03-08-daily-news-20c0f597.json) Athukorala – Rajah Meththananda
 
 ##### 2024-03-07
 
