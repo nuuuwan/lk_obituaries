@@ -2,18 +2,25 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-09 05:03:35**.
+Last run at **2024-03-09 05:40:41**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (463)
+## List of Obituaries (467)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-09
+
+* 📰 [Daily News](data/2024-03-09/daily-news/2024-03-09-daily-news-a95225d9.json) Senanayake – Malathi Chandima
+* 📰 [Daily News](data/2024-03-09/daily-news/2024-03-09-daily-news-8b025e72.json) Kaluarachchi (Kalu) – Dr Buddhadasa
+* 📰 [Daily News](data/2024-03-09/daily-news/2024-03-09-daily-news-54ee5628.json) Fernando – Elvin Nihal
+* 📰 [Daily News](data/2024-03-09/daily-news/2024-03-09-daily-news-0e126f5d.json) Billy Raymond (C R Raymond)
 
 ##### 2024-03-08
 
