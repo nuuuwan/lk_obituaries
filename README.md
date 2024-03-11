@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-11 10:34:45**.
+Last run at **2024-03-11 11:03:53**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (467)
+## List of Obituaries (468)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-11
+
+* 🪞 [Daily Mirror](data/2024-03-11/daily-mirror/2024-03-11-daily-mirror-b7c25123.json) Hennadige Ajantha Kapila Soysa
 
 ##### 2024-03-09
 
