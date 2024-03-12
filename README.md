@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-12 13:36:15**.
+Last run at **2024-03-12 14:03:05**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (470)
+## List of Obituaries (472)
 
 ### 2024
 
@@ -19,6 +19,8 @@ Last run at **2024-03-12 13:36:15**.
 
 * 📰 [Daily News](data/2024-03-12/daily-news/2024-03-12-daily-news-b88e8aed.json) Weerasinghe – Mahesh Lakshitha
 * 📰 [Daily News](data/2024-03-12/daily-news/2024-03-12-daily-news-553a26d9.json) Anandappa,​ Hilary
+* 🪞 [Daily Mirror](data/2024-03-12/daily-mirror/2024-03-12-daily-mirror-8d777ab0.json) Anandappa – Hilary
+* 🪞 [Daily Mirror](data/2024-03-12/daily-mirror/2024-03-12-daily-mirror-5b8f5c74.json) Weerasinghe – Mahesh Lakshitha
 
 ##### 2024-03-11
 
