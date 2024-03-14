@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-14 05:04:09**.
+Last run at **2024-03-14 05:41:51**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (472)
+## List of Obituaries (474)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-14
+
+* 📰 [Daily News](data/2024-03-14/daily-news/2024-03-14-daily-news-844ceb8c.json) Vas – Rita Ratnam
+* 📰 [Daily News](data/2024-03-14/daily-news/2024-03-14-daily-news-19aecc94.json) Mathes – Francisca Iris Magdalene
 
 ##### 2024-03-12
 
