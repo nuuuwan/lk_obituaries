@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-15 16:03:22**.
+Last run at **2024-03-15 16:34:57**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (475)
+## List of Obituaries (478)
 
 ### 2024
 
@@ -18,6 +18,9 @@ Last run at **2024-03-15 16:03:22**.
 ##### 2024-03-15
 
 * 📰 [Daily News](data/2024-03-15/daily-news/2024-03-15-daily-news-28ddd763.json) Fernando,​ Iris Daphne Mary 
+* 🪞 [Daily Mirror](data/2024-03-15/daily-mirror/2024-03-15-daily-mirror-c7e5377e.json) Fernando – Iris Daphne Mary
+* 🪞 [Daily Mirror](data/2024-03-15/daily-mirror/2024-03-15-daily-mirror-9ca89c12.json) Juriansz – Winant (Formerly Of Bbme And Bank Dhofar, Oman And Mercantile Bank, Sl)
+* 🪞 [Daily Mirror](data/2024-03-15/daily-mirror/2024-03-15-daily-mirror-0189578b.json) Raymond – Billy (Christopher Robin Raymond).
 
 ##### 2024-03-14
 
