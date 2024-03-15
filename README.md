@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-15 05:03:35**.
+Last run at **2024-03-15 05:41:41**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (474)
+## List of Obituaries (475)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-15
+
+* 📰 [Daily News](data/2024-03-15/daily-news/2024-03-15-daily-news-28ddd763.json) Fernando,​ Iris Daphne Mary 
 
 ##### 2024-03-14
 
