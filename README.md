@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-16 05:05:09**.
+Last run at **2024-03-16 05:41:18**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (478)
+## List of Obituaries (479)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-16
+
+* 📰 [Daily News](data/2024-03-16/daily-news/2024-03-16-daily-news-dada5dfd.json) Devendra – Eshika Udara
 
 ##### 2024-03-15
 
