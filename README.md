@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-18 10:34:56**.
+Last run at **2024-03-18 11:04:25**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (480)
+## List of Obituaries (481)
 
 ### 2024
 
@@ -18,6 +18,7 @@ Last run at **2024-03-18 10:34:56**.
 ##### 2024-03-18
 
 * 📰 [Daily News](data/2024-03-18/daily-news/2024-03-18-daily-news-1ccdee1f.json) Premlatha (Merle) Weerasinghe, 
+* 🪞 [Daily Mirror](data/2024-03-18/daily-mirror/2024-03-18-daily-mirror-5dbf93ff.json) Mr. Don B. Ilapperuma
 
 ##### 2024-03-16
 
