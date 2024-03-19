@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-19 11:04:21**.
+Last run at **2024-03-19 11:36:05**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (486)
+## List of Obituaries (488)
 
 ### 2024
 
@@ -22,6 +22,8 @@ Last run at **2024-03-19 11:04:21**.
 * 📰 [Daily News](data/2024-03-19/daily-news/2024-03-19-daily-news-da89c949.json) Born:
 * 📰 [Daily News](data/2024-03-19/daily-news/2024-03-19-daily-news-7ab92d61.json) Died:
 * 📰 [Daily News](data/2024-03-19/daily-news/2024-03-19-daily-news-457d7d69.json) Dr. Upul Perera
+* 🪞 [Daily Mirror](data/2024-03-19/daily-mirror/2024-03-19-daily-mirror-ee700637.json) Hans – Van Cuylenburg
+* 🪞 [Daily Mirror](data/2024-03-19/daily-mirror/2024-03-19-daily-mirror-53dacdef.json) Abeyadeera – Baptist.
 
 ##### 2024-03-18
 
