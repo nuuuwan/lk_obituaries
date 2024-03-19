@@ -2,18 +2,26 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-19 05:05:00**.
+Last run at **2024-03-19 05:42:40**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (481)
+## List of Obituaries (486)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-19
+
+* 📰 [Daily News](data/2024-03-19/daily-news/2024-03-19-daily-news-f23d9729.json) ****
+* 📰 [Daily News](data/2024-03-19/daily-news/2024-03-19-daily-news-ed47a019.json) Mala Mangalika Ranasinghe Nee Jinasena
+* 📰 [Daily News](data/2024-03-19/daily-news/2024-03-19-daily-news-da89c949.json) Born:
+* 📰 [Daily News](data/2024-03-19/daily-news/2024-03-19-daily-news-7ab92d61.json) Died:
+* 📰 [Daily News](data/2024-03-19/daily-news/2024-03-19-daily-news-457d7d69.json) Dr. Upul Perera
 
 ##### 2024-03-18
 
