@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-20 09:35:59**.
+Last run at **2024-03-20 10:07:19**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (494)
+## List of Obituaries (497)
 
 ### 2024
 
@@ -27,8 +27,11 @@ Last run at **2024-03-20 09:35:59**.
 * 📰 [Daily News](data/2024-03-19/daily-news/2024-03-19-daily-news-da89c949.json) Born:
 * 📰 [Daily News](data/2024-03-19/daily-news/2024-03-19-daily-news-7ab92d61.json) Died:
 * 📰 [Daily News](data/2024-03-19/daily-news/2024-03-19-daily-news-457d7d69.json) Dr. Upul Perera
+* 🪞 [Daily Mirror](data/2024-03-19/daily-mirror/2024-03-19-daily-mirror-efe11e5a.json) Schokman – Anthony Godfrey Francis
 * 🪞 [Daily Mirror](data/2024-03-19/daily-mirror/2024-03-19-daily-mirror-ee700637.json) Hans – Van Cuylenburg
 * 🪞 [Daily Mirror](data/2024-03-19/daily-mirror/2024-03-19-daily-mirror-e1d26ccc.json) Wijeyaratne – Denzil Kingsley.
+* 🪞 [Daily Mirror](data/2024-03-19/daily-mirror/2024-03-19-daily-mirror-db72fba9.json) Wijeyaratne – Denzil Kingsley
+* 🪞 [Daily Mirror](data/2024-03-19/daily-mirror/2024-03-19-daily-mirror-d276571f.json) De Zilva – Ingrid Lynette.
 * 🪞 [Daily Mirror](data/2024-03-19/daily-mirror/2024-03-19-daily-mirror-cc62235e.json) Mrs. Maheshwary Nagarajah
 * 🪞 [Daily Mirror](data/2024-03-19/daily-mirror/2024-03-19-daily-mirror-b32d372b.json) Schokman – Anthony Godfrey Francis
 * 🪞 [Daily Mirror](data/2024-03-19/daily-mirror/2024-03-19-daily-mirror-6eba7c8f.json) Scharenguivel – Fredrick Lionel Brian.
