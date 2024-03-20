@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-20 05:03:51**.
+Last run at **2024-03-20 05:41:20**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (492)
+## List of Obituaries (494)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-20
+
+* 📰 [Daily News](data/2024-03-20/daily-news/2024-03-20-daily-news-4f45dc5f.json) Pathirana – Dharmadasa Gamarachchi
+* 📰 [Daily News](data/2024-03-20/daily-news/2024-03-20-daily-news-1283607b.json) De Silva – Beryl Chandrani
 
 ##### 2024-03-19
 
