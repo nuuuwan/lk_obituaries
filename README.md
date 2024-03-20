@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-20 10:40:07**.
+Last run at **2024-03-20 11:05:29**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (500)
+## List of Obituaries (503)
 
 ### 2024
 
@@ -19,6 +19,9 @@ Last run at **2024-03-20 10:40:07**.
 
 * 📰 [Daily News](data/2024-03-20/daily-news/2024-03-20-daily-news-4f45dc5f.json) Pathirana – Dharmadasa Gamarachchi
 * 📰 [Daily News](data/2024-03-20/daily-news/2024-03-20-daily-news-1283607b.json) De Silva – Beryl Chandrani
+* 🪞 [Daily Mirror](data/2024-03-20/daily-mirror/2024-03-20-daily-mirror-efe11e5a.json) Schokman – Anthony Godfrey Francis
+* 🪞 [Daily Mirror](data/2024-03-20/daily-mirror/2024-03-20-daily-mirror-db72fba9.json) Wijeyaratne – Denzil Kingsley
+* 🪞 [Daily Mirror](data/2024-03-20/daily-mirror/2024-03-20-daily-mirror-d276571f.json) De Zilva – Ingrid Lynette.
 
 ##### 2024-03-19
 
