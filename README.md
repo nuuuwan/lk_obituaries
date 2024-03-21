@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-21 11:04:13**.
+Last run at **2024-03-21 11:34:46**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (513)
+## List of Obituaries (516)
 
 ### 2024
 
@@ -21,6 +21,9 @@ Last run at **2024-03-21 11:04:13**.
 * 📰 [Daily News](data/2024-03-21/daily-news/2024-03-21-daily-news-c3a814e3.json) Pathinather – Dr Gregory Camillus
 * 📰 [Daily News](data/2024-03-21/daily-news/2024-03-21-daily-news-4b9c7231.json) De Silva – Joseph Patrick
 * 📰 [Daily News](data/2024-03-21/daily-news/2024-03-21-daily-news-0eaf4ca4.json) Abeyadeera Baptist
+* 🪞 [Daily Mirror](data/2024-03-21/daily-mirror/2024-03-21-daily-mirror-f87253a1.json) De Silva – Joseph Patrick.
+* 🪞 [Daily Mirror](data/2024-03-21/daily-mirror/2024-03-21-daily-mirror-b700941c.json) Vernon Fitzroy De Alwis
+* 🪞 [Daily Mirror](data/2024-03-21/daily-mirror/2024-03-21-daily-mirror-68b58527.json) Dr. Gregory Camillus Pathinather
 
 ##### 2024-03-20
 
