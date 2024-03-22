@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-22 08:04:47**.
+Last run at **2024-03-22 08:36:07**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (521)
+## List of Obituaries (524)
 
 ### 2024
 
@@ -37,11 +37,14 @@ Last run at **2024-03-22 08:04:47**.
 
 * 📰 [Daily News](data/2024-03-20/daily-news/2024-03-20-daily-news-4f45dc5f.json) Pathirana – Dharmadasa Gamarachchi
 * 📰 [Daily News](data/2024-03-20/daily-news/2024-03-20-daily-news-1283607b.json) De Silva – Beryl Chandrani
+* 🪞 [Daily Mirror](data/2024-03-20/daily-mirror/2024-03-20-daily-mirror-fdd5a39e.json) De Zilva – Patrick
+* 🪞 [Daily Mirror](data/2024-03-20/daily-mirror/2024-03-20-daily-mirror-fc45345b.json) Ferdinandus - Cyrus Wilfred Bertram
 * 🪞 [Daily Mirror](data/2024-03-20/daily-mirror/2024-03-20-daily-mirror-f87253a1.json) De Silva – Joseph Patrick.
 * 🪞 [Daily Mirror](data/2024-03-20/daily-mirror/2024-03-20-daily-mirror-efe11e5a.json) Schokman – Anthony Godfrey Francis
 * 🪞 [Daily Mirror](data/2024-03-20/daily-mirror/2024-03-20-daily-mirror-db72fba9.json) Wijeyaratne – Denzil Kingsley
 * 🪞 [Daily Mirror](data/2024-03-20/daily-mirror/2024-03-20-daily-mirror-d276571f.json) De Zilva – Ingrid Lynette.
 * 🪞 [Daily Mirror](data/2024-03-20/daily-mirror/2024-03-20-daily-mirror-b700941c.json) Vernon Fitzroy De Alwis
+* 🪞 [Daily Mirror](data/2024-03-20/daily-mirror/2024-03-20-daily-mirror-77d4786c.json) Dr. Gregory Camillus Pathinather
 * 🪞 [Daily Mirror](data/2024-03-20/daily-mirror/2024-03-20-daily-mirror-68b58527.json) Dr. Gregory Camillus Pathinather
 
 ##### 2024-03-19
