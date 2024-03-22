@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-22 08:36:07**.
+Last run at **2024-03-22 09:03:41**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (524)
+## List of Obituaries (527)
 
 ### 2024
 
@@ -19,6 +19,9 @@ Last run at **2024-03-22 08:36:07**.
 
 * 📰 [Daily News](data/2024-03-22/daily-news/2024-03-22-daily-news-a9ab6ad8.json) De Zilva – Patrick –
 * 📰 [Daily News](data/2024-03-22/daily-news/2024-03-22-daily-news-1a4b1563.json) Pathinather – Dr Gregory Camillus
+* 🪞 [Daily Mirror](data/2024-03-22/daily-mirror/2024-03-22-daily-mirror-fdd5a39e.json) De Zilva – Patrick
+* 🪞 [Daily Mirror](data/2024-03-22/daily-mirror/2024-03-22-daily-mirror-fc45345b.json) Ferdinandus - Cyrus Wilfred Bertram
+* 🪞 [Daily Mirror](data/2024-03-22/daily-mirror/2024-03-22-daily-mirror-77d4786c.json) Dr. Gregory Camillus Pathinather
 
 ##### 2024-03-21
 
