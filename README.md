@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-23 05:05:19**.
+Last run at **2024-03-23 05:43:22**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (527)
+## List of Obituaries (528)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-23
+
+* 📰 [Daily News](data/2024-03-23/daily-news/2024-03-23-daily-news-906457e8.json) De Zilva – Patrick
 
 ##### 2024-03-22
 
