@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-25 05:03:33**.
+Last run at **2024-03-25 05:42:05**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (528)
+## List of Obituaries (530)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-25
+
+* 📰 [Daily News](data/2024-03-25/daily-news/2024-03-25-daily-news-7e0670ae.json) Jayamanna – Dayanthi Nelunnika
+* 📰 [Daily News](data/2024-03-25/daily-news/2024-03-25-daily-news-05c7be37.json) Dorothy Conyta Perera Jayasekara
 
 ##### 2024-03-23
 
