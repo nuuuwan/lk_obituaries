@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-26 05:08:52**.
+Last run at **2024-03-26 05:44:19**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (534)
+## List of Obituaries (535)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-26
+
+* 📰 [Daily News](data/2024-03-26/daily-news/2024-03-26-daily-news-2d3645a2.json) Mr. Asoka Laxman Hettiarachchy
 
 ##### 2024-03-25
 
