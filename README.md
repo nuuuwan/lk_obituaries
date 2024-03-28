@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-28 09:34:16**.
+Last run at **2024-03-28 10:03:22**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (547)
+## List of Obituaries (549)
 
 ### 2024
 
@@ -30,7 +30,9 @@ Last run at **2024-03-28 09:34:16**.
 ##### 2024-03-26
 
 * 📰 [Daily News](data/2024-03-26/daily-news/2024-03-26-daily-news-2d3645a2.json) Mr. Asoka Laxman Hettiarachchy
+* 🪞 [Daily Mirror](data/2024-03-26/daily-mirror/2024-03-26-daily-mirror-e5dfc9db.json) Mahendranath Prathapa Wethasinghe
 * 🪞 [Daily Mirror](data/2024-03-26/daily-mirror/2024-03-26-daily-mirror-c1ef7e85.json) Ferdinandus - Cyrus Wilfred Bertram
+* 🪞 [Daily Mirror](data/2024-03-26/daily-mirror/2024-03-26-daily-mirror-74bb232b.json) Ananda Dasanayake
 * 🪞 [Daily Mirror](data/2024-03-26/daily-mirror/2024-03-26-daily-mirror-7425180c.json) Savundranayagam – Lourdes Mythily.
 
 ##### 2024-03-25
