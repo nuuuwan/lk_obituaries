@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-28 10:03:22**.
+Last run at **2024-03-28 10:35:44**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (549)
+## List of Obituaries (551)
 
 ### 2024
 
@@ -17,7 +17,9 @@ Last run at **2024-03-28 10:03:22**.
 
 ##### 2024-03-28
 
+* 🪞 [Daily Mirror](data/2024-03-28/daily-mirror/2024-03-28-daily-mirror-e5dfc9db.json) Mahendranath Prathapa Wethasinghe
 * 🪞 [Daily Mirror](data/2024-03-28/daily-mirror/2024-03-28-daily-mirror-8c1af67b.json) K.Ayesha Nuwanthi
+* 🪞 [Daily Mirror](data/2024-03-28/daily-mirror/2024-03-28-daily-mirror-74bb232b.json) Ananda Dasanayake
 
 ##### 2024-03-27
 
