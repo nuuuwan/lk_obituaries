@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-03-29 05:10:17**.
+Last run at **2024-03-29 05:52:33**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (551)
+## List of Obituaries (554)
 
 ### 2024
 
 #### 2024-03
+
+##### 2024-03-29
+
+* 📰 [Daily News](data/2024-03-29/daily-news/2024-03-29-daily-news-d774be59.json) Gunasekera – Dr Ananda Dias
+* 📰 [Daily News](data/2024-03-29/daily-news/2024-03-29-daily-news-6dcdb366.json) Senaratne – Olivia Chithrani (Nee Abayasekara)
+* 📰 [Daily News](data/2024-03-29/daily-news/2024-03-29-daily-news-01677a68.json) Fernando – Dakshini (Shini) Miranee (Nee Samaraweera)
 
 ##### 2024-03-28
 
