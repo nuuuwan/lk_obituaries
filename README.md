@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-01 12:03:44**.
+Last run at **2024-04-01 12:34:19**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (560)
+## List of Obituaries (561)
 
 ### 2024
 
@@ -30,6 +30,7 @@ Last run at **2024-04-01 12:03:44**.
 
 * 📰 [Daily News](data/2024-03-30/daily-news/2024-03-30-daily-news-ee9723df.json) Seneviratne – Maddumage Don Henry
 * 📰 [Daily News](data/2024-03-30/daily-news/2024-03-30-daily-news-e53570db.json) Gunasekera – Dr Ananda Dias
+* 🪞 [Daily Mirror](data/2024-03-30/daily-mirror/2024-03-30-daily-mirror-ebd9d78a.json) De Alwis – Gerald
 
 ##### 2024-03-29
 
