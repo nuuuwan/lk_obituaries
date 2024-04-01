@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-01 12:34:19**.
+Last run at **2024-04-01 13:03:29**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (561)
+## List of Obituaries (562)
 
 ### 2024
 
@@ -18,6 +18,7 @@ Last run at **2024-04-01 12:34:19**.
 ##### 2024-04-01
 
 * 📰 [Daily News](data/2024-04-01/daily-news/2024-04-01-daily-news-3be52513.json) De Alwis – Gerald
+* 🪞 [Daily Mirror](data/2024-04-01/daily-mirror/2024-04-01-daily-mirror-ebd9d78a.json) De Alwis – Gerald
 * 🪞 [Daily Mirror](data/2024-04-01/daily-mirror/2024-04-01-daily-mirror-2e26175f.json) De Alwis – Gerald (G.A.W.)
 
 #### 2024-03
