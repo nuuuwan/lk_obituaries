@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-02 05:03:20**.
+Last run at **2024-04-02 05:41:45**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (562)
+## List of Obituaries (564)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-02
+
+* 📰 [Daily News](data/2024-04-02/daily-news/2024-04-02-daily-news-f6e53271.json) Ranee Amaratunga (Nee Seneviratne)
+* 📰 [Daily News](data/2024-04-02/daily-news/2024-04-02-daily-news-d2947b3a.json) Fernando – Lion Bonniface
 
 ##### 2024-04-01
 
