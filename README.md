@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-02 10:06:01**.
+Last run at **2024-04-02 10:33:54**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (567)
+## List of Obituaries (570)
 
 ### 2024
 
@@ -33,7 +33,10 @@ Last run at **2024-04-02 10:06:01**.
 
 ##### 2024-03-31
 
+* 🪞 [Daily Mirror](data/2024-03-31/daily-mirror/2024-03-31-daily-mirror-fbe33395.json) Mr H. L. Piyasena.
 * 🪞 [Daily Mirror](data/2024-03-31/daily-mirror/2024-03-31-daily-mirror-ebd9d78a.json) De Alwis – Gerald
+* 🪞 [Daily Mirror](data/2024-03-31/daily-mirror/2024-03-31-daily-mirror-378d5dd6.json) De Zilva – Darrel.
+* 🪞 [Daily Mirror](data/2024-03-31/daily-mirror/2024-03-31-daily-mirror-360fc863.json) Amaratunga - Ranee (Nee Seneviratne).
 
 ##### 2024-03-30
 
