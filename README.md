@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-03 11:03:45**.
+Last run at **2024-04-03 11:35:11**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (577)
+## List of Obituaries (578)
 
 ### 2024
 
@@ -19,6 +19,7 @@ Last run at **2024-04-03 11:03:45**.
 
 * 📰 [Daily News](data/2024-04-03/daily-news/2024-04-03-daily-news-5c6c1fcb.json) Fernando – Lion Bonniface (Bonny)
 * 📰 [Daily News](data/2024-04-03/daily-news/2024-04-03-daily-news-326c33f7.json) Jayanthi Senaratne
+* 🪞 [Daily Mirror](data/2024-04-03/daily-mirror/2024-04-03-daily-mirror-217fac83.json) Senaratne – Jayanthi
 
 ##### 2024-04-02
 
