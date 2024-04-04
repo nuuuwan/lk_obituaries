@@ -1,6 +1,6 @@
 from functools import cached_property
 
-from utils import SECONDS_IN, Log, Time, TimeFormat
+from utils import TimeUnit, Log, Time, TimeFormat
 
 from lk_obituaries.Obituary import Obituary
 
@@ -27,8 +27,8 @@ class NewsPaper:
 
     @cached_property
     def time(self) -> Time:
-        ut = Time.now().ut - self.delta_days * SECONDS_IN.DAY
-        ut = int(ut / SECONDS_IN.DAY) * SECONDS_IN.DAY
+        ut = Time.now().ut - self.delta_days * TimeUnit.SECONDS_IN.DAY
+        ut = int(ut / TimeUnit.SECONDS_IN.DAY) * TimeUnit.SECONDS_IN.DAY
         return Time(ut)
 
     @cached_property
@@ -43,7 +43,7 @@ class NewsPaper:
     def get_first_delta_days(cls):
         obituary_list = Obituary.list_for_newspaper(cls.get_id())
         first_ut = obituary_list[-1].ut
-        return int((Time.now().ut - first_ut) / SECONDS_IN.DAY)
+        return int((Time.now().ut - first_ut) / TimeUnit.SECONDS_IN.DAY)
 
     def crawl(self):
         log.debug(

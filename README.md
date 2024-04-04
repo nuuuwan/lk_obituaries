@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-03 21:04:21**.
+Last run at **2024-04-04 11:06:44**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (578)
+## List of Obituaries (580)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-04
+
+* 📰 [Daily News](data/2024-04-04/daily-news/2024-04-04-daily-news-5f0bc016.json) Dias – Srinath Priantha
+* 🪞 [Daily Mirror](data/2024-04-04/daily-mirror/2024-04-04-daily-mirror-ddc4264b.json) Dias – Srinath Priantha,
 
 ##### 2024-04-03
 

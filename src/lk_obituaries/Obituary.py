@@ -2,7 +2,7 @@ import os
 from dataclasses import dataclass
 from functools import cached_property
 
-from utils import JSONFile, Log, Time, TimeFormat, hashx
+from utils import JSONFile, Log, Time, TimeFormat, Hash
 
 log = Log('Obituary')
 
@@ -37,7 +37,7 @@ class Obituary:
 
     @cached_property
     def md5(self) -> str:
-        return hashx.md5(str(self.to_dict_for_hash()))
+        return Hash.md5(str(self.to_dict_for_hash()))
 
     @staticmethod
     def from_dict(d) -> 'Obituary':
