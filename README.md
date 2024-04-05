@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-05 11:34:34**.
+Last run at **2024-04-05 12:04:32**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (585)
+## List of Obituaries (586)
 
 ### 2024
 
@@ -21,6 +21,7 @@ Last run at **2024-04-05 11:34:34**.
 * 📰 [Daily News](data/2024-04-05/daily-news/2024-04-05-daily-news-6131c1d9.json) Anandappa – Elsie (Nee Fernandopulle)
 * 📰 [Daily News](data/2024-04-05/daily-news/2024-04-05-daily-news-52fc01f2.json) Fernando – Dr. Bernard
 * 🪞 [Daily Mirror](data/2024-04-05/daily-mirror/2024-04-05-daily-mirror-5e07a907.json) Anandappa – Elsie (Nee Fernandopulle).
+* 🪞 [Daily Mirror](data/2024-04-05/daily-mirror/2024-04-05-daily-mirror-1c949a76.json) Dr.Bernard Fernando
 
 ##### 2024-04-04
 
