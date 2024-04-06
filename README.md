@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-06 05:12:27**.
+Last run at **2024-04-06 05:44:48**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (587)
+## List of Obituaries (589)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-06
+
+* 📰 [Daily News](data/2024-04-06/daily-news/2024-04-06-daily-news-21b84f37.json) Percy Balasuriya
+* 📰 [Daily News](data/2024-04-06/daily-news/2024-04-06-daily-news-20562f9b.json) Anandappa – Elsie (Nee Fernandopulle)
 
 ##### 2024-04-05
 
