@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-08 09:05:51**.
+Last run at **2024-04-08 09:34:58**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (593)
+## List of Obituaries (595)
 
 ### 2024
 
@@ -26,6 +26,8 @@ Last run at **2024-04-08 09:05:51**.
 
 * 📰 [Daily News](data/2024-04-06/daily-news/2024-04-06-daily-news-21b84f37.json) Percy Balasuriya
 * 📰 [Daily News](data/2024-04-06/daily-news/2024-04-06-daily-news-20562f9b.json) Anandappa – Elsie (Nee Fernandopulle)
+* 🪞 [Daily Mirror](data/2024-04-06/daily-mirror/2024-04-06-daily-mirror-86dc614b.json) Perera Magda
+* 🪞 [Daily Mirror](data/2024-04-06/daily-mirror/2024-04-06-daily-mirror-51fe556b.json) Gamage – Ranjit Vidura Gamage
 
 ##### 2024-04-05
 
