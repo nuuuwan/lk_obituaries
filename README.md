@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-08 05:03:42**.
+Last run at **2024-04-08 05:42:47**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (589)
+## List of Obituaries (591)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-08
+
+* 📰 [Daily News](data/2024-04-08/daily-news/2024-04-08-daily-news-570990f0.json) Nihal Jayasooriya
+* 📰 [Daily News](data/2024-04-08/daily-news/2024-04-08-daily-news-0e4577c4.json) Perera Magda
 
 ##### 2024-04-06
 
