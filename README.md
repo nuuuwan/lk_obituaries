@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-09 11:04:10**.
+Last run at **2024-04-09 11:36:37**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (606)
+## List of Obituaries (608)
 
 ### 2024
 
@@ -22,7 +22,9 @@ Last run at **2024-04-09 11:04:10**.
 * 📰 [Daily News](data/2024-04-09/daily-news/2024-04-09-daily-news-2571b33a.json) Ranjith Perera
 * 📰 [Daily News](data/2024-04-09/daily-news/2024-04-09-daily-news-0c1b5cfd.json) Fernando – Claudia Rosemary
 * 📰 [Daily News](data/2024-04-09/daily-news/2024-04-09-daily-news-09f41ec6.json) Wickramasinghe – Monica (Mona)
+* 🪞 [Daily Mirror](data/2024-04-09/daily-mirror/2024-04-09-daily-mirror-b7cf6ca3.json) Wickramasinghe – Monica (Mona).
 * 🪞 [Daily Mirror](data/2024-04-09/daily-mirror/2024-04-09-daily-mirror-a6df90e2.json) Gamage – Ranjith Vidura Gamage.
+* 🪞 [Daily Mirror](data/2024-04-09/daily-mirror/2024-04-09-daily-mirror-1c1e90cc.json) Ranjith H. Perera.
 
 ##### 2024-04-08
 
