@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-10 09:34:39**.
+Last run at **2024-04-10 10:05:32**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (614)
+## List of Obituaries (617)
 
 ### 2024
 
@@ -41,8 +41,11 @@ Last run at **2024-04-10 09:34:39**.
 * 📰 [Daily News](data/2024-04-08/daily-news/2024-04-08-daily-news-0e4577c4.json) Perera Magda
 * 🪞 [Daily Mirror](data/2024-04-08/daily-mirror/2024-04-08-daily-mirror-b7cf6ca3.json) Wickramasinghe – Monica (Mona).
 * 🪞 [Daily Mirror](data/2024-04-08/daily-mirror/2024-04-08-daily-mirror-a6df90e2.json) Gamage – Ranjith Vidura Gamage.
+* 🪞 [Daily Mirror](data/2024-04-08/daily-mirror/2024-04-08-daily-mirror-a4b4a931.json) Gamage – Ranjith Vidura Gamage
 * 🪞 [Daily Mirror](data/2024-04-08/daily-mirror/2024-04-08-daily-mirror-86dc614b.json) Perera Magda
+* 🪞 [Daily Mirror](data/2024-04-08/daily-mirror/2024-04-08-daily-mirror-69fa67ef.json) De Zoysa – Mario
 * 🪞 [Daily Mirror](data/2024-04-08/daily-mirror/2024-04-08-daily-mirror-51fe556b.json) Gamage – Ranjit Vidura Gamage
+* 🪞 [Daily Mirror](data/2024-04-08/daily-mirror/2024-04-08-daily-mirror-51d960bf.json) Ranjith H. Perera
 * 🪞 [Daily Mirror](data/2024-04-08/daily-mirror/2024-04-08-daily-mirror-1c1e90cc.json) Ranjith H. Perera.
 
 ##### 2024-04-07
