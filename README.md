@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-10 10:05:32**.
+Last run at **2024-04-10 10:35:31**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (617)
+## List of Obituaries (620)
 
 ### 2024
 
@@ -20,6 +20,9 @@ Last run at **2024-04-10 10:05:32**.
 * 📰 [Daily News](data/2024-04-10/daily-news/2024-04-10-daily-news-fb12a650.json) Ranjith Perera
 * 📰 [Daily News](data/2024-04-10/daily-news/2024-04-10-daily-news-685e1455.json) Gamage – Ranjith Vidura Gamage
 * 📰 [Daily News](data/2024-04-10/daily-news/2024-04-10-daily-news-243f8c8f.json) Sirikananathan – Mrs. Selvanayaki (Selvi
+* 🪞 [Daily Mirror](data/2024-04-10/daily-mirror/2024-04-10-daily-mirror-a4b4a931.json) Gamage – Ranjith Vidura Gamage
+* 🪞 [Daily Mirror](data/2024-04-10/daily-mirror/2024-04-10-daily-mirror-69fa67ef.json) De Zoysa – Mario
+* 🪞 [Daily Mirror](data/2024-04-10/daily-mirror/2024-04-10-daily-mirror-51d960bf.json) Ranjith H. Perera
 
 ##### 2024-04-09
 
