@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-11 05:04:39**.
+Last run at **2024-04-11 05:44:59**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (620)
+## List of Obituaries (622)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-11
+
+* 📰 [Daily News](data/2024-04-11/daily-news/2024-04-11-daily-news-b99f8b2e.json) Susila Saverimuttu
+* 📰 [Daily News](data/2024-04-11/daily-news/2024-04-11-daily-news-47f3f900.json) Wickramasinghe – Kumbukage Lakshmi (Nee Wimalasekera
 
 ##### 2024-04-10
 
