@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-12 05:04:32**.
+Last run at **2024-04-12 05:41:35**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (622)
+## List of Obituaries (623)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-12
+
+* 📰 [Daily News](data/2024-04-12/daily-news/2024-04-12-daily-news-db4d3376.json) Saverimuttu – Susila
 
 ##### 2024-04-11
 
