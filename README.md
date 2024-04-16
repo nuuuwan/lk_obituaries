@@ -2,18 +2,25 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-16 05:04:37**.
+Last run at **2024-04-16 05:43:48**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (623)
+## List of Obituaries (627)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-16
+
+* 📰 [Daily News](data/2024-04-16/daily-news/2024-04-16-daily-news-e1768950.json) Van
+* 📰 [Daily News](data/2024-04-16/daily-news/2024-04-16-daily-news-c904ff75.json) Sivaprakasam
+* 📰 [Daily News](data/2024-04-16/daily-news/2024-04-16-daily-news-6256563a.json) Gunawardena
+* 📰 [Daily News](data/2024-04-16/daily-news/2024-04-16-daily-news-11311066.json) De
 
 ##### 2024-04-12
 
