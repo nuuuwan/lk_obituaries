@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-16 10:34:33**.
+Last run at **2024-04-16 11:06:52**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (633)
+## List of Obituaries (636)
 
 ### 2024
 
@@ -21,6 +21,9 @@ Last run at **2024-04-16 10:34:33**.
 * 📰 [Daily News](data/2024-04-16/daily-news/2024-04-16-daily-news-c904ff75.json) Sivaprakasam
 * 📰 [Daily News](data/2024-04-16/daily-news/2024-04-16-daily-news-6256563a.json) Gunawardena
 * 📰 [Daily News](data/2024-04-16/daily-news/2024-04-16-daily-news-11311066.json) De
+* 🪞 [Daily Mirror](data/2024-04-16/daily-mirror/2024-04-16-daily-mirror-b947a0f7.json) Van Dort – Margery Eunice (Nee Atton).
+* 🪞 [Daily Mirror](data/2024-04-16/daily-mirror/2024-04-16-daily-mirror-7736259a.json) Our Heartfelt Condolences
+* 🪞 [Daily Mirror](data/2024-04-16/daily-mirror/2024-04-16-daily-mirror-34919127.json) Sivaprakasam – Esther.
 
 ##### 2024-04-15
 
