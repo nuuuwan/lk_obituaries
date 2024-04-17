@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-17 10:04:50**.
+Last run at **2024-04-17 10:38:57**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (639)
+## List of Obituaries (642)
 
 ### 2024
 
@@ -20,6 +20,7 @@ Last run at **2024-04-17 10:04:50**.
 * 📰 [Daily News](data/2024-04-17/daily-news/2024-04-17-daily-news-ea422a32.json) Sivaprakasam – Esther
 * 📰 [Daily News](data/2024-04-17/daily-news/2024-04-17-daily-news-a3074326.json) De Lima,​ Sheila
 * 📰 [Daily News](data/2024-04-17/daily-news/2024-04-17-daily-news-796c3d9e.json) Van Dort – Margery Eunice
+* 🪞 [Daily Mirror](data/2024-04-17/daily-mirror/2024-04-17-daily-mirror-ae26fcfd.json) Van Dort – Margery Eunice
 
 ##### 2024-04-16
 
@@ -27,7 +28,9 @@ Last run at **2024-04-17 10:04:50**.
 * 📰 [Daily News](data/2024-04-16/daily-news/2024-04-16-daily-news-c904ff75.json) Sivaprakasam
 * 📰 [Daily News](data/2024-04-16/daily-news/2024-04-16-daily-news-6256563a.json) Gunawardena
 * 📰 [Daily News](data/2024-04-16/daily-news/2024-04-16-daily-news-11311066.json) De
+* 🪞 [Daily Mirror](data/2024-04-16/daily-mirror/2024-04-16-daily-mirror-e58488e1.json) Sivaprakasam – Esther
 * 🪞 [Daily Mirror](data/2024-04-16/daily-mirror/2024-04-16-daily-mirror-b947a0f7.json) Van Dort – Margery Eunice (Nee Atton).
+* 🪞 [Daily Mirror](data/2024-04-16/daily-mirror/2024-04-16-daily-mirror-97aede9c.json) De Lima – Sheila (Nee Diaz).
 * 🪞 [Daily Mirror](data/2024-04-16/daily-mirror/2024-04-16-daily-mirror-7736259a.json) Our Heartfelt Condolences
 * 🪞 [Daily Mirror](data/2024-04-16/daily-mirror/2024-04-16-daily-mirror-34919127.json) Sivaprakasam – Esther.
 
