@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-17 05:04:41**.
+Last run at **2024-04-17 05:42:21**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (636)
+## List of Obituaries (639)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-17
+
+* 📰 [Daily News](data/2024-04-17/daily-news/2024-04-17-daily-news-ea422a32.json) Sivaprakasam – Esther
+* 📰 [Daily News](data/2024-04-17/daily-news/2024-04-17-daily-news-a3074326.json) De Lima,​ Sheila
+* 📰 [Daily News](data/2024-04-17/daily-news/2024-04-17-daily-news-796c3d9e.json) Van Dort – Margery Eunice
 
 ##### 2024-04-16
 
