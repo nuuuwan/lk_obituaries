@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-18 11:34:57**.
+Last run at **2024-04-18 12:12:23**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (651)
+## List of Obituaries (652)
 
 ### 2024
 
@@ -19,6 +19,7 @@ Last run at **2024-04-18 11:34:57**.
 
 * 📰 [Daily News](data/2024-04-18/daily-news/2024-04-18-daily-news-bedd5f6e.json) De Lima,​ Sheila
 * 📰 [Daily News](data/2024-04-18/daily-news/2024-04-18-daily-news-416f3f82.json) Ariyaratnam – Mary Angela
+* 🪞 [Daily Mirror](data/2024-04-18/daily-mirror/2024-04-18-daily-mirror-0378b695.json) De Lima – Sheila (Nee Diaz)
 
 ##### 2024-04-17
 
