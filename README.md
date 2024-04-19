@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-19 12:38:01**.
+Last run at **2024-04-19 13:07:28**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (657)
+## List of Obituaries (661)
 
 ### 2024
 
@@ -22,6 +22,10 @@ Last run at **2024-04-19 12:38:01**.
 * 📰 [Daily News](data/2024-04-19/daily-news/2024-04-19-daily-news-2d8f8714.json) Fernando – Anthony Carl
 * 📰 [Daily News](data/2024-04-19/daily-news/2024-04-19-daily-news-19751cd8.json) Ariyaratnam – Mary Angela
 * 📰 [Daily News](data/2024-04-19/daily-news/2024-04-19-daily-news-0ac72dcf.json) 40Th Death Anniversary 
+* 🪞 [Daily Mirror](data/2024-04-19/daily-mirror/2024-04-19-daily-mirror-b49e780a.json) Semage - Basiri Saranachandra
+* 🪞 [Daily Mirror](data/2024-04-19/daily-mirror/2024-04-19-daily-mirror-b0e80120.json) Mr. Nihal Bibile Witharana
+* 🪞 [Daily Mirror](data/2024-04-19/daily-mirror/2024-04-19-daily-mirror-93df88ca.json) Mr. Lakshman Ratnayake
+* 🪞 [Daily Mirror](data/2024-04-19/daily-mirror/2024-04-19-daily-mirror-463a9698.json) Fernando – Anthony Carl.
 
 ##### 2024-04-18
 
