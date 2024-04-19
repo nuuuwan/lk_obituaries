@@ -2,18 +2,26 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-19 05:08:41**.
+Last run at **2024-04-19 05:48:47**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (652)
+## List of Obituaries (657)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-19
+
+* 📰 [Daily News](data/2024-04-19/daily-news/2024-04-19-daily-news-e35a09ce.json) Totawatte – Dona Princy
+* 📰 [Daily News](data/2024-04-19/daily-news/2024-04-19-daily-news-5a0b5974.json) Basiri Saranachandra Semage.
+* 📰 [Daily News](data/2024-04-19/daily-news/2024-04-19-daily-news-2d8f8714.json) Fernando – Anthony Carl
+* 📰 [Daily News](data/2024-04-19/daily-news/2024-04-19-daily-news-19751cd8.json) Ariyaratnam – Mary Angela
+* 📰 [Daily News](data/2024-04-19/daily-news/2024-04-19-daily-news-0ac72dcf.json) 40Th Death Anniversary 
 
 ##### 2024-04-18
 
