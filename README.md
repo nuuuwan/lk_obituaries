@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-20 05:04:19**.
+Last run at **2024-04-20 05:43:42**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (661)
+## List of Obituaries (663)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-20
+
+* 📰 [Daily News](data/2024-04-20/daily-news/2024-04-20-daily-news-2fa71564.json) Kulatunga – Nimal
+* 📰 [Daily News](data/2024-04-20/daily-news/2024-04-20-daily-news-1abf41a4.json) Fernando – Anthony Carl.
 
 ##### 2024-04-19
 
