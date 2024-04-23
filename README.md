@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-23 05:04:10**.
+Last run at **2024-04-23 05:42:34**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (668)
+## List of Obituaries (669)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-23
+
+* 📰 [Daily News](data/2024-04-23/daily-news/2024-04-23-daily-news-ae7ceaee.json) Perera – Mr. Ranoj
 
 ##### 2024-04-22
 
