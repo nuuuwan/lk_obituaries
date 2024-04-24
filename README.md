@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-24 11:42:56**.
+Last run at **2024-04-24 12:09:01**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (669)
+## List of Obituaries (671)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-24
+
+* 🪞 [Daily Mirror](data/2024-04-24/daily-mirror/2024-04-24-daily-mirror-f636c330.json) Mr.Ranoj Perera
+* 🪞 [Daily Mirror](data/2024-04-24/daily-mirror/2024-04-24-daily-mirror-bdfe58bc.json) Naranpanawa – Mrs. Kusuma Kumarihami.
 
 ##### 2024-04-23
 
