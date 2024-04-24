@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-24 12:09:01**.
+Last run at **2024-04-24 12:36:22**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (671)
+## List of Obituaries (673)
 
 ### 2024
 
@@ -23,9 +23,11 @@ Last run at **2024-04-24 12:09:01**.
 ##### 2024-04-23
 
 * 📰 [Daily News](data/2024-04-23/daily-news/2024-04-23-daily-news-ae7ceaee.json) Perera – Mr. Ranoj
+* 🪞 [Daily Mirror](data/2024-04-23/daily-mirror/2024-04-23-daily-mirror-bdfe58bc.json) Naranpanawa – Mrs. Kusuma Kumarihami.
 
 ##### 2024-04-22
 
+* 🪞 [Daily Mirror](data/2024-04-22/daily-mirror/2024-04-22-daily-mirror-f636c330.json) Mr.Ranoj Perera
 * 🪞 [Daily Mirror](data/2024-04-22/daily-mirror/2024-04-22-daily-mirror-ca3860a1.json) Jayamaha – Srilal Gerard
 * 🪞 [Daily Mirror](data/2024-04-22/daily-mirror/2024-04-22-daily-mirror-692b6887.json) Perera Gunawarnawaduge Adolphus Ranjit
 
