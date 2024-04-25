@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-25 12:23:05**.
+Last run at **2024-04-25 12:51:33**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (673)
+## List of Obituaries (674)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-25
+
+* 📰 [Daily News](data/2024-04-25/daily-news/2024-04-25-daily-news-c829e33e.json) Rest In Peace
 
 ##### 2024-04-24
 
