@@ -2,22 +2,27 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-26 09:54:40**.
+Last run at **2024-04-26 10:29:15**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (674)
+## List of Obituaries (676)
 
 ### 2024
 
 #### 2024-04
 
+##### 2024-04-26
+
+* 🪞 [Daily Mirror](data/2024-04-26/daily-mirror/2024-04-26-daily-mirror-2d58d084.json) Nalliah – Mrs. Jessie
+
 ##### 2024-04-25
 
 * 📰 [Daily News](data/2024-04-25/daily-news/2024-04-25-daily-news-c829e33e.json) Rest In Peace
+* 🪞 [Daily Mirror](data/2024-04-25/daily-mirror/2024-04-25-daily-mirror-4dac73e0.json) Mr Prema Cooray
 
 ##### 2024-04-24
 
