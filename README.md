@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-26 11:00:17**.
+Last run at **2024-04-26 11:30:52**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (679)
+## List of Obituaries (681)
 
 ### 2024
 
@@ -18,6 +18,7 @@ Last run at **2024-04-26 11:00:17**.
 ##### 2024-04-26
 
 * 🪞 [Daily Mirror](data/2024-04-26/daily-mirror/2024-04-26-daily-mirror-ec813d5b.json) Mr Graetian Kingsly Gunawardhana
+* 🪞 [Daily Mirror](data/2024-04-26/daily-mirror/2024-04-26-daily-mirror-4dac73e0.json) Mr Prema Cooray
 * 🪞 [Daily Mirror](data/2024-04-26/daily-mirror/2024-04-26-daily-mirror-2d58d084.json) Nalliah – Mrs. Jessie
 * 🪞 [Daily Mirror](data/2024-04-26/daily-mirror/2024-04-26-daily-mirror-1e942e92.json) Salinda Calistus Dharmaratna
 
@@ -31,6 +32,7 @@ Last run at **2024-04-26 11:00:17**.
 * 🪞 [Daily Mirror](data/2024-04-24/daily-mirror/2024-04-24-daily-mirror-f636c330.json) Mr.Ranoj Perera
 * 🪞 [Daily Mirror](data/2024-04-24/daily-mirror/2024-04-24-daily-mirror-bdfe58bc.json) Naranpanawa – Mrs. Kusuma Kumarihami.
 * 🪞 [Daily Mirror](data/2024-04-24/daily-mirror/2024-04-24-daily-mirror-4dac73e0.json) Mr Prema Cooray
+* 🪞 [Daily Mirror](data/2024-04-24/daily-mirror/2024-04-24-daily-mirror-1e942e92.json) Salinda Calistus Dharmaratna
 
 ##### 2024-04-23
 
