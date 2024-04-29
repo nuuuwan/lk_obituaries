@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-04-29 05:03:28**.
+Last run at **2024-04-29 05:42:54**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (682)
+## List of Obituaries (683)
 
 ### 2024
 
 #### 2024-04
+
+##### 2024-04-29
+
+* 📰 [Daily News](data/2024-04-29/daily-news/2024-04-29-daily-news-2b553f91.json) Brigadier W.K. Nanayakkara
 
 ##### 2024-04-27
 
