@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-02 09:34:46**.
+Last run at **2024-05-02 10:06:41**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (694)
+## List of Obituaries (697)
 
 ### 2024
 
@@ -36,6 +36,9 @@ Last run at **2024-05-02 09:34:46**.
 
 * 📰 [Daily News](data/2024-04-30/daily-news/2024-04-30-daily-news-770a45f6.json) Aluwihare – Dona
 * 📰 [Daily News](data/2024-04-30/daily-news/2024-04-30-daily-news-2831f73c.json) Rodrigo – Candappa – James Noel
+* 🪞 [Daily Mirror](data/2024-04-30/daily-mirror/2024-04-30-daily-mirror-d173a9e6.json) Mendis – Tony
+* 🪞 [Daily Mirror](data/2024-04-30/daily-mirror/2024-04-30-daily-mirror-a54fc10b.json) Wilson – Christopher Surendran
+* 🪞 [Daily Mirror](data/2024-04-30/daily-mirror/2024-04-30-daily-mirror-2307a410.json) Aziz – Al Haj Ifthikhar
 
 ##### 2024-04-29
 
