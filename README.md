@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-02 10:06:41**.
+Last run at **2024-05-02 10:35:23**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (697)
+## List of Obituaries (700)
 
 ### 2024
 
@@ -20,6 +20,9 @@ Last run at **2024-05-02 10:06:41**.
 * 📰 [Daily News](data/2024-05-02/daily-news/2024-05-02-daily-news-e7d8fca4.json) Mendis – Tony
 * 📰 [Daily News](data/2024-05-02/daily-news/2024-05-02-daily-news-adf585c0.json) Wilson – Christopher Surendran
 * 📰 [Daily News](data/2024-05-02/daily-news/2024-05-02-daily-news-3c7cdaea.json) Chitra Ellan Mendis
+* 🪞 [Daily Mirror](data/2024-05-02/daily-mirror/2024-05-02-daily-mirror-d173a9e6.json) Mendis – Tony
+* 🪞 [Daily Mirror](data/2024-05-02/daily-mirror/2024-05-02-daily-mirror-a54fc10b.json) Wilson – Christopher Surendran
+* 🪞 [Daily Mirror](data/2024-05-02/daily-mirror/2024-05-02-daily-mirror-2307a410.json) Aziz – Al Haj Ifthikhar
 
 ##### 2024-05-01
 
