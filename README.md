@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-03 11:06:18**.
+Last run at **2024-05-03 11:36:00**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (701)
+## List of Obituaries (702)
 
 ### 2024
 
@@ -18,6 +18,7 @@ Last run at **2024-05-03 11:06:18**.
 ##### 2024-05-03
 
 * 📰 [Daily News](data/2024-05-03/daily-news/2024-05-03-daily-news-e1db516f.json) Wickramasinghe – S.Y.R.S. (Ramya) (Nee Senevirathne) –
+* 🪞 [Daily Mirror](data/2024-05-03/daily-mirror/2024-05-03-daily-mirror-f6460423.json) Mrs. Sumedha Dissanayake
 
 ##### 2024-05-02
 
