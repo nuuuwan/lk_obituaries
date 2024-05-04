@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-04 05:03:38**.
+Last run at **2024-05-04 05:45:03**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (702)
+## List of Obituaries (703)
 
 ### 2024
 
 #### 2024-05
+
+##### 2024-05-04
+
+* 📰 [Daily News](data/2024-05-04/daily-news/2024-05-04-daily-news-d5c18a61.json) Rev. Fr. Marcus Boniface Mendis
 
 ##### 2024-05-03
 
