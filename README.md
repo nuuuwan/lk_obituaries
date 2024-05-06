@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-06 05:04:37**.
+Last run at **2024-05-06 05:44:26**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (703)
+## List of Obituaries (704)
 
 ### 2024
 
 #### 2024-05
+
+##### 2024-05-06
+
+* 📰 [Daily News](data/2024-05-06/daily-news/2024-05-06-daily-news-7b8b75fd.json) Nanayakkara – Eva
 
 ##### 2024-05-04
 
