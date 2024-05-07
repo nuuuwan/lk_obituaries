@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-07 05:03:52**.
+Last run at **2024-05-07 05:43:42**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (704)
+## List of Obituaries (706)
 
 ### 2024
 
 #### 2024-05
+
+##### 2024-05-07
+
+* 📰 [Daily News](data/2024-05-07/daily-news/2024-05-07-daily-news-38e97783.json) Subasinghe – Mrs. Dias
+* 📰 [Daily News](data/2024-05-07/daily-news/2024-05-07-daily-news-05190a71.json) Goonetilleke – Padma
 
 ##### 2024-05-06
 
