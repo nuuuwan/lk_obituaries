@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-09 13:06:02**.
+Last run at **2024-05-09 13:38:08**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (707)
+## List of Obituaries (708)
 
 ### 2024
 
 #### 2024-05
+
+##### 2024-05-09
+
+* 🪞 [Daily Mirror](data/2024-05-09/daily-mirror/2024-05-09-daily-mirror-b3299651.json) M Dharmadasa Silva
 
 ##### 2024-05-08
 
