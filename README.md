@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-10 14:36:58**.
+Last run at **2024-05-10 15:13:19**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (708)
+## List of Obituaries (710)
 
 ### 2024
 
@@ -18,6 +18,8 @@ Last run at **2024-05-10 14:36:58**.
 ##### 2024-05-09
 
 * 🪞 [Daily Mirror](data/2024-05-09/daily-mirror/2024-05-09-daily-mirror-b3299651.json) M Dharmadasa Silva
+* 🪞 [Daily Mirror](data/2024-05-09/daily-mirror/2024-05-09-daily-mirror-6bc59d72.json) Perumal - Marian Ridley
+* 🪞 [Daily Mirror](data/2024-05-09/daily-mirror/2024-05-09-daily-mirror-15789596.json) Mrs. Tillekeratne – Elizabeth Rose
 
 ##### 2024-05-08
 
