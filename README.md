@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-11 05:03:53**.
+Last run at **2024-05-11 05:43:10**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (713)
+## List of Obituaries (714)
 
 ### 2024
 
 #### 2024-05
+
+##### 2024-05-11
+
+* 📰 [Daily News](data/2024-05-11/daily-news/2024-05-11-daily-news-66ef27c3.json) De Silva Palitha
 
 ##### 2024-05-10
 
