@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-13 11:08:55**.
+Last run at **2024-05-13 11:37:18**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (715)
+## List of Obituaries (716)
 
 ### 2024
 
@@ -18,6 +18,10 @@ Last run at **2024-05-13 11:08:55**.
 ##### 2024-05-13
 
 * 📰 [Daily News](data/2024-05-13/daily-news/2024-05-13-daily-news-3dc70d70.json) David – Bridget – 
+
+##### 2024-05-12
+
+* 🪞 [Daily Mirror](data/2024-05-12/daily-mirror/2024-05-12-daily-mirror-fbeed6a8.json) Mr. Edward Gunawardena.
 
 ##### 2024-05-11
 
