@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-14 08:48:49**.
+Last run at **2024-05-14 09:11:31**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (722)
+## List of Obituaries (723)
 
 ### 2024
 
@@ -19,6 +19,7 @@ Last run at **2024-05-14 08:48:49**.
 
 * 📰 [Daily News](data/2024-05-14/daily-news/2024-05-14-daily-news-eea80256.json) Anandappa
 * 📰 [Daily News](data/2024-05-14/daily-news/2024-05-14-daily-news-516620ce.json) Dirckze
+* 🪞 [Daily Mirror](data/2024-05-14/daily-mirror/2024-05-14-daily-mirror-30f89497.json) Bede L – Anandappa 103 Years Old
 
 ##### 2024-05-13
 
