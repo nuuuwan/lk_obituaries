@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-14 07:46:38**.
+Last run at **2024-05-14 08:10:53**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (720)
+## List of Obituaries (721)
 
 ### 2024
 
@@ -24,6 +24,7 @@ Last run at **2024-05-14 07:46:38**.
 
 * 📰 [Daily News](data/2024-05-13/daily-news/2024-05-13-daily-news-3dc70d70.json) David – Bridget – 
 * 🪞 [Daily Mirror](data/2024-05-13/daily-mirror/2024-05-13-daily-mirror-fbeed6a8.json) Mr. Edward Gunawardena.
+* 🪞 [Daily Mirror](data/2024-05-13/daily-mirror/2024-05-13-daily-mirror-30f89497.json) Bede L – Anandappa 103 Years Old
 
 ##### 2024-05-12
 
