@@ -2,18 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-15 05:07:18**.
+Last run at **2024-05-15 05:49:56**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (723)
+## List of Obituaries (725)
 
 ### 2024
 
 #### 2024-05
+
+##### 2024-05-15
+
+* 📰 [Daily News](data/2024-05-15/daily-news/2024-05-15-daily-news-89c05a39.json) Wijayarathne
+* 📰 [Daily News](data/2024-05-15/daily-news/2024-05-15-daily-news-79b7c3b1.json) Anandappa
 
 ##### 2024-05-14
 
