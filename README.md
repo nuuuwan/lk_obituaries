@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-16 12:38:12**.
+Last run at **2024-05-16 13:07:42**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (726)
+## List of Obituaries (727)
 
 ### 2024
 
@@ -18,6 +18,7 @@ Last run at **2024-05-16 12:38:12**.
 ##### 2024-05-16
 
 * 📰 [Daily News](data/2024-05-16/daily-news/2024-05-16-daily-news-b05d8cae.json) Dr Vincent Joseph Marius,​ Peiris
+* 🪞 [Daily Mirror](data/2024-05-16/daily-mirror/2024-05-16-daily-mirror-5fbb29fa.json) Rev. Dr. Vincent Joseph Marius Peiris
 
 ##### 2024-05-15
 
