@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-17 11:39:54**.
+Last run at **2024-05-17 12:06:57**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (732)
+## List of Obituaries (734)
 
 ### 2024
 
@@ -20,6 +20,8 @@ Last run at **2024-05-17 11:39:54**.
 * 📰 [Daily News](data/2024-05-17/daily-news/2024-05-17-daily-news-e16cba28.json) Keegel – Charles Oswald Richard (Richie)
 * 📰 [Daily News](data/2024-05-17/daily-news/2024-05-17-daily-news-d8959e13.json) De Zoysa – Evelyn Madonna (Nee Macintyre)
 * 🪞 [Daily Mirror](data/2024-05-17/daily-mirror/2024-05-17-daily-mirror-d36154fd.json) De Zoysa – Evelyn Madonna (Nee Macintyre).
+* 🪞 [Daily Mirror](data/2024-05-17/daily-mirror/2024-05-17-daily-mirror-bdbe1191.json) Keegel – Charles Oswald Richard (Richie)
+* 🪞 [Daily Mirror](data/2024-05-17/daily-mirror/2024-05-17-daily-mirror-68ecfca0.json) Nissanka .M. Ediriwira
 
 ##### 2024-05-16
 
