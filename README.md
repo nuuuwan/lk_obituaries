@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-17 10:34:05**.
+Last run at **2024-05-17 11:39:54**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (729)
+## List of Obituaries (732)
 
 ### 2024
 
@@ -19,16 +19,19 @@ Last run at **2024-05-17 10:34:05**.
 
 * 📰 [Daily News](data/2024-05-17/daily-news/2024-05-17-daily-news-e16cba28.json) Keegel – Charles Oswald Richard (Richie)
 * 📰 [Daily News](data/2024-05-17/daily-news/2024-05-17-daily-news-d8959e13.json) De Zoysa – Evelyn Madonna (Nee Macintyre)
+* 🪞 [Daily Mirror](data/2024-05-17/daily-mirror/2024-05-17-daily-mirror-d36154fd.json) De Zoysa – Evelyn Madonna (Nee Macintyre).
 
 ##### 2024-05-16
 
 * 📰 [Daily News](data/2024-05-16/daily-news/2024-05-16-daily-news-b05d8cae.json) Dr Vincent Joseph Marius,​ Peiris
+* 🪞 [Daily Mirror](data/2024-05-16/daily-mirror/2024-05-16-daily-mirror-68ecfca0.json) Nissanka .M. Ediriwira
 * 🪞 [Daily Mirror](data/2024-05-16/daily-mirror/2024-05-16-daily-mirror-5fbb29fa.json) Rev. Dr. Vincent Joseph Marius Peiris
 
 ##### 2024-05-15
 
 * 📰 [Daily News](data/2024-05-15/daily-news/2024-05-15-daily-news-89c05a39.json) Wijayarathne
 * 📰 [Daily News](data/2024-05-15/daily-news/2024-05-15-daily-news-79b7c3b1.json) Anandappa
+* 🪞 [Daily Mirror](data/2024-05-15/daily-mirror/2024-05-15-daily-mirror-bdbe1191.json) Keegel – Charles Oswald Richard (Richie)
 
 ##### 2024-05-14
 
