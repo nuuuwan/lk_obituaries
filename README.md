@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-20 09:08:26**.
+Last run at **2024-05-20 10:06:59**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (739)
+## List of Obituaries (740)
 
 ### 2024
 
@@ -25,6 +25,7 @@ Last run at **2024-05-20 09:08:26**.
 
 * 📰 [Daily News](data/2024-05-18/daily-news/2024-05-18-daily-news-f64858d1.json) De Zoysa – Evelyn Madonna (Nee Macintyre)
 * 📰 [Daily News](data/2024-05-18/daily-news/2024-05-18-daily-news-80d6c51a.json) Chelliah Sivanesan (Kingsly
+* 🪞 [Daily Mirror](data/2024-05-18/daily-mirror/2024-05-18-daily-mirror-6e6bddad.json) Mr. M. Puspanathen
 
 ##### 2024-05-17
 
