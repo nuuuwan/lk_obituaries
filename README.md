@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-20 10:06:59**.
+Last run at **2024-05-20 10:35:13**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (740)
+## List of Obituaries (741)
 
 ### 2024
 
@@ -20,6 +20,7 @@ Last run at **2024-05-20 10:06:59**.
 * 📰 [Daily News](data/2024-05-20/daily-news/2024-05-20-daily-news-d05a85ab.json) Mahalakshmi
 * 📰 [Daily News](data/2024-05-20/daily-news/2024-05-20-daily-news-59c460bf.json) Fernando – Leela
 * 📰 [Daily News](data/2024-05-20/daily-news/2024-05-20-daily-news-41fda6b4.json) Amerasekera
+* 🪞 [Daily Mirror](data/2024-05-20/daily-mirror/2024-05-20-daily-mirror-6e6bddad.json) Mr. M. Puspanathen
 
 ##### 2024-05-18
 
