@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-21 11:02:53**.
+Last run at **2024-05-21 11:34:30**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (742)
+## List of Obituaries (743)
 
 ### 2024
 
 #### 2024-05
+
+##### 2024-05-21
+
+* 🪞 [Daily Mirror](data/2024-05-21/daily-mirror/2024-05-21-daily-mirror-acbc5d0f.json) Mr. Herman Amerasekara
 
 ##### 2024-05-20
 
