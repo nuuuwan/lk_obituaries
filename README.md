@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-27 08:33:43**.
+Last run at **2024-05-27 09:04:35**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (749)
+## List of Obituaries (752)
 
 ### 2024
 
 #### 2024-05
+
+##### 2024-05-27
+
+* 🪞 [Daily Mirror](data/2024-05-27/daily-mirror/2024-05-27-daily-mirror-4226c793.json) Fernando – Shivani (Nee Wijeratne)
+* 🪞 [Daily Mirror](data/2024-05-27/daily-mirror/2024-05-27-daily-mirror-227bcb49.json) Samarasinghe – Makevitage Dasarath.
+* 🪞 [Daily Mirror](data/2024-05-27/daily-mirror/2024-05-27-daily-mirror-16ff1c14.json) Werapitiya Sujatha
 
 ##### 2024-05-26
 
