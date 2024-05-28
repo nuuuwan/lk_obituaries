@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-28 09:34:48**.
+Last run at **2024-05-28 10:05:14**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (757)
+## List of Obituaries (759)
 
 ### 2024
 
@@ -17,6 +17,8 @@ Last run at **2024-05-28 09:34:48**.
 
 ##### 2024-05-28
 
+* 🪞 [Daily Mirror](data/2024-05-28/daily-mirror/2024-05-28-daily-mirror-b9584cad.json) Gamage – Athula. Beloved Son Of Late J.G. Jinadasa
+* 🪞 [Daily Mirror](data/2024-05-28/daily-mirror/2024-05-28-daily-mirror-763d0b0c.json) Sujeewa Nugawila
 * 🪞 [Daily Mirror](data/2024-05-28/daily-mirror/2024-05-28-daily-mirror-65c1c440.json) Jayamaha – Rohan
 
 ##### 2024-05-27
