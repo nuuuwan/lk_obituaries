@@ -2,18 +2,24 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-29 10:04:21**.
+Last run at **2024-05-29 10:34:33**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (765)
+## List of Obituaries (768)
 
 ### 2024
 
 #### 2024-05
+
+##### 2024-05-29
+
+* 🪞 [Daily Mirror](data/2024-05-29/daily-mirror/2024-05-29-daily-mirror-f9dfd03a.json) Jayamaha – Rohan
+* 🪞 [Daily Mirror](data/2024-05-29/daily-mirror/2024-05-29-daily-mirror-9268ba4c.json) Gamage – Athula
+* 🪞 [Daily Mirror](data/2024-05-29/daily-mirror/2024-05-29-daily-mirror-060b70f3.json) Poorni Kiridena
 
 ##### 2024-05-28
 
