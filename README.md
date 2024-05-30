@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-30 09:34:43**.
+Last run at **2024-05-30 10:05:19**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (768)
+## List of Obituaries (769)
 
 ### 2024
 
@@ -28,6 +28,7 @@ Last run at **2024-05-30 09:34:43**.
 * 🪞 [Daily Mirror](data/2024-05-28/daily-mirror/2024-05-28-daily-mirror-9268ba4c.json) Gamage – Athula
 * 🪞 [Daily Mirror](data/2024-05-28/daily-mirror/2024-05-28-daily-mirror-763d0b0c.json) Sujeewa Nugawila
 * 🪞 [Daily Mirror](data/2024-05-28/daily-mirror/2024-05-28-daily-mirror-65c1c440.json) Jayamaha – Rohan
+* 🪞 [Daily Mirror](data/2024-05-28/daily-mirror/2024-05-28-daily-mirror-544ea2bc.json) Mr. George Russell Layton Bartholomeusz
 * 🪞 [Daily Mirror](data/2024-05-28/daily-mirror/2024-05-28-daily-mirror-060b70f3.json) Poorni Kiridena
 
 ##### 2024-05-27
