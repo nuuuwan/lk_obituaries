@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-30 10:05:19**.
+Last run at **2024-05-30 10:33:24**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (769)
+## List of Obituaries (770)
 
 ### 2024
 
 #### 2024-05
+
+##### 2024-05-30
+
+* 🪞 [Daily Mirror](data/2024-05-30/daily-mirror/2024-05-30-daily-mirror-544ea2bc.json) Mr. George Russell Layton Bartholomeusz
 
 ##### 2024-05-29
 
