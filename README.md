@@ -2,14 +2,14 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-05-31 09:33:44**.
+Last run at **2024-05-31 10:03:54**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (773)
+## List of Obituaries (776)
 
 ### 2024
 
@@ -25,7 +25,10 @@ Last run at **2024-05-31 09:33:44**.
 ##### 2024-05-29
 
 * 🪞 [Daily Mirror](data/2024-05-29/daily-mirror/2024-05-29-daily-mirror-f9dfd03a.json) Jayamaha – Rohan
+* 🪞 [Daily Mirror](data/2024-05-29/daily-mirror/2024-05-29-daily-mirror-d23c9b99.json) Navaratnam – Vimala (Maizie) (1934 – 2024)
 * 🪞 [Daily Mirror](data/2024-05-29/daily-mirror/2024-05-29-daily-mirror-9268ba4c.json) Gamage – Athula
+* 🪞 [Daily Mirror](data/2024-05-29/daily-mirror/2024-05-29-daily-mirror-3c461e3f.json) Dr. Nanayakkara S.F.R. (Felix)
+* 🪞 [Daily Mirror](data/2024-05-29/daily-mirror/2024-05-29-daily-mirror-37fa871a.json) Gomez – Rosanne.
 * 🪞 [Daily Mirror](data/2024-05-29/daily-mirror/2024-05-29-daily-mirror-060b70f3.json) Poorni Kiridena
 
 ##### 2024-05-28
