@@ -2,22 +2,27 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-06-04 09:33:55**.
+Last run at **2024-06-04 10:03:13**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (784)
+## List of Obituaries (786)
 
 ### 2024
 
 #### 2024-06
 
+##### 2024-06-04
+
+* 🪞 [Daily Mirror](data/2024-06-04/daily-mirror/2024-06-04-daily-mirror-370f5381.json) Yvonne Jayasuriya
+
 ##### 2024-06-03
 
 * 🪞 [Daily Mirror](data/2024-06-03/daily-mirror/2024-06-03-daily-mirror-bc70d157.json) Mary Theresa Sebastiampillai
+* 🪞 [Daily Mirror](data/2024-06-03/daily-mirror/2024-06-03-daily-mirror-961bc0fe.json) Fernando – Mithraka (M.B.C)
 * 🪞 [Daily Mirror](data/2024-06-03/daily-mirror/2024-06-03-daily-mirror-37c61824.json) Philomena Dorothy Sarojini Nicholas
 
 ##### 2024-06-02
