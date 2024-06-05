@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-06-05 08:08:42**.
+Last run at **2024-06-05 08:34:45**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (789)
+## List of Obituaries (790)
 
 ### 2024
 
 #### 2024-06
+
+##### 2024-06-05
+
+* 🪞 [Daily Mirror](data/2024-06-05/daily-mirror/2024-06-05-daily-mirror-214bdeac.json) De Mel – Ranjani (Nee Jayasuriya)
 
 ##### 2024-06-04
 
