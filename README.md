@@ -2,18 +2,22 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2024-06-11 10:34:28**.
+Last run at **2024-06-11 11:03:09**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (793)
+## List of Obituaries (794)
 
 ### 2024
 
 #### 2024-06
+
+##### 2024-06-11
+
+* 🪞 [Daily Mirror](data/2024-06-11/daily-mirror/2024-06-11-daily-mirror-9f643ce4.json) Jayasinghe – Savitri.
 
 ##### 2024-06-10
 
