@@ -31,8 +31,10 @@ class DailyMirror(NewsPaper):
         obituary_list = []
         for div in div_list:
             h3 = div.find('h3')
-            p = div.find_all('p')[1]
-
+            ps = div.find_all('p')
+            if len(ps) <= 1:
+                continue
+            p = ps[1]
             span_gtime = div.find('span', class_='gtime')
             time_str = span_gtime.text.strip()
             if time_str.lower().endswith('ago'):
