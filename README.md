@@ -2,14 +2,23 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2025-02-05 10:06:09**.
+Last run at **2025-02-05 10:45:24**.
 
 ## Sources
 
 * 🪞 [Daily Mirror](https://www.dailymirror.lk/obituaries/378/)
 * 📰 [Daily News](https://www.dailynews.lk)
 
-## List of Obituaries (794)
+## List of Obituaries (796)
+
+### 2025
+
+#### 2025-02
+
+##### 2025-02-05
+
+* 📰 [Daily News](data/2025-02-05/daily-news/2025-02-05-daily-news-f9019bb5.json) Unamboowe – (Nee De Alwis) Helene Marina,
+* 📰 [Daily News](data/2025-02-05/daily-news/2025-02-05-daily-news-790d48bd.json) Daniel Claude
 
 ### 2024
 
