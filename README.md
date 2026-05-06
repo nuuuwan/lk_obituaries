@@ -2,7 +2,7 @@
 
 Crawls data about Obituaries in Sri Lanka.
 
-Last run at **2026-05-06 07:05:43**.
+Last run at **2026-05-06 08:36:45**.
 
 ## Sources
 
